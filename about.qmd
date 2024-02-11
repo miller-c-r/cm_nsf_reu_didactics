@@ -1,6 +1,6 @@
 ---
-title: "C. Miller is a Senior and Psychology Major at Brooklyn College with an interest in Cognition" 
-image: "jubb_hpa_axis.png"
+title: " About C. Miller " 
+image: "patho_anx.jpeg"
 about:
   template: trestles
   links:
@@ -10,4 +10,6 @@ about:
 ---
 
 ## C Miller's 2024 NSF Psychology / Neuroscience REU Student Website
-#### CUNY Brooklyn College
+## CUNY Brooklyn College
+
+#### C. Miller is a Senior and Psychology Major at Brooklyn College with an interest in Cognition

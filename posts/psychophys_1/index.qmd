@@ -1,9 +1,23 @@
 ---
 title: "Biopsychosocial Interactions"
 
-image: "jubb_hpa_axis.png"
+
+image: "patho_anx.jpeg"
 ---
 
-## An Undergrad Presentation 
+## An Undergrad Presentation
 
 ### Mentorship in the CUNY Brooklyn Psychophysiology Lab
+
+
+
+The image source: [https://journals.sagepub.com/doi/full/10.1177/2398212820930321](The role of the locus coeruleus in the generation of pathological anxiety)
+
+## An Undergrad Presentation
+
+### Mentorship in the CUNY Brooklyn Psychophysiology Lab
+
+
+#### REFERENCES
+
+Morris LS, McCall JG, Charney DS, Murrough JW. The role of the locus coeruleus in the generation of pathological anxiety. Brain and Neuroscience Advances. 2020;4. doi:10.1177/2398212820930321
