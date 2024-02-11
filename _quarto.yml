@@ -3,16 +3,17 @@ project:
   output-dir: docs
   resources:
     - "img_cm/"
+    - "articles"
 website:
   title: "CUNY Brooklyn Undergrad Psych REU 2024: C Miller"
   navbar:
     left:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/miller-c-r
 format:
   html:
-    theme: lux
+    theme: sketchy
     css: styles.css
 
 editor: visual

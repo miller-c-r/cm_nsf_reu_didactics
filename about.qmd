@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "C. Miller is a Senior and Psychology Major at Brooklyn College with an interest in Cognition" 
 image: "jubb_hpa_axis.png"
 about:
   template: trestles
   links:
     - icon: github
-      text: Github
-      href: https://github.com
+      text: C. MILLER'S GITHUB
+      href: https://github.com/miller-c-r
 ---
 
 ## C Miller's 2024 NSF Psychology / Neuroscience REU Student Website
