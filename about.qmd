@@ -5,11 +5,12 @@ about:
   template: trestles
   links:
     - icon: github
-      text: C. MILLER'S GITHUB
-      href: https://github.com/miller-c-r
+    - text: C. MILLER'S GITHUB
+    - href: https://github.com/miller-c-r
 ---
 
 ## C Miller's 2024 NSF Psychology / Neuroscience REU Student Website
+
 ## CUNY Brooklyn College
 
 #### C. Miller is a Senior and Psychology Major at Brooklyn College with an interest in Cognition
