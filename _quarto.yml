@@ -13,7 +13,7 @@ website:
         href: https://github.com/miller-c-r
 format:
   html:
-    theme: quartz
+    theme: darkly
     css: styles.css
 
 editor: visual
