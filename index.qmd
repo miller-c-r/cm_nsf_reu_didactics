@@ -1,5 +1,5 @@
 ---
-title: "CUNY Brooklyn Undergraduate REU Psychology Presentation. - C Miller"
+title: "CUNY Brooklyn Undergraduate REU Psychology Presentation: C Miller"
 listing:
   contents: posts
   sort: "date desc"
