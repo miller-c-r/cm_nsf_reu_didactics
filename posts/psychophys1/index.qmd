@@ -1,15 +1,13 @@
 ---
 title: "Biopsychosocial Interactions"
-
-
+category: "news" 
 image: "patho_anx.jpeg"
-
 ---
 
 
 
-##### The  Presentation
+# My REU Research Question
 
-#### A Mentorship in the CUNY Brooklyn Psychophysiology Lab
+## Topic: Biopsychosocial Interactions
 
-
+### A Mentorship in the CUNY Brooklyn Psychophysiology Lab

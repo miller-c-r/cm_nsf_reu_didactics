@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "CUNY Brooklyn Undergraduate REU Psychology Presentation: C Miller",
     "section": "",
-    "text": "The Presentation\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReferences\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\nPsychophysiology\n\n\n\n\n\n\n\n\nTip\n\n\n\nImages Below:\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety.\nJubb. (2016). Molecular neuroendocrinology: from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nBiopsychosocial Interactions\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReferences\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -58,9 +58,9 @@
   {
     "objectID": "posts/psychophys1/index.html",
     "href": "posts/psychophys1/index.html",
-    "title": "CUNY Brooklyn Undergrad Psych REU 2024: C Miller",
+    "title": "My REU Research Question",
     "section": "",
-    "text": "The Presentation\n\n\nA Mentorship in the CUNY Brooklyn Psychophysiology Lab\n\n\nREFERENCES"
+    "text": "title: “Biopsychosocial Interactions”\ncategory: “news”\nimage: “patho_anx.jpeg”"
   },
   {
     "objectID": "about.html#c-millers-2024-nsf-psychology-neuroscience-reu-student-website",
@@ -72,8 +72,15 @@
   {
     "objectID": "posts/psychophysrefer/index.html",
     "href": "posts/psychophysrefer/index.html",
-    "title": "CUNY Brooklyn Undergrad Psych REU 2024: C Miller",
+    "title": "References",
     "section": "",
     "text": "References\n\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321."
+  },
+  {
+    "objectID": "posts/psychophys1/index.html#topic-biopsychosocial-interactions",
+    "href": "posts/psychophys1/index.html#topic-biopsychosocial-interactions",
+    "title": "My REU Research Question",
+    "section": "Topic: Biopsychosocial Interactions",
+    "text": "Topic: Biopsychosocial Interactions\n\nA Mentorship in the CUNY Brooklyn Psychophysiology Lab"
   }
 ]

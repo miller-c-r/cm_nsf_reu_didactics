@@ -10,3 +10,15 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+::: callout-note
+Psychophysiology
+:::
+
+::: callout-tip
+Images Below: 
+
+Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety.
+
+Jubb. (2016). Molecular neuroendocrinology: from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.
+:::
