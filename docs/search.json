@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "CUNY Brooklyn Undergraduate REU Psychology Presentation: C Miller",
     "section": "",
-    "text": "Note\n\n\n\nPsychophysiology\n\n\n\n\n\n\n\n\nTip\n\n\n\nImages Below:\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety.\nJubb. (2016). Molecular neuroendocrinology: from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nBiopsychosocial Interactions\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReferences\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Note\n\n\n\nPsychophysiology\n\n\n\n\n\n\n\n\nTip\n\n\n\nImages Below:\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety.\nJubb. (2016). Molecular neuroendocrinology: from genome to physiology (Murphy & H. Gainer, Eds.). Wiley Blackwell.\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nBiopsychosocial Interactions\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nSpecial Topics in Psychology: Working Memory\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nReferences\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -74,7 +74,7 @@
     "href": "posts/psychophysrefer/index.html",
     "title": "References",
     "section": "",
-    "text": "References\n\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321."
+    "text": "References\n\nMorris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.\n\nLC Text:\nThe role of the LC article"
   },
   {
     "objectID": "posts/psychophys1/index.html#topic-biopsychosocial-interactions",
@@ -82,5 +82,40 @@
     "title": "My REU Research Question",
     "section": "Topic: Biopsychosocial Interactions",
     "text": "Topic: Biopsychosocial Interactions\n\nA Mentorship in the CUNY Brooklyn Psychophysiology Lab"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#a-presentation-by",
+    "href": "posts/psychophysmemory/index.html#a-presentation-by",
+    "title": "Special Topics in Psychology: Working Memory",
+    "section": "A Presentation by:",
+    "text": "A Presentation by:\nC. Miller\nCUNY Brooklyn College REU 2024 cohort Senior and Psychology Major with an interest in Cognition"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#topic-working-memory",
+    "href": "posts/psychophysmemory/index.html#topic-working-memory",
+    "title": "Special Topics in Psychology: Working Memory",
+    "section": "Topic: Working Memory",
+    "text": "Topic: Working Memory\nThe Article:\n\nAllen, RJ, Havelka, J, Falcon, T et al, Modality specificity and integration in working memory Insights from visuospatial bootstrapping,\n\nLink to Article Text Article on the web"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#question",
+    "href": "posts/psychophysmemory/index.html#question",
+    "title": "Special Topics in Psychology: Working Memory",
+    "section": "Question",
+    "text": "Question\nBroad Question: The question of how meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#references",
+    "href": "posts/psychophysmemory/index.html#references",
+    "title": "Special Topics in Psychology: Working Memory",
+    "section": "REFERENCES",
+    "text": "REFERENCES\nAllen, RJ, Havelka, J, Falcon, T et al. (2 more authors) (2014) Modality specificity and integration in working memory: Insights from visuospatial bootstrapping. Journal of Experimental Psychology: Learning, Memory, and Cognition. ISSN 1939-1285 https://doi.org/10.1037/xlm0000058"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#question-1",
+    "href": "posts/psychophysmemory/index.html#question-1",
+    "title": "Special Topics in Psychology: Working Memory",
+    "section": "Question",
+    "text": "Question\nSpecific Question: The present study explored how separable processing capacities within\nspecialized domains might each contribute to this, by examining the disruptive impacts of simple\nverbal and spatial concurrent tasks on young adults’ recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial “keypad” configuration"
   }
 ]

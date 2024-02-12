@@ -1,1 +1,51 @@
+---
+title: " Special Topics in Psychology: Working Memory "
+format:
+  revealjs:
+    theme: solarized
+    transition: convex
+editor: visual
+execute:
+  echo: false
+---
 
+
+
+[Link to Website Home](https://miller-c-r.github.io/cm_nsf_reu_didactics/)
+
+## A Presentation by:
+
+C. Miller
+
+CUNY Brooklyn College REU 2024 cohort
+Senior and Psychology Major with an interest in Cognition
+
+## Topic: Working Memory
+
+The Article:
+
+(2014) Allen, RJ, Havelka, J, Falcon, T et al, Modality specificity and integration in working memory Insights from visuospatial bootstrapping, 
+
+[Link to Article Text](Modality_integration.pdf)
+[Article on the web](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0000058)
+
+
+## Question
+
+Broad Question: The question of how meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance 
+
+## Question
+
+Specific Question: The present study explored how separable processing capacities within
+
+specialized domains might each contribute to this, by examining the disruptive impacts of simple 
+
+verbal and spatial concurrent tasks on young adults’ recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial “keypad” configuration
+
+## REFERENCES {.scrollable}
+
+
+Allen, RJ, Havelka, J, Falcon, T et al. (2 more authors) (2014) Modality specificity and
+integration in working memory: Insights from visuospatial bootstrapping. Journal of
+Experimental Psychology: Learning, Memory, and Cognition. ISSN 1939-1285
+https://doi.org/10.1037/xlm0000058
