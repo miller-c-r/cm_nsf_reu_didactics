@@ -1,0 +1,11 @@
+---
+title: "References"
+
+image: "jubb_hpa_axis.png"
+
+
+---
+
+### References
+
+##### Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4  https://doi.org/10.1177/2398212820930321.
