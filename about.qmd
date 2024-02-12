@@ -1,5 +1,5 @@
 ---
-title: " About C. Miller " 
+title: "  " 
 image: "patho_anx.jpeg"
 about:
   template: trestles
@@ -9,10 +9,12 @@ about:
     - href: https://github.com/miller-c-r
 ---
 
-###### Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
+###### *Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.*
 
-## C Miller's 2024 NSF Psychology / Neuroscience REU Student Website
+#### My CUNY Brooklyn College 2024 NSF REU Psychology / Neuroscience  Student Website
 
-## CUNY Brooklyn College
+## 
 
-#### C. Miller is a Senior and Psychology Major at Brooklyn College with an interest in Cognition
+##### Created by 
+
+##### C. Miller,  a Senior and Psychology Major at Brooklyn College with an interest in Cognition
