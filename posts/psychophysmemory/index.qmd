@@ -9,6 +9,10 @@ execute:
   echo: false
 ---
 
+## Jump Pack to Home
+
+Use the link below or in the bottom left to navigate to the main page
+
 [Link to Website Home](https://miller-c-r.github.io/cm_nsf_reu_didactics/)
 
 ## A Presentation by:
@@ -27,15 +31,13 @@ The Article:
 
 ## Question
 
-Broad Question: The question of how meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance
+Broad Question: How meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance
 
 ## Question
 
 Specific Question: The present study explored how separable processing capacities within
 
-specialized domains might each contribute to this, by examining the disruptive impacts of simple
-
-verbal and spatial concurrent tasks on young adults' recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial "keypad" configuration
+specialized domains might each contribute to meaningful associations between verbal and spatial information, by examining the disruptive impacts of simple verbal and spatial concurrent tasks on young adults' recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial "keypad" configuration
 
 ## REFERENCES {.scrollable}
 

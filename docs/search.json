@@ -102,7 +102,7 @@
     "href": "posts/psychophysmemory/index.html#question",
     "title": "Slideshow: Special Topics in Psychology: Working Memory",
     "section": "Question",
-    "text": "Question\nBroad Question: The question of how meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance"
+    "text": "Question\nBroad Question: How meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance"
   },
   {
     "objectID": "posts/psychophysmemory/index.html#references",
@@ -116,7 +116,7 @@
     "href": "posts/psychophysmemory/index.html#question-1",
     "title": "Slideshow: Special Topics in Psychology: Working Memory",
     "section": "Question",
-    "text": "Question\nSpecific Question: The present study explored how separable processing capacities within\nspecialized domains might each contribute to this, by examining the disruptive impacts of simple\nverbal and spatial concurrent tasks on young adults’ recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial “keypad” configuration"
+    "text": "Question\nSpecific Question: The present study explored how separable processing capacities within\nspecialized domains might each contribute to meaningful associations between verbal and spatial information, by examining the disruptive impacts of simple verbal and spatial concurrent tasks on young adults’ recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial “keypad” configuration"
   },
   {
     "objectID": "about.html#my-cuny-brooklyn-college-2024-nsf-psychology-neuroscience-reu-student-website",
@@ -201,5 +201,12 @@
     "title": "Working Title. Slideshow: Psychophysiology Research Topic",
     "section": "",
     "text": "Link to C Miller Home Screen"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#jump-pack-to-home",
+    "href": "posts/psychophysmemory/index.html#jump-pack-to-home",
+    "title": "Slideshow: Special Topics in Psychology: Working Memory",
+    "section": "Jump Pack to Home",
+    "text": "Jump Pack to Home\nUse the link below or in the bottom left to navigate to the main page\nLink to Website Home"
   }
 ]

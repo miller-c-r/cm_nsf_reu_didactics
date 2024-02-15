@@ -8,7 +8,14 @@ image: "jubb_hpa_axis.png"
 
 #### Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
 
+[Link On the Web](https://journals.sagepub.com/doi/10.1177/2398212820930321)
+
+#### Perry, K. J., Ostrov, J. M., & Murray-Close, D. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693--708. https://doi.org/10.1007/s10802-022-01013-0
+
+#### Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60--68. https://doi.org/10.1016/j.ijpsycho.2021.01.015
+
+[Link on the Web](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987796/)
+
 ##### LC Text:
 
-[Link to article](patho_anx_generation_2020.pdf)
-[Link On the Web](https://journals.sagepub.com/doi/10.1177/2398212820930321)
+
