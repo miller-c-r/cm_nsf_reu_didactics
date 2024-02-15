@@ -2,7 +2,7 @@
 title: " Slideshow: Special Topics in Psychology: Working Memory "
 format:
   revealjs:
-    theme: moon
+    theme: white
     transition: convex
 editor: visual
 execute:
