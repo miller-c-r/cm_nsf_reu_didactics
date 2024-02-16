@@ -1,5 +1,5 @@
 ---
-title: " Slideshow: Special Topics in Psychology: Working Memory "
+title: " Slideshow: Special Topics in Psychology: Stress and the ANS  "
 format:
   revealjs:
     theme: white
@@ -19,26 +19,25 @@ Use the link below or in the bottom left to navigate to the main page
 
 C. Miller
 
-CUNY Brooklyn College REU 2024 cohort Senior and Psychology Major with an interest in Cognition
+CUNY Brooklyn College REU 2024 cohort Senior and Psychology Major
 
 ## Topic: Working Memory
 
 The Article:
 
-(2014) Allen, RJ, Havelka, J, Falcon, T et al, Modality specificity and integration in working memory Insights from visuospatial bootstrapping,
+Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60--68. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 
-[Link to Article Text](Modality_integration.pdf) [Article on the web](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxlm0000058)
-
-## Question
-
-Broad Question: How meaningful associations between verbal and spatial information might be utilized to facilitate working memory performance
+[Article on the web](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987796/)
 
 ## Question
 
-Specific Question: The present study explored how separable processing capacities within
 
-specialized domains might each contribute to meaningful associations between verbal and spatial information, by examining the disruptive impacts of simple verbal and spatial concurrent tasks on young adults' recall of visually presented digit sequences encountered either in a single location or within a meaningful spatial "keypad" configuration
+
+## Question
+
+
 
 ## REFERENCES {.scrollable}
 
-Allen, RJ, Havelka, J, Falcon, T et al. (2 more authors) (2014) Modality specificity and integration in working memory: Insights from visuospatial bootstrapping. Journal of Experimental Psychology: Learning, Memory, and Cognition. ISSN 1939-1285 https://doi.org/10.1037/xlm0000058
+
+Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60--68. https://doi.org/10.1016/j.ijpsycho.2021.01.015
