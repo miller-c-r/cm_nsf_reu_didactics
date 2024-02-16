@@ -1,9 +1,10 @@
 ---
-title: " Slideshow: Special Topics in Psychology: Stress and the ANS  "
+title: " Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System  "
 format:
   revealjs:
-    theme: white
-    transition: convex
+    incremental: true
+    theme: serif
+    transition: zoom
 editor: visual
 execute:
   echo: false
@@ -29,15 +30,44 @@ Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasymp
 
 [Article on the web](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987796/)
 
+
+## Background
+
+## Key Terms
+
+. . .
+
+The ANS
+
+. . .
+
+The Autonomic Nervous System
+
+. . .
+
+PNS
+
+. . .
+
+The Parasympathetic Nervous System
+
+SNS
+
+
 ## Question
 
-
-
 ## Question
 
+## Logic
 
+## Methods
+
+## Results
+
+## Inferences
+
+## Limitations
 
 ## REFERENCES {.scrollable}
-
 
 Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60--68. https://doi.org/10.1016/j.ijpsycho.2021.01.015
