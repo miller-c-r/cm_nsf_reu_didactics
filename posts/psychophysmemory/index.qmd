@@ -3,7 +3,7 @@ title: " Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonom
 format:
   revealjs:
     incremental: true
-    theme: serif
+    theme: [default, style.scss]
     transition: zoom
 editor: visual
 execute:
