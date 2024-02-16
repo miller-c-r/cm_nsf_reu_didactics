@@ -2,7 +2,7 @@
 title: " Working Title. Slideshow: Psychophysiology Research Topic "
 format:
   revealjs:
-    theme: serif
+    theme: [default, style2.scss]
     transition: zoom
 editor: visual
 execute:
@@ -31,14 +31,11 @@ Broad Question:
 
 Specific Question:
 
-
 ## Background
 
 ## Key Terms
 
-
 ## Question
-
 
 ## Logic
 
