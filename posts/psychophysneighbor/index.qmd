@@ -132,7 +132,7 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 
 ## Limitations
 
-Measures of stress such as cortisol, classroom performance.
+Measures of stress such as cortisol, and more information about overall behavior such as classroom performance.
 
 ## REFERENCES {.scrollable}
 
