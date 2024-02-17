@@ -8,37 +8,44 @@ format:
 editor: visual
 execute:
   echo: false
+bibliography: references.bib
 ---
 
-## Psychophysiology 
+
+## On Old Olympus Towering Top A Famous Vocal German Viewed Some Hops
+
+## Psychophysiology, Biopsychosocial Perspective
 
 **Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex**
 
 Kofler, L., Zhang, W., Gao, Y (2022)
 
+## Abstract
+
+## Intro
+
+Prior Research
+
+bidirectional NE pathways, afferent, efferent from organs and periphery, from cortex down
+
+Biological Sensitivity to Context Theory
+
+## The Autonomic Nervous System
+
+![](ganglia_pnssns.jpg){.absolute bottom="50" right="200" width="400" height="400"}
+
+The Autonomic Nervous System: The Parasympathetic and Sympathetic Nervous System
+
+## Vagus Nerve
+
+![](cranialname.gif){.absolute left="50" right="200" width="600" height="400"}
+
+https://faculty.washington.edu/chudler/cranial.html
 
 
-## Background
+## Psychopathic Traits
 
-## Key Terms
-
-. . .
-
-The ANS
-
-. . .
-
-The Autonomic Nervous System
-
-. . .
-
-PNS
-
-. . .
-
-The Parasympathetic Nervous System
-
-SNS
+Grandiose-Manipulative Callous-Unemotional Daring-Impulsive
 
 ## Question
 
