@@ -8,4 +8,4 @@ image: "patho_anx.jpeg"
 
 ## Topic: Biopsychosocial Interactions
 
-### A Mentorship in the CUNY Brooklyn Psychophysiology Lab
+

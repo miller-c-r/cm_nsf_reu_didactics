@@ -1,0 +1,65 @@
+---
+title: " BC REU Journal Club: Mentor Article- C Miller  "
+format:
+  revealjs:
+    incremental: true
+    theme: [default, style.scss]
+    transition: zoom
+editor: visual
+execute:
+  echo: false
+---
+
+## Psychophysiology 
+
+**Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex**
+
+Kofler, L., Zhang, W., Gao, Y (2022)
+
+
+
+## Background
+
+## Key Terms
+
+. . .
+
+The ANS
+
+. . .
+
+The Autonomic Nervous System
+
+. . .
+
+PNS
+
+. . .
+
+The Parasympathetic Nervous System
+
+SNS
+
+## Question
+
+## Question
+
+## Logic
+
+## Methods
+
+## Results
+
+## Inferences
+
+## Limitations
+
+## REFERENCES {.scrollable}
+
+Kofler, L., Zhang, W. & Gao, Y.(2022). Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex. J Psychopathol Behav Assess 44, 98--114 https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s10862-021-09944-6
+
+## Jump Pack to Home
+
+Use the link below or in the bottom left to navigate to the main page
+
+[Link to Website Home](https://miller-c-r.github.io/cm_nsf_reu_didactics/)

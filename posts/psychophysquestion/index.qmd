@@ -15,7 +15,7 @@ execute:
 
 C. Miller
 
-CUNY Brooklyn College REU 2024 cohort Senior and Psychology Major with an interest in Cognition
+CUNY Brooklyn College REU 2024 cohort Senior and Psychology Major 
 
 ## Topic: Biopsychosocial Interactions
 
