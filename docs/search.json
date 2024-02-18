@@ -347,7 +347,7 @@
     "href": "posts/psychophysneighbor/index.html#key-terms",
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "Key Terms",
-    "text": "Key Terms"
+    "text": "Key Terms\nReactivity\nNeighborhood Factors\nsocial cohesion social control collective efficacy"
   },
   {
     "objectID": "posts/psychophysneighbor/index.html#question",
@@ -375,7 +375,7 @@
     "href": "posts/psychophysneighbor/index.html#methods",
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "Methods",
-    "text": "Methods\n\nParticipants in longitudinal study. N = 245. 8-11 year old boys and girls and primary caregiver. Caregiver participants were mostly biological mothers.\nPsychophysiological testing session included several tasks and lasted for approximately 40 minutes\nHR obtained prior to and at the end of psychophysiological testing session. Resting heart rate was obtained by averaging the first 2-min rest period(before task) and the second 2 min period.\nInventories\n\nMeasures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive,\n\nAPSD\n\n20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,“thinks he or she is more important than others”) and DI (e.g., “acts without thinking”) subscales were used.\n\nICU\n\nThe ICU consists of 24 items measured on a 4-point Likert scale from 0 (not at all true) to 3 (definitely true)\n\nThe questionnaire is comprised of three subscales: Callousness (e.g., Does not seem to know “right” from “wrong”), Uncaring (e.g., Feeling bad or guilty when he/she has done something wrong), and Unemotional (e.g.,Expresses his/her feeling openly).\n\n\nSimilar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the avail\n\n\nMeasures of aggression and delinquency\nMeasures of antisocial behavior were obtained through caregiver completion of the Child Behavior Checklist (CBCL; Achenbach & Rescorla, 2001). The CBCL is a widely used and reliable caregiver-report questionnaire that is used within both research and clinical settings and consists of 8 syndrome scales measuring externalizing and internalizing behaviors in youths (Achenbach & Rescorla, 2001).\n\nThe questionnaire consists of 112 items, where the caregiver rates the child’s behavior now or within the past 6 months on statements such as ‘argues a lot’ and ‘breaks rules at home, school, or elsewhere’\n\nMeasures of collective efficacy\n\nMeasures of collective efficacy were collected through caregiver’s reports using a neighborhood characteristics questionnaire replicated from Sampson et al.\nThe questionnaire Sampson and colleagues developed captured these social processes in two subscales, which were utilized in the current study. The informal social control scale was comprised of 5 items measured on a 5-point Likert scale ranging from “very unlikely” to “very likely”, where respondents\n\nwere asked to rate the likelihood that their neighbors could:\n\nbe counted on to intervene if (i) children were skipping\nschool and hanging out on a street corner, (ii) children were\nspray-painting graffiti on a local building, (iii) children were\nshowing disrespect to an adult, (iv) a fight broke out in front\nof their house, and (v) the fire station closest to their home\nwas threatened with budget cuts\n\n\n\nPsychophysiological Measures\n\nThe computer task"
+    "text": "Methods\n\nParticipants in longitudinal study. N = 245. 8-11 year old boys and girls and primary caregiver. Caregiver participants were mostly biological mothers.\nPsychophysiological testing session included several tasks and lasted for approximately 40 minutes\nHR obtained prior to and at the end of psychophysiological testing session. Resting heart rate was obtained by averaging the first 2-min rest period(before task) and the second 2 min period."
   },
   {
     "objectID": "posts/psychophysneighbor/index.html#results",
@@ -523,5 +523,26 @@
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "Logic for methods",
     "text": "Logic for methods\nResponses of biological system to stressors is indexed by different physiological measures: ANS, adrenocortical system resting HR acts as a moderator of various context-behavior relationships, resting heart rate is used as the physiological index of biological sensitivity in the study."
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#methods-inventories",
+    "href": "posts/psychophysneighbor/index.html#methods-inventories",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Methods Inventories",
+    "text": "Methods Inventories\n\nInventories\n\nMeasures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive,\n\nAPSD\n\n20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,“thinks he or she is more important than others”) and DI (e.g., “acts without thinking”) subscales were used.\n\nICU\n\nThe ICU consists of 24 items measured on a 4-point Likert scale from 0 (not at all true) to 3 (definitely true)\n\nThe questionnaire is comprised of three subscales: Callousness (e.g., Does not seem to know “right” from “wrong”), Uncaring (e.g., Feeling bad or guilty when he/she has done something wrong), and Unemotional (e.g.,Expresses his/her feeling openly).\n\n\nSimilar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the available"
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#methods-inventories-ii",
+    "href": "posts/psychophysneighbor/index.html#methods-inventories-ii",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Methods Inventories II",
+    "text": "Methods Inventories II\n\nMeasures of aggression and delinquency\nMeasures of antisocial behavior were obtained through caregiver completion of the Child Behavior Checklist (CBCL; Achenbach & Rescorla, 2001). The CBCL is a widely used and reliable caregiver-report questionnaire that is used within both research and clinical settings and consists of 8 syndrome scales measuring externalizing and internalizing behaviors in youths (Achenbach & Rescorla, 2001).\n\nThe questionnaire consists of 112 items, where the caregiver rates the child’s behavior now or within the past 6 months on statements such as ‘argues a lot’ and ‘breaks rules at home, school, or elsewhere’"
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#methods-efficacy",
+    "href": "posts/psychophysneighbor/index.html#methods-efficacy",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Methods Efficacy",
+    "text": "Methods Efficacy\n\nMeasures of collective efficacy\n\nMeasures of collective efficacy were collected through caregiver’s reports using a neighborhood characteristics questionnaire replicated from Sampson et al.\nThe questionnaire Sampson and colleagues developed captured these social processes in two subscales, which were utilized in the current study. The informal social control scale was comprised of 5 items measured on a 5-point Likert scale ranging from “very unlikely” to “very likely”, where respondents\n\nwere asked to rate the likelihood that their neighbors could:\n\nbe counted on to intervene if (i) children were skipping\nschool and hanging out on a street corner, (ii) children were\nspray-painting graffiti on a local building, (iii) children were\nshowing disrespect to an adult, (iv) a fight broke out in front\nof their house, and (v) the fire station closest to their home\nwas threatened with budget cuts\n\n\n\nPsychophysiological Measures\n\nThe computer task"
   }
 ]

@@ -19,7 +19,7 @@ bibliography: references.bib
 
 Kofler, L., Zhang, W., Gao, Y (2022)
 
-## Abstract
+## Abstract {.scrollable}
 
 In the current study, the moderating effects of resting heart rate (a measure of biological sensitivity) and sex on the relationships between neighborhood collective efficacy, psychopathic traits and antisocial behaviors were examined in a sample of 245 8--11 year-old boys and girls.
 
@@ -33,7 +33,7 @@ Hierarchical regression analyses demonstrated that:
 
 4.  Findings suggest that neighborhood social processes are distinctly associated with the three dimensions of childhood psychopathy and with conduct problems in children with a specific psychophysiological profile, and that these relationships are further differentiated by sex.
 
-## Intro
+## Intro{.scrollable}
 
 Prior Research
 
@@ -65,7 +65,7 @@ Some children are biologically more susceptible to environmental influences, and
 
 In the current study, the authors investigated the effect of neighborhood characteristics on the three dimensions of child psychopathy and the potential moderating effect of HR. And if there is a moderating effect by sex.
 
-## Logic
+## Logic{.scrollable}
 
 Psychopathy begins at an early age and remains stable throughout the lifespan. What factors are associated with development of these traits. Previous studies have demonstrated that psychophysiological abnormalities such as low resting heart rate were significant correlates of psychopathic traits in children and adolescents.
 
@@ -77,9 +77,9 @@ Responses of biological system to stressors is indexed by different physiologica
 
 ## Key Terms
 
-## Reactivity
+Reactivity
 
-## Neighborhood Factors
+Neighborhood Factors
 
 social cohesion social control collective efficacy
 
@@ -102,6 +102,9 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 -   Participants in longitudinal study. N = 245. 8-11 year old boys and girls and primary caregiver. Caregiver participants were mostly biological mothers.
 -   Psychophysiological testing session included several tasks and lasted for approximately 40 minutes
 -   HR obtained prior to and at the end of psychophysiological testing session. Resting heart rate was obtained by **averaging** the first 2-min rest period(before task) and the second 2 min period.
+
+## Methods Inventories {.scrollable}
+
 -   **Inventories**
     -   Measures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive,
         -   APSD
@@ -109,10 +112,15 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
         -   ICU
             -   The ICU consists of 24 items measured on a 4-point Likert scale from 0 (not at all true) to 3 (definitely true)
                 -   The questionnaire is comprised of three subscales: Callousness (e.g., Does not seem to know "right" from "wrong"), Uncaring (e.g., Feeling bad or guilty when he/she has done something wrong), and Unemotional (e.g.,Expresses his/her feeling openly).
-        -   Similar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the avail
+        -   Similar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the available
+        
+## Methods Inventories II {.scrollable}
+
 -   **Measures of aggression and delinquency**
 -   Measures of antisocial behavior were obtained through caregiver completion of the Child Behavior Checklist (CBCL; Achenbach & Rescorla, 2001). The CBCL is a widely used and reliable caregiver-report questionnaire that is used within both research and clinical settings and consists of 8 syndrome scales measuring **externalizing and internalizing behaviors** in youths (Achenbach & Rescorla, 2001).
     -   The questionnaire consists of 112 items, where the caregiver rates the child's behavior now or within the past 6 months on statements such as 'argues a lot' and 'breaks rules at home, school, or elsewhere'
+    
+## Methods Efficacy {.scrollable}
 -   **Measures of collective efficacy**
     -   Measures of collective efficacy were collected through caregiver's reports using a neighborhood characteristics questionnaire replicated from Sampson et al.
     -   The questionnaire Sampson and colleagues developed captured these social processes in two subscales, which were utilized in the current study. The informal social control scale was comprised of 5 items measured on a 5-point Likert scale ranging from "very unlikely" to "very likely", where respondents
@@ -128,20 +136,15 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 
 ## Results
 
+## Inferences {.scrollable}
 
-
-## Inferences
-
-a. Findings partially supported hypotheses. There were significant interaction effects of neighborhood social processes and resting HR on psychopathic traits and antisocial behavior, however the effects were different in boys and girls and across the various outcomes. 
-b.	Higher social cohesion was associated with higher GM traits, but only in boys with higher HR. Higher social control was associated with lower CU traits, but only in girls with lower resting HR. 
-c.	Interestingly, while we found that boys with higher HR and girls with lower HR had higher aggression when social control was lower, we also found that for boys with lower HR and girls with higher HR, the opposite pattern was observed, where higher aggression was associated with higher social control. Finally, we also found that lower social control was associated with higher delinquency in girls with lower HR.
-d.	Neighborhood social processes are distinctly associated with the three dimensions of childhood psychopathy and with conduct problems in children with a specific psychophysiological profile. 
-i.	These relationships are further differentiated by sex
-
+a.  Findings partially supported hypotheses. There were significant interaction effects of neighborhood social processes and resting HR on psychopathic traits and antisocial behavior, however the effects were different in boys and girls and across the various outcomes.
+b.  Higher social cohesion was associated with higher GM traits, but only in boys with higher HR. Higher social control was associated with lower CU traits, but only in girls with lower resting HR.
+c.  Interestingly, while we found that boys with higher HR and girls with lower HR had higher aggression when social control was lower, we also found that for boys with lower HR and girls with higher HR, the opposite pattern was observed, where higher aggression was associated with higher social control. Finally, we also found that lower social control was associated with higher delinquency in girls with lower HR.
+d.  Neighborhood social processes are distinctly associated with the three dimensions of childhood psychopathy and with conduct problems in children with a specific psychophysiological profile.
+e.  These relationships are further differentiated by sex
 
 ## Limitations
-
-
 
 ## REFERENCES {.scrollable}
 
