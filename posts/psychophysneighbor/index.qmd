@@ -23,6 +23,10 @@ Kofler, L., Zhang, W., Gao, Y (2022)
 
 In the current study, the moderating effects of resting heart rate (a measure of biological sensitivity) and sex on the relationships between neighborhood collective efficacy, psychopathic traits and antisocial behaviors were examined in a sample of 245 8--11 year-old boys and girls.
 
+Some children are biologically more susceptible to environmental influences, and Biological sensitivity may be expressed differently in boys and girls.
+
+In the current study, the authors investigated the effect of neighborhood characteristics on the three dimensions of child psychopathy and the potential moderating effect of HR. And if there is a moderating effect by sex.
+
 Hierarchical regression analyses demonstrated that:
 
 1.  Both grandiose-manipulative and callous-unemotional traits were associated with neighborhood social processes, but the relationship varied by child's sex and heart rate level.
@@ -33,11 +37,9 @@ Hierarchical regression analyses demonstrated that:
 
 4.  Findings suggest that neighborhood social processes are distinctly associated with the three dimensions of childhood psychopathy and with conduct problems in children with a specific psychophysiological profile, and that these relationships are further differentiated by sex.
 
+Per the paper: Accordingly, Diamond et al. (2012) suggested that there may be a "trade-off" between autonomic flexibility and self-regulation, which may be weighted differently in boys and girls, potentially giving rise to differences in observed autonomic reactivity.
 
-
-Per the paper: Accordingly, Diamond et al. (2012) suggested that there may be a “trade-off” between autonomic flexibility and self-regulation, which may be weighted differently in boys and girls, potentially giving rise to differences in observed autonomic reactivity. 
-
-This may also partially explain the surprising finding that for boys with lower HR and girls with higher HR, higher social control was actually a risk factor for aggressive behavior, a finding that is contradictory to the well-established negative association between HR and antisocial behavior (Sampson et al., 2002). 
+This may also partially explain the surprising finding that for boys with lower HR and girls with higher HR, higher social control was actually a risk factor for aggressive behavior, a finding that is contradictory to the well-established negative association between HR and antisocial behavior (Sampson et al., 2002).
 
 It is possible that while higher HR in boys and lower HR in girls are adaptive physiological states for responding to favorable social processes, the opposite resting states may index maladaptive physiological states.
 
@@ -149,28 +151,21 @@ Comparing boys and girls:
 
 There were no significant sex differences in delinquency, social control, social cohesion, or HR.
 
-Independent samples t-tests showed that boys scored higher than girls in GM, CU traits  DI and aggression. Boys were also slightly older than girls in our sample
+Independent samples t-tests showed that boys scored higher than girls in GM, CU traits DI and aggression. Boys were also slightly older than girls in our sample
 
-There were no significant sex differences in delinquency, social control, social
-cohesion, or HR. 
+There were no significant sex differences in delinquency, social control, social cohesion, or HR.
 
-Social cohesion was negatively associated with CU traits in girls (more social cohesion = less callous unemotional traits) and with resting HR in
-boys. 
+Social cohesion was negatively associated with CU traits in girls (more social cohesion = less callous unemotional traits) and with resting HR in boys.
 
-GM and DI traits were not correlated with any neighborhood social processes or resting HR in either sex. 
-
+GM and DI traits were not correlated with any neighborhood social processes or resting HR in either sex.
 
 For boys, the third step that included the interaction between social cohesion and resting HR was significant. There were no significant main effects of social cohesion or resting HR, however the interaction between social cohesion and resting HR was significant.
 
 Higher social cohesion was associated with higher GM scores, but only in boys with higher HR
 
+Lower social control was associated with higher CU traits in girls with lower HR.
 
-Lower social control was associated with higher CU traits in girls with lower HR. 
-
-Lower social control were associated with higher delinquency in girls with lower
-HR
-
-
+Lower social control were associated with higher delinquency in girls with lower HR
 
 ## Inferences {.scrollable}
 
