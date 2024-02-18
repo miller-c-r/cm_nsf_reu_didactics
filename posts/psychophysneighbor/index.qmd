@@ -1,5 +1,5 @@
 ---
-title: " BC REU Journal Club: Mentor Article- C Miller  "
+title: " BC REU Journal Club: Mentor Article - C Miller  "
 format:
   revealjs:
     incremental: true
@@ -128,11 +128,20 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 
 ## Results
 
+
+
 ## Inferences
+
+a. Findings partially supported hypotheses. There were significant interaction effects of neighborhood social processes and resting HR on psychopathic traits and antisocial behavior, however the effects were different in boys and girls and across the various outcomes. 
+b.	Higher social cohesion was associated with higher GM traits, but only in boys with higher HR. Higher social control was associated with lower CU traits, but only in girls with lower resting HR. 
+c.	Interestingly, while we found that boys with higher HR and girls with lower HR had higher aggression when social control was lower, we also found that for boys with lower HR and girls with higher HR, the opposite pattern was observed, where higher aggression was associated with higher social control. Finally, we also found that lower social control was associated with higher delinquency in girls with lower HR.
+d.	Neighborhood social processes are distinctly associated with the three dimensions of childhood psychopathy and with conduct problems in children with a specific psychophysiological profile. 
+i.	These relationships are further differentiated by sex
+
 
 ## Limitations
 
-Measures of stress such as cortisol, and more information about overall behavior such as classroom performance.
+
 
 ## REFERENCES {.scrollable}
 

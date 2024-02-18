@@ -6,6 +6,12 @@ image: "jubb_hpa_axis.png"
 
 ### References
 
+
+#### Boyce, W. T., & Ellis, B. J. (2005). Biological sensitivity to context: I. An evolutionary-developmental theory of the origins and functions of stress reactivity. Development and psychopathology, 17(2), 271–301. https://doi.org/10.1017/s0954579405050145
+
+[Link on the Web](https://pubmed.ncbi.nlm.nih.gov/16761546/)
+
+
 #### Morris, Laurel S., McCall, Jordan, G. , et. al (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
 
 [Link On the Web](https://journals.sagepub.com/doi/10.1177/2398212820930321)
