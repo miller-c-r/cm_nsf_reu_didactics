@@ -235,28 +235,28 @@
     "href": "posts/psychophysmemory/index.html#methods",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Methods",
-    "text": "Methods\nSamples combined four previous studies (N=325, 63% female, aged 15-55) in which RSA and PEP were collected continuously during a resting baseline and an acute stressor, the Trier Social Stress Task."
+    "text": "Methods\n\nSamples combined four previous studies (N=325, 63% female, aged 15-55) in which RSA and PEP were collected continuously during a resting baseline and an acute stressor, the Trier Social Stress Task.\nThis study included 68 black and 73 white participants, 79 female and 62 male participants. Mean age was 29.0 (SD = 10.7, Range 15 to 55)\nFor all four studies, the TSST consisted of a 5-minute baseline, either a 3- or 5-minute speech preparation, followed by a 7- or 5-minute speech, and ending with a 5-minute recovery period.\nIn all studies, participants remained seated for all task periods and were instructed to refrain from postural changes."
   },
   {
     "objectID": "posts/psychophysmemory/index.html#results",
     "href": "posts/psychophysmemory/index.html#results",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Results",
-    "text": "Results\n\nOverall, RSA and PEP were reciprocally coupled.\nHowever, recovery from a stressor was characterized by coactivation.\nIndividuals also vary in the extent to which their SNS and PNS are reciprocally coupled:\n\nwomen, younger adults, and individuals with higher baseline RSA showed more reciprocal coupling than men, older adults, and those with lower baseline RSA, respectively, reflecting greater coordination of physiological responding in the former group. [men and older adults had less reciprocal coupling]"
+    "text": "Results\n\nOn average, as expected during active stress tasks, participants’ RSA was significantly lower than resting during preparation, speech, math, and Q&A\nAnd consistent with vagal rebound, during recovery RSA was significantly higher than resting RSA.\nAgain, consistent with what is expected from active stress tasks, PEP was significantly shorter than resting during preparation, speech, math, and Q&A\nDuring recovery PEP was also shorter than resting values consistent with stress residue that can occur immediately after a stressor is complete\nOverall, RSA and PEP were reciprocally coupled.\nHowever, recovery from a stressor was characterized by coactivation.\nIndividuals with higher baseline RSA had greater decreases in RSA relative to baseline across all the task periods\nIndividuals with longer PEP at baseline had greater decreases in PEP during the prep, speech, and math task periods but not during Q&A or recovery\nIndividuals also vary in the extent to which their SNS and PNS are reciprocally coupled:\n\nwomen, younger adults, and individuals with higher baseline RSA showed more reciprocal coupling than men, older adults, and those with lower baseline RSA, respectively, reflecting greater coordination of physiological responding in the former group. [men and older adults had less reciprocal coupling]"
   },
   {
     "objectID": "posts/psychophysmemory/index.html#inferences",
     "href": "posts/psychophysmemory/index.html#inferences",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Inferences",
-    "text": "Inferences"
+    "text": "Inferences\nOverall, the SNS and PNS respond inversely to stress and are reciprocally coupled, perhaps reflecting shared regulatory mechanisms in higher order brain structures and reciprocal responses to environmental demands. H\nHowever, recovery from a stressor is characterized by coactivation on average as the SNS recovers slowly, while PNS activity rebounds and augments to accelerate recovery. Individuals also vary in the extent to which their SNS and PNS are reciprocally coupled"
   },
   {
     "objectID": "posts/psychophysmemory/index.html#limitations",
     "href": "posts/psychophysmemory/index.html#limitations",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Limitations",
-    "text": "Limitations"
+    "text": "Limitations\nSample size, methods\nMeasures of stress"
   },
   {
     "objectID": "posts/psychophysquestion/index.html#background-1",
@@ -558,5 +558,12 @@
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Background",
     "text": "Background\nOne study took just such an approach in a sample of children who watched emotion-eliciting film clips. On average, RSA and PEP demonstrated coordinated reciprocal activity across baseline and emotion inductions, (Gatzke- Kopp & Ram\n,…Further, within and across emotion contexts, the most common form of cross-system autonomic activity is reciprocal. However, the nature and magnitude of RSA-PEP correlations vary between emotion contexts"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#analysis",
+    "href": "posts/psychophysmemory/index.html#analysis",
+    "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
+    "section": "Analysis",
+    "text": "Analysis\n\nBaseline RSA and PEP were calculated by taking the mean of the five baseline/resting bins.\nRSA reactivity (ΔRSA) and PEP reactivity (ΔPEP) within each of the task periods were calculated by subtracting baseline RSA and PEP from unstandardized RSA and PEP.\nDifferences in the magnitude of ΔRSA and ΔPEP during each task period based on sex and race, and correlations with resting RSA and PEP, age, and with the other indicator during the same task period were calculated."
   }
 ]
