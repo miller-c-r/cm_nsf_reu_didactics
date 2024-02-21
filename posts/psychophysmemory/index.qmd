@@ -36,29 +36,53 @@ Weissman, D. G., & Mendes, W. B. (2021)
 
 ## Background
 
+By characterizing the nature of correlated PNS and SNS responses and how these differ based on sex, age, and race, we can better understand how stress responses are coordinated across the autonomic nervous system
+
+Paving the way for a better understanding of individual differences in emotion functioning and mental, and physical health.
+
+## Background
+
+One study took just such an approach in a sample of children who watched emotion-eliciting film clips. On average, RSA and PEP demonstrated coordinated reciprocal activity across baseline and emotion inductions, (Gatzke- Kopp & Ram
+
+,...Further, within and across emotion contexts, the most common form of cross-system autonomic activity is reciprocal. However, the nature and magnitude of RSA-PEP correlations vary between emotion contexts
+
 ## Key Terms
 
-. . .
-
-The ANS
+-   The Trier Social Stress Task (TSST)
 
 . . .
 
-The Autonomic Nervous System
+    -   A laboratory stressor designed to characterize an individual's typical response to an acute social stressor in daily life
+    -   The TSST has well documented effectiveness at inducing psychological distress and physiological stress responses including activation of the hypothalamic pituitary adrenal cortical axis (HPA)
+    -   Traditionally, the TSST involves the participant planning and delivering a short speech to stoic evaluators, followed by a mental arithmetic task, then, in some cases, a recovery period.
+
+## Key Terms
+
+Measures of the SNS
 
 . . .
 
-PNS
+-   PEP Pre-ejection period (PEP)
 
-. . .
+    -   A measure of the time between the electrical impulses that initiate ventricle contraction and the opening of the aortic valve, which is primarily influenced by the SNS.
 
-The Parasympathetic Nervous System
+    -   Decreases in PEP indicate an increase in SNS activity
 
-SNS
+-   Measures of the PNS
 
+    -   RSA
+
+        -   Respiratory sinus arrhythmia (RSA) is high frequency heart rate variability in the respiratory frequency band that reliably estimates PNS control of the heart via the vagus nerve
+
+        -   Respiratory sinus arrhythmia (RSA) is heart rate variability in synchrony with respiration, by which the R-R interval on an ECG is shortened during inspiration and prolonged during expiration (Yasuma, F., & Hayano, J. 2004). 
+
+        -   Although RSA has been used as an index of cardiac vagal function, it is also a physiologic phenomenon reflecting respiratory-circulatory interactions universally observed among vertebrates.
+        
 ## Question
 
 Broad Question
+
+. . .
 
 The myriad social and cognitive challenges faced by humans require flexible modulation of ANS activity for different contexts.
 
@@ -74,14 +98,11 @@ Specific Question
 
     -   baseline RSA and PEP
 
-## Logic
 
-Rather, the SNS and PNS function independently, and the nature of their coordinated activity varies between context and individuals 
 
 ## Methods
 
 Samples combined four previous studies (N=325, 63% female, aged 15-55) in which RSA and PEP were collected continuously during a resting baseline and an acute stressor, the Trier Social Stress Task.
-
 
 ## Results
 
@@ -91,7 +112,7 @@ Samples combined four previous studies (N=325, 63% female, aged 15-55) in which 
 
 -   Individuals also vary in the extent to which their SNS and PNS are reciprocally coupled:
 
-    -    women, younger adults, and individuals with higher baseline RSA showed more reciprocal coupling than men, older adults, and those with lower baseline RSA, respectively, reflecting **greater coordination of physiological responding in the former group**. \[men and older adults had less reciprocal coupling\]
+    -   women, younger adults, and individuals with higher baseline RSA showed more reciprocal coupling than men, older adults, and those with lower baseline RSA, respectively, reflecting **greater coordination of physiological responding in the former group**. \[men and older adults had less reciprocal coupling\]
 
 ## Inferences
 
@@ -99,4 +120,9 @@ Samples combined four previous studies (N=325, 63% female, aged 15-55) in which 
 
 ## REFERENCES {.scrollable}
 
+
+
 Weissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60--68. https://doi.org/10.1016/j.ijpsycho.2021.01.015
+
+Yasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683–690. https://doi.org/10.1378/chest.125.2.683
+

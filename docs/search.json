@@ -102,14 +102,14 @@
     "href": "posts/psychophysmemory/index.html#question",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Question",
-    "text": "Question\nBroad Question\nThe myriad social and cognitive challenges faced by humans require flexible modulation of ANS activity for different contexts."
+    "text": "Question\nBroad Question\n\nThe myriad social and cognitive challenges faced by humans require flexible modulation of ANS activity for different contexts."
   },
   {
     "objectID": "posts/psychophysmemory/index.html#references",
     "href": "posts/psychophysmemory/index.html#references",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "REFERENCES",
-    "text": "REFERENCES\nWeissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60–68. https://doi.org/10.1016/j.ijpsycho.2021.01.015"
+    "text": "REFERENCES\nWeissman, D. G., & Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International journal of psychophysiology : official journal of the International Organization of Psychophysiology, 162, 60–68. https://doi.org/10.1016/j.ijpsycho.2021.01.015\nYasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683–690. https://doi.org/10.1378/chest.125.2.683"
   },
   {
     "objectID": "posts/psychophysmemory/index.html#question-1",
@@ -214,14 +214,14 @@
     "href": "posts/psychophysmemory/index.html#background",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Background",
-    "text": "Background"
+    "text": "Background\nBy characterizing the nature of correlated PNS and SNS responses and how these differ based on sex, age, and race, we can better understand how stress responses are coordinated across the autonomic nervous system\nPaving the way for a better understanding of individual differences in emotion functioning and mental, and physical health."
   },
   {
     "objectID": "posts/psychophysmemory/index.html#key-terms",
     "href": "posts/psychophysmemory/index.html#key-terms",
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Key Terms",
-    "text": "Key Terms\n\nThe ANS\n\n\nThe Autonomic Nervous System\n\n\nPNS\n\n\nThe Parasympathetic Nervous System\nSNS"
+    "text": "Key Terms\n\nThe Trier Social Stress Task (TSST)\n\n\n-   A laboratory stressor designed to characterize an individual's typical response to an acute social stressor in daily life\n-   The TSST has well documented effectiveness at inducing psychological distress and physiological stress responses including activation of the hypothalamic pituitary adrenal cortical axis (HPA)\n-   Traditionally, the TSST involves the participant planning and delivering a short speech to stoic evaluators, followed by a mental arithmetic task, then, in some cases, a recovery period."
   },
   {
     "objectID": "posts/psychophysmemory/index.html#logic",
@@ -544,5 +544,19 @@
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "Methods Efficacy",
     "text": "Methods Efficacy\n\nMeasures of collective efficacy\n\nMeasures of collective efficacy were collected through caregiver’s reports using a neighborhood characteristics questionnaire replicated from Sampson et al.\nThe questionnaire Sampson and colleagues developed captured these social processes in two subscales, which were utilized in the current study. The informal social control scale was comprised of 5 items measured on a 5-point Likert scale ranging from “very unlikely” to “very likely”, where respondents\n\nwere asked to rate the likelihood that their neighbors could:\n\nbe counted on to intervene if (i) children were skipping\nschool and hanging out on a street corner, (ii) children were\nspray-painting graffiti on a local building, (iii) children were\nshowing disrespect to an adult, (iv) a fight broke out in front\nof their house, and (v) the fire station closest to their home\nwas threatened with budget cuts\n\n\n\nPsychophysiological Measures\n\nThe computer task"
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#key-terms-1",
+    "href": "posts/psychophysmemory/index.html#key-terms-1",
+    "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
+    "section": "Key Terms",
+    "text": "Key Terms\nMeasures of the SNS\n\n\nPEP Pre-ejection period (PEP)\n\nA measure of the time between the electrical impulses that initiate ventricle contraction and the opening of the aortic valve, which is primarily influenced by the SNS.\nDecreases in PEP indicate an increase in SNS activity\n\nMeasures of the PNS\n\nRSA\n\nRespiratory sinus arrhythmia (RSA) is high frequency heart rate variability in the respiratory frequency band that reliably estimates PNS control of the heart via the vagus nerve\nRespiratory sinus arrhythmia (RSA) is heart rate variability in synchrony with respiration, by which the R-R interval on an ECG is shortened during inspiration and prolonged during expiration (Yasuma, F., & Hayano, J. 2004).\nAlthough RSA has been used as an index of cardiac vagal function, it is also a physiologic phenomenon reflecting respiratory-circulatory interactions universally observed among vertebrates."
+  },
+  {
+    "objectID": "posts/psychophysmemory/index.html#background-1",
+    "href": "posts/psychophysmemory/index.html#background-1",
+    "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
+    "section": "Background",
+    "text": "Background\nOne study took just such an approach in a sample of children who watched emotion-eliciting film clips. On average, RSA and PEP demonstrated coordinated reciprocal activity across baseline and emotion inductions, (Gatzke- Kopp & Ram\n,…Further, within and across emotion contexts, the most common form of cross-system autonomic activity is reciprocal. However, the nature and magnitude of RSA-PEP correlations vary between emotion contexts"
   }
 ]
