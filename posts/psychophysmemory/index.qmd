@@ -58,13 +58,40 @@ SNS
 
 ## Question
 
+Broad Question
+
+The myriad social and cognitive challenges faced by humans require flexible modulation of ANS activity for different contexts.
+
 ## Question
+
+Specific Question
+
+-   The concurrent relation between RSA and PEP responses was modeled in order to determine the extent to which SNS and PNS activity is correlated across the task within and between participants
+
+-   whether this correlation was moderated by:
+
+    -   age Race sex
+
+    -   baseline RSA and PEP
 
 ## Logic
 
+Rather, the SNS and PNS function independently, and the nature of their coordinated activity varies between context and individuals 
+
 ## Methods
 
+Samples combined four previous studies (N=325, 63% female, aged 15-55) in which RSA and PEP were collected continuously during a resting baseline and an acute stressor, the Trier Social Stress Task.
+
+
 ## Results
+
+-   Overall, RSA and PEP were reciprocally coupled.
+
+-   However, recovery from a stressor was characterized by coactivation.
+
+-   Individuals also vary in the extent to which their SNS and PNS are reciprocally coupled:
+
+    -    women, younger adults, and individuals with higher baseline RSA showed more reciprocal coupling than men, older adults, and those with lower baseline RSA, respectively, reflecting **greater coordination of physiological responding in the former group**. \[men and older adults had less reciprocal coupling\]
 
 ## Inferences
 
