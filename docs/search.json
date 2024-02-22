@@ -403,7 +403,7 @@
     "href": "posts/psychophysneighbor/index.html#references",
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "REFERENCES",
-    "text": "REFERENCES\nKofler, L., Zhang, W. & Gao, Y.(2022). Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex. J Psychopathol Behav Assess 44, 98–114 https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s10862-021-09944-6"
+    "text": "REFERENCES\nKofler, L., Zhang, W. & Gao, Y.(2022). Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex. J Psychopathol Behav Assess 44, 98–114 https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s10862-021-09944-6\nNakhaie, M. R., Silverman, R. A., & LaGrange, T. C. (2000). Selfcontrol and social control: An examination of gender, ethnicity, class, and delinquency. The Canadian Journal of Sociology, 25(1), 35–59"
   },
   {
     "objectID": "posts/psychophysneighbor/index.html#psychophysiology",
@@ -529,7 +529,7 @@
     "href": "posts/psychophysneighbor/index.html#methods-inventories",
     "title": "BC REU Journal Club: Mentor Article - C Miller",
     "section": "Methods Inventories",
-    "text": "Methods Inventories\n\nInventories\n\nMeasures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive,\n\nAPSD\n\n20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,“thinks he or she is more important than others”) and DI (e.g., “acts without thinking”) subscales were used.\n\nICU\n\nThe ICU consists of 24 items measured on a 4-point Likert scale from 0 (not at all true) to 3 (definitely true)\n\nThe questionnaire is comprised of three subscales: Callousness (e.g., Does not seem to know “right” from “wrong”), Uncaring (e.g., Feeling bad or guilty when he/she has done something wrong), and Unemotional (e.g.,Expresses his/her feeling openly).\n\n\nSimilar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the available"
+    "text": "Methods Inventories\n\nInventories\n\nMeasures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive, Antisocial Process Screening Device (APSD) and Inventoryof Callous-Unemotional Traits (ICU) questionnaires.\n\nAPSD\n\n20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,“thinks he or she is more important than others”) and DI (e.g., “acts without thinking”) subscales were used.\n\nICU\n\nThe ICU consists of 24 items measured on a 4-point Likert scale from 0 (not at all true) to 3 (definitely true)\n\nThe questionnaire is comprised of three subscales: Callousness (e.g., Does not seem to know “right” from “wrong”), Uncaring (e.g., Feeling bad or guilty when he/she has done something wrong), and Unemotional (e.g.,Expresses his/her feeling openly).\n\n\nSimilar to the GM and DI scores, the children and their caregivers completed the self-report and parent-report versions of the questionnaire, and a combined CU score was created by taking the higher score reported for each item by either the child or the parent. If data were unavailable for one of the reporters, the available"
   },
   {
     "objectID": "posts/psychophysneighbor/index.html#methods-inventories-ii",
@@ -565,5 +565,33 @@
     "title": "Slideshow: Special Topics in Psychology: Stressor Tasks and the Autonomic Nervous System",
     "section": "Analysis",
     "text": "Analysis\n\nBaseline RSA and PEP were calculated by taking the mean of the five baseline/resting bins.\nRSA reactivity (ΔRSA) and PEP reactivity (ΔPEP) within each of the task periods were calculated by subtracting baseline RSA and PEP from unstandardized RSA and PEP.\nDifferences in the magnitude of ΔRSA and ΔPEP during each task period based on sex and race, and correlations with resting RSA and PEP, age, and with the other indicator during the same task period were calculated."
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#intro-social-control",
+    "href": "posts/psychophysneighbor/index.html#intro-social-control",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Intro Social Control",
+    "text": "Intro Social Control\nPrior Research\nThis article examined neighborhood social processes which included social control and social cohesion. Social control is contrasted with self-control in control theories on crime. Cited by the authors Self-Control and Social Control: An Examination of Gender, Ethnicity, Class and Deliquency (Nakahaie, M. et al. 2000) describes control theories in general as suggesting that left on their own(in an unsocialized state) people will deviate.\nInternal and external mechanisms prevent them from doing so.Social control can be operationalized as a bond to some part of society. The social bond is said to have four dimensions: attachment or ties to significant others(peers or parents), commitment or investment in conventional society(education), involvement in conventional behavior(participation in recreational activities) and belief in society’s values(respect for law and authority)"
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#intro-bsc",
+    "href": "posts/psychophysneighbor/index.html#intro-bsc",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Intro BSC",
+    "text": "Intro BSC\nAlso cited by the authors the, highly cited Biological sensitivity to context: I. An evolutionary–developmental theory of the origins and functions of stress reactivity(2005), along with phylogeny, and animal studies cites previous research on biological stress response and behavior outcomes.\nThe significance of reactivity to environment or stressors is detailed:\nOf particular relevance is the personality construct of reactivity (Strelau,1983), which indexes relatively stable individual differences in the intensity (or magnitude) of response to stimulation.\nHigher reactivity indicates less gating of internal information stemming from external events, and more reactive individuals are therefore susceptible to relatively weak environmental signals, have comparatively low optimal levels of arousal, and are less able than others to endure strong stimulation for prolonged periods of time"
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#intro-bsc-1",
+    "href": "posts/psychophysneighbor/index.html#intro-bsc-1",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Intro BSC",
+    "text": "Intro BSC\nBoyce and Ellis suggest there is a BSC phenotype due to differences in action of genetic and environmental influences that are hypothesized to constitute variations in susceptibility to environmental influence.\nCited by Boyce & Ellis: Bauer (2002) found, in a cross-sectional study, that the absolute levels of activation in either the sympathetic or adrenocortical system were less predictive of serious behavior problems in 4- to 8-year-old children than was the lack of concordance between the systems…children with activation asymmetries had the most, suggesting that dissociations between the sympathetic and adrenocortical arousal under conditions of challenge put children at risk for early psychopathology."
+  },
+  {
+    "objectID": "posts/psychophysneighbor/index.html#intro-current-paper",
+    "href": "posts/psychophysneighbor/index.html#intro-current-paper",
+    "title": "BC REU Journal Club: Mentor Article - C Miller",
+    "section": "Intro Current paper",
+    "text": "Intro Current paper\nRelevant to current paper, according to Biological sensitivity to context theory:\n\nChildren with higher physiological reactivity are more sensitive to their social environments whether it is supportive or adverse\nChildren with low physiological reactivity are not as affected by their environment\nHighly reactive children display poorer behavioral and health outcomes in harmful contexts such as adverse neighborhoods, or flourish under supportive environments.\nSome children are biologically more susceptible to environmental influences"
   }
 ]

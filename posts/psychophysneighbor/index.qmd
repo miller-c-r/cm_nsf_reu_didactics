@@ -43,11 +43,17 @@ This may also partially explain the surprising finding that for boys with lower 
 
 It is possible that while higher HR in boys and lower HR in girls are adaptive physiological states for responding to favorable social processes, the opposite resting states may index maladaptive physiological states.
 
-## Intro {.scrollable}
+## Intro Social Control {.scrollable}
 
 Prior Research
 
-Cited by the authors the, highly cited Biological sensitivity to context: I. An evolutionary--developmental theory of the origins and functions of stress reactivity(2005), along with phylogeny, and animal studies cites previous research on biological stress response and behavior outcomes.
+This article examined neighborhood social processes which included social control and social cohesion. Social control is contrasted with self-control in control theories on crime. Cited by the authors Self-Control and Social Control: An Examination of Gender, Ethnicity, Class and Deliquency (Nakahaie, M. et al. 2000) describes control theories in general as suggesting that left on their own(in an unsocialized state) people will deviate. 
+
+Internal and external mechanisms prevent them from doing so.Social control can be operationalized as a bond to some part of society. The social bond is said to have four dimensions: attachment or ties to significant others(peers or parents), commitment or investment in conventional society(education), involvement in conventional behavior(participation in recreational activities) and belief in society's values(respect for law and authority)
+
+## Intro BSC {.scrollable}
+
+Also cited by the authors the, highly cited Biological sensitivity to context: I. An evolutionary--developmental theory of the origins and functions of stress reactivity(2005), along with phylogeny, and animal studies cites previous research on biological stress response and behavior outcomes.
 
 The significance of reactivity to environment or stressors is detailed:
 
@@ -55,9 +61,13 @@ Of particular relevance is the personality construct of reactivity (Strelau,1983
 
 Higher reactivity indicates less gating of internal information stemming from external events, and more reactive individuals are therefore susceptible to relatively weak environmental signals, have comparatively low optimal levels of arousal, and are less able than others to endure strong stimulation for prolonged periods of time
 
+## Intro BSC
+
 Boyce and Ellis suggest there is a BSC phenotype due to differences in action of genetic and environmental influences that are hypothesized to constitute variations in susceptibility to environmental influence.
 
 Cited by Boyce & Ellis: Bauer (2002) found, in a cross-sectional study, that the absolute levels of activation in either the sympathetic or adrenocortical system were less predictive of serious behavior problems in 4- to 8-year-old children than was the lack of concordance between the systems...children with activation asymmetries had the most, suggesting that dissociations between the sympathetic and adrenocortical arousal under conditions of challenge put children at risk for early psychopathology.
+
+## Intro Current paper
 
 Relevant to current paper, according to Biological sensitivity to context theory:
 
@@ -116,7 +126,7 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 ## Methods Inventories {.scrollable}
 
 -   **Inventories**
-    -   Measures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive,
+    -   Measures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive, Antisocial Process Screening Device (APSD) and Inventoryof Callous-Unemotional Traits (ICU) questionnaires. 
         -   APSD
             -   20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,"thinks he or she is more important than others") and DI (e.g., "acts without thinking") subscales were used.
         -   ICU
@@ -180,6 +190,11 @@ e.  These relationships are further differentiated by sex
 ## REFERENCES {.scrollable}
 
 Kofler, L., Zhang, W. & Gao, Y.(2022). Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex. J Psychopathol Behav Assess 44, 98--114 https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s10862-021-09944-6
+
+Nakhaie, M. R., Silverman, R. A., & LaGrange, T. C. (2000). Selfcontrol
+and social control: An examination of gender, ethnicity,
+class, and delinquency. The Canadian Journal of Sociology, 25(1),
+35–59
 
 ## Jump Pack to Home
 
