@@ -7,5 +7,3 @@ image: "patho_anx.jpeg"
 # My REU Research Question
 
 ## Topic: Biopsychosocial Interactions
-
-
