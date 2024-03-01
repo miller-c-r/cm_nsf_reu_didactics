@@ -10,83 +10,52 @@ execute:
   echo: false
 ---
 
-
 ## A Presentation by C Miller
 
 CUNY Brooklyn College REU 2024 Cohort
 
-
 ## Music Lessons Enhance IQ
 
-Music Lessons Enhance IQ 
+Music Lessons Enhance IQ
 
-(2024) E. Glenn Schellenberg 
-University of Toronto at Mississauga, Mississauga, Ontario, Canada
-
-
+(2024) E. Glenn Schellenberg University of Toronto at Mississauga, Mississauga, Ontario, Canada
 
 ## Abstract
 
-The idea that music makes you smarter has received
-considerable attention from scholars and the media. The present
-report is the first to test this hypothesis directly with random
-assignment of a large sample of children (N= 144) to two different
-types of music lessons (keyboard or voice) or to control
-groups that received drama lessons or no lessons. 
+The idea that music makes you smarter has received considerable attention from scholars and the media. The present report is the first to test this hypothesis directly with random assignment of a large sample of children (N= 144) to two different types of music lessons (keyboard or voice) or to control groups that received drama lessons or no lessons.
 
 ## Abstract
 
-IQ was measured before and after the lessons. Compared with children
-in the control groups, children in the music groups exhibited
-greater increases in full-scale IQ. The effect was relatively
-small, but it generalized across IQ subtests, index scores, and a
-standardized measure of academic achievement. 
+IQ was measured before and after the lessons. Compared with children in the control groups, children in the music groups exhibited greater increases in full-scale IQ. The effect was relatively small, but it generalized across IQ subtests, index scores, and a standardized measure of academic achievement.
 
-Unexpectedly, children in the drama group exhibited substantial pre- to posttest
-improvements in adaptive social behavior that were not
-evident in the music groups.
+Unexpectedly, children in the drama group exhibited substantial pre- to posttest improvements in adaptive social behavior that were not evident in the music groups.
 
 ## Methods
 
-There was random assignment of a large sample of children age 6 years old to four different groups
-Two groups received music lessons: standard keyboard, Koda´ly voice. 
+There was random assignment of a large sample of children age 6 years old to four different groups Two groups received music lessons: standard keyboard, Koda´ly voice.
 
 Two groups received instruction in a nonmusical artistic activity (drama) or no lessons
 
 The lessons were taught for 36 weeks
 
-Measures of IQ: 
-The WISC-III (The primary outcome measure was the Wechsler Intelligence Scale
-for Children–Third Edition) , the Kaufman Test of Educational
-Achievement and the Parent Rating Scale of the Behavioral Assessment System for Children
-were administered initially during the summer months before the onset of music or drama lessons
-and before the children entered first grade at school
-
+Measures of IQ: The WISC-III (The primary outcome measure was the Wechsler Intelligence Scale for Children--Third Edition) , the Kaufman Test of Educational Achievement and the Parent Rating Scale of the Behavioral Assessment System for Children were administered initially during the summer months before the onset of music or drama lessons and before the children entered first grade at school
 
 ## Results
 
-Increases in full-scale IQ occurred in all four groups, and significant increases in IQ, 
-ps < .005.
+Increases in full-scale IQ occurred in all four groups, and significant increases in IQ, ps \< .005.
 
-The two music groups had increases of similar magnitude despite differences
-in teaching style ( p > .8). 
+The two music groups had increases of similar magnitude despite differences in teaching style ( p \> .8).
 
-The two control groups also had similar increases ( p > .7), which indicates that drama instruction is not an extracurricular activity associated with notable increases in
-intellectual development.
+The two control groups also had similar increases ( p \> .7), which indicates that drama instruction is not an extracurricular activity associated with notable increases in intellectual development.
 
-Compared with the control groups, the music groups had reliably larger increases in full-scale IQ,
-t(130)51.99, p < .05.
+Compared with the control groups, the music groups had reliably larger increases in full-scale IQ, t(130)51.99, p \< .05.
 
 ## Results
 
-![](music_chart.jpg){} 
-Fig. 1. Mean increase in full-scale IQ (Wechsler Intelligence Scale for
-Children–Third Edition) for each group of 6-year-olds who completed
-the study. Error bars show standard errors.
+![](music_chart.jpg) Fig. 1. Mean increase in full-scale IQ (Wechsler Intelligence Scale for Children--Third Edition) for each group of 6-year-olds who completed the study. Error bars show standard errors.
 
 ## References
 
 Schellenberg, E. G. (2004). Music Lessons Enhance IQ. Psychological Science, 15(8), 511-514. https://doi.org/10.1111/j.0956-7976.2004.00711.x
-
 
 ## Thank You !
