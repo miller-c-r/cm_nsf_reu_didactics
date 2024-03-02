@@ -36,6 +36,8 @@ There was random assignment of a large sample of children age 6 years old to fou
 
 Two groups received instruction in a nonmusical artistic activity (drama) or no lessons
 
+## Methods
+
 The lessons were taught for 36 weeks
 
 Measures of IQ: The WISC-III (The primary outcome measure was the Wechsler Intelligence Scale for Children--Third Edition) , the Kaufman Test of Educational Achievement and the Parent Rating Scale of the Behavioral Assessment System for Children were administered initially during the summer months before the onset of music or drama lessons and before the children entered first grade at school

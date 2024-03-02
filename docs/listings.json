@@ -3,8 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/psychophys1/index.html",
-      "/posts/psychophysmemory/index.html",
       "/posts/psychophysneighbor/index.html",
+      "/posts/psychophyspeers/index.html",
       "/posts/psychophysquestion/index.html",
       "/posts/psychophysrefer/index.html",
       "/posts/psychstatistics/index.html"

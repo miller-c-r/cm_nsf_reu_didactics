@@ -1,0 +1,72 @@
+---
+title: " Slideshow: Regulatingn Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation"
+format:
+  revealjs:
+    incremental: true
+    theme: [default, style.scss]
+    transition: zoom
+editor: visual
+execute:
+  echo: false
+---
+
+## Jump Pack to Home
+
+Use the link below or in the bottom left to navigate to the main page
+
+[Link to Website Home](https://miller-c-r.github.io/cm_nsf_reu_didactics/)
+
+## A Presentation by:
+
+C. M.
+
+Department of Psychology
+
+
+## The Article
+
+Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten
+
+Fry, Cassidy, Gatzke-Koppe, Lisa, M. (2021)
+
+## Background
+
+## Key Terms
+
+Respiratory Sinus Arrhythmia
+
+RSA Withdrawal
+
+Affective Arousal
+
+Negative Valence System
+
+## Question
+
+Broad Question
+
+
+
+## Specific Question
+
+## Limitations
+
+Sample size, methods, generalizability to clinical sample, bias during peer assessment
+
+Measures of stress
+
+## REFERENCES {.scrollable}
+
+  Fry, C. M., & Gatzke-Kopp, L. M. (2021). Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten. Research on Child and Adolescent Psychopathology, 49(12), 1537--1549. https://doi.org/10.1007/s10802-021-00844-7
+
+
+  Yasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683--690. https://doi.org/10.1378/chest.125.2.683
+
+
+## Thank You 
+
+THANK YOU !
+
+C Miller
+
+Department of Psychology
