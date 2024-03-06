@@ -22,7 +22,6 @@ C. M.
 
 Department of Psychology
 
-
 ## The Article
 
 Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten
@@ -31,7 +30,15 @@ Fry, Cassidy, Gatzke-Koppe, Lisa, M. (2021)
 
 ## Background
 
+Appropriate regulatory skills are needed to temper dysregulated responding and redirect frustration in a more positive and prosocial direction
+
 ## Key Terms
+
+Anterior Insula
+
+-   activation of anterior insula in goal-blockage and other prefrontal regions associated with processing emotional pain
+
+-   role of anterior insula in autonomic control
 
 Respiratory Sinus Arrhythmia
 
@@ -45,9 +52,51 @@ Negative Valence System
 
 Broad Question
 
-
+Regualting Affective Arousal Peer rejection exacerbating emotion dysregulation
 
 ## Specific Question
+
+Relative to socially successful children those rejected by their peers would display atypical reactivity patterns that could consist of greater slope of RSA withdrawal in response to frustration block consistent with anger-oriented response and/or
+
+lack of recovery in the final task block when reward is reinstated consistent with an inability to rebound following frustration
+
+## Methods
+
+Participants
+
+N = 235 Kindergarteners Showing externalizing behavior in low-income urban school
+
+Study across 10 elementary school Children were 54% hign in disruptive behavior Teacher screening tool was utilized for aggressive/oppositional behavior
+
+## Methods
+
+Groups
+
+207 Children in top quartile of disruptive behavior from each classroom
+
+Random assignment to control or intervention group
+
+132 children in the bottom quartile matched for sex and classroom were recruited for comparison group
+
+## Methods
+
+1.  All children received the universal socioemotional curriculum implemented district wide
+2.  children assigned to the intervention condition participated in weekly "Friendship Group" training sessions focused on developing and practicing skills related to self-control and peer relations
+3.  the game
+    1.  Children were informed that the objective of the game was to win as many points as possible to exchange for a prize at the end.
+    2.  Participants earned points for correct responses and lost points for incorrect responses, with cumulative points visually represented by a thermometer approximately every 10 trials
+
+<!-- -->
+
+4.  For the first and third blocks (reward), the algorithm strongly favored correct responses, resulting in more positive feedback and a rapid allocation of points
+
+## Findings
+
+Children who were peer rejected exhibited a significant decline in RSA across the frustration condition
+
+Their RSA levels remained low even when they experienced the reinstatement of reward
+
+In contrast socially accepted children demonstrated more stability in RSA levels across three blocks suggesting greater regulation of affective arousal
 
 ## Limitations
 
@@ -57,13 +106,11 @@ Measures of stress
 
 ## REFERENCES {.scrollable}
 
-  Fry, C. M., & Gatzke-Kopp, L. M. (2021). Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten. Research on Child and Adolescent Psychopathology, 49(12), 1537--1549. https://doi.org/10.1007/s10802-021-00844-7
+Fry, C. M., & Gatzke-Kopp, L. M. (2021). Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten. Research on Child and Adolescent Psychopathology, 49(12), 1537--1549. https://doi.org/10.1007/s10802-021-00844-7
 
+Yasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683--690. https://doi.org/10.1378/chest.125.2.683
 
-  Yasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683--690. https://doi.org/10.1378/chest.125.2.683
-
-
-## Thank You 
+## Thank You
 
 THANK YOU !
 
