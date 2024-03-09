@@ -30,9 +30,28 @@ Fry, Cassidy, Gatzke-Koppe, Lisa, M. (2021)
 
 ## Background
 
+Topic Psychophysiology
+
+The Polyvagal Perspective
+
+Psychophysiology transforms unobservable psychological or mental processes into measurable physiological data
+
+## The Cardiotachometer
+
+![](tachometer_boas.jpg){.absolute top="50" left="200" width="500" height="400"}
+![](rear_tachometer.jpg){.absolute bottom="50" right="200" width="500" height="200"}
+
+## Background
+
 Appropriate regulatory skills are needed to temper dysregulated responding and redirect frustration in a more positive and prosocial direction
 
-Polyvagal Theory
+Polyvagal Theory (Porges 2007)
+
+Through polyvagal theory we endeavor to understand the reciprocal influences and bidirectional communication between the heart and the central nervous system
+
+The polyvagal perspective relates autonomic nervous system (ANS) function to behavior.
+This perspective includes the ANS, neural circuits involved in the regulation of autonomic state, and an interpretation of autonomic reactivity as adaptive
+
 
 ## Key Terms
 
