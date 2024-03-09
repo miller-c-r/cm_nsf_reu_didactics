@@ -1,0 +1,92 @@
+---
+title: " Replicating Raine. Slideshow: Psychophysiology Research Topic "
+format:
+  revealjs:
+    theme: [default, style2.scss]
+    transition: zoom
+editor: visual
+execute:
+  echo: false
+---
+
+[Link to C Miller Home Screen](https://miller-c-r.github.io/cm_nsf_reu_didactics/)
+
+## A Presentation by:
+
+C. Miller
+
+Department of Psychology
+
+## Topic: Biopsychosocial Interactions
+
+Psychological Perspective: Biopsychosocial
+
+## Background
+
+Previous Research. Gaps in Previous Research.
+
+Broad Question:
+
+The Autonomic Nervous System as a Moderator for Aggressive Behavior in and Intergenerational
+
+## Research Question
+
+Replicating Raine (2023)
+
+How do Heart Rate and Physiological Indices of PNS moderate Aggression Rates in Parent-Child Dyads
+
+Specific Question:
+
+Do Heart Rate and RSA Withdrawal Moderate Aggression in Parent-Child Dyads?
+
+## Hypothesis
+
+-   Hypothesis (1) Lower baseline RSA is a risk factor for aggression in children regardless of parental aggression score
+
+-   Hypothesis (2) Increase in RSA withdrawal relative to baseline in children during emotion-inducing or stressor task, regardless of parental aggression score is a risk factor for aggression
+
+-   Hypothesis (3) Children of parents that score higher on aggression would display increased RSA withdrawal relative to baseline as an indicator of emotion dysregulation, and maladaptive response to stressor with higher levels of reported aggressive behavior in line with maladaptive response to negative environment posited by biological sensitivity to context theory
+
+-   Hypothesis (4) Children of parents thar score higher on aggression with higher resting heart rate would exhibit higher levels of reported aggression in line with maladaptive response to negative environment posited by biological sensitivity to context theory
+
+-   Polyvagal Theory
+
+    -   Polyvagal theory leads toward a hierarchical conceptualization of feelings as higher brain interpretations of the neural signals conveying informationm regarding visceral organs(heart, gut, etc.)
+
+    -   This psychophysicological perspective emphasizes the foundational function of autonomic state in the subjective experiences of global feelings and specific emotions
+
+    -   higher behavioral functions, which are frequently intentional are dependent on the functioning of the more survival focused foundational systems ejmbedded in the brainstem (Porges, 2022)
+
+-   Respiratory Sinus Arrhythmia (RSA)
+
+    -   A periodic component of beat-to-beat heart rate variability that is synchronous with spontaneous breathing
+
+    -   A valid index of cardiac vagal tone via ventral(ventral spine) vagal pathways(Porges, 2022)
+
+-   RSA Withdrawal
+
+    -   Removal of vagal brake, increase in physiological arousal
+
+-   Biological Sensitivity to Context Theory (BSC)
+
+    -   Children who are more reactive to the environment are more susceptible to both supportive and risky environmental contexts(Perry, K. , Ostrov, J. M. , 2023)
+
+## Logic
+
+## Methods
+
+## Results
+
+## Inferences
+
+## Limitations
+
+## REFERENCES {.scrollable}
+
+Morris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
+
+Perry, K. J., Ostrov, J. M., et. al. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693--708. https://doi.org/10.1007/s10802-022-01013-0
+
+Porges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227
+
+Raine, Choy. (2023). High Resting Heart Rate Protects Against the Intergenerational Transmission of Antisocial Behavior: A Birth Cohort Study

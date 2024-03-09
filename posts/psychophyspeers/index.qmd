@@ -1,5 +1,5 @@
 ---
-title: " Slideshow: Regulatingn Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation"
+title: " Slideshow: Regulating Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation"
 format:
   revealjs:
     incremental: true
@@ -32,6 +32,8 @@ Fry, Cassidy, Gatzke-Koppe, Lisa, M. (2021)
 
 Appropriate regulatory skills are needed to temper dysregulated responding and redirect frustration in a more positive and prosocial direction
 
+Polyvagal Theory
+
 ## Key Terms
 
 Anterior Insula
@@ -40,9 +42,27 @@ Anterior Insula
 
 -   role of anterior insula in autonomic control
 
+Emotional Regulation
+
+This refers to the process of monitoring, evaluating and modulating emotional reactions with the purpose of goal attainment For example upregulating excitement, or dampening frustration to facilitate positive interpersonal interactions
+
+Children who struggle to regulate strong emotional reactivity are more likely to violate social norms
+
 Respiratory Sinus Arrhythmia
 
+Respiratory sinys arrhythmia (RSA) is heart rate variability in synchrony with respiration by which the R-R interval on an ECG is shortened during inspiration and prolonged during expiration (Yasuma, F. , Hayano, J 2004)
+
+RSA is utilized as a physiological index of emotoion regulation, or biomarker of dysregulation (Zhang, W., Fagan, S. E., & Gao, Y. (2017) Linked to emotion regulation
+
 RSA Withdrawal
+
+Also referred to as vagal withdrawal. Vagal/RSA withdrawal as opposed to vagal/RSA augmentation. During vagal withdrawal the vagus nerve withdraws its control over the heart resulting in increased PNS(RSA) reactivity Appropriate levels of vagal withdrawal are adaptive and necessary for effectively reacting to external threats.
+
+For example Research has also indicated that greater RSA withdrawal (increased arousal) in response to an emotional challenge reflects greater attentional engagement with the emotional stimulus and a potential loss of regulatory control over affective arousal
+
+Vagus Augmentation
+
+During vagus augmentation the Vagus nerve increases its control over the heart resulting in decreased PNS(RSA) reactivity. Vagal augmentation may lead to increased control of emotionality that can attenuate painful experiences and insensitivity to socializing punishments (Zhang, W., Fagan, S. E., Gao, Y. 2017)
 
 Affective Arousal
 
@@ -90,6 +110,12 @@ Random assignment to control or intervention group
 
 4.  For the first and third blocks (reward), the algorithm strongly favored correct responses, resulting in more positive feedback and a rapid allocation of points
 
+## Results
+
+![](rsa_across_tasks.png){.absolute left="50" right="200" width="800" height="500"}
+
+
+
 ## Findings
 
 Children who were peer rejected exhibited a significant decline in RSA across the frustration condition
@@ -108,7 +134,11 @@ Measures of stress
 
 Fry, C. M., & Gatzke-Kopp, L. M. (2021). Association Between Dynamic Parasympathetic Reactivity to Frustration and Children's Social Success with Peers in Kindergarten. Research on Child and Adolescent Psychopathology, 49(12), 1537--1549. https://doi.org/10.1007/s10802-021-00844-7
 
+Porges, S. W. (2007). The polyvagal perspective. Biological Psychology, 74(2), 116--143. https://doi.org/10.1016/j.biopsycho.2006.06.009
+
 Yasuma, F., & Hayano, J. (2004). Respiratory sinus arrhythmia: why does the heartbeat synchronize with respiratory rhythm?. Chest, 125(2), 683--690. https://doi.org/10.1378/chest.125.2.683
+
+Zhang, W., Fagan, S. E., & Gao, Y. (2017). Respiratory Sinus Arrhythmia Activity Predicts Internalizing and Externalizing Behaviors in Non-referred Boys. Frontiers in psychology, 8, 1496. https://doi.org/10.3389/fpsyg.2017.01496
 
 ## Thank You
 
