@@ -760,7 +760,7 @@
     "href": "posts/psychophyspeers/index.html#results",
     "title": "Slideshow: Regulating Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation",
     "section": "Results",
-    "text": "Results"
+    "text": "Results\n!descriptives_comparisons_peer.png){.absolute left=“50” right=“200” width=“800” height=“500”}"
   },
   {
     "objectID": "posts/psychophyspeers/index.html#inferences",
@@ -894,5 +894,12 @@
     "title": "Replicating Raine. Slideshow: Psychophysiology Research Topic",
     "section": "REFERENCES",
     "text": "REFERENCES\nMorris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.\nPerry, K. J., Ostrov, J. M., et. al. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693–708. https://doi.org/10.1007/s10802-022-01013-0\nPorges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227\nRaine, Choy. (2023). High Resting Heart Rate Protects Against the Intergenerational Transmission of Antisocial Behavior: A Birth Cohort Study"
+  },
+  {
+    "objectID": "posts/psychophyspeers/index.html#results-1",
+    "href": "posts/psychophyspeers/index.html#results-1",
+    "title": "Slideshow: Regulating Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation",
+    "section": "Results",
+    "text": "Results"
   }
 ]
