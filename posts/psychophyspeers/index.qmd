@@ -112,7 +112,7 @@ Random assignment to control or intervention group
 
 ## Results
 
-!descriptives_comparisons_peer.png){.absolute left="50" right="200" width="800" height="500"}
+![](descriptives_comparisons_peer.png){.absolute left="50" right="200" width="1000" height="600"}
 
 ## Results
 
