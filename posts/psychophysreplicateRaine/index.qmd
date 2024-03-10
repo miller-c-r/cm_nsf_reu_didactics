@@ -21,9 +21,9 @@ Department of Psychology
 
 CUNY Brooklyn College
 
-A Presentation from the Psychophysiology Lab 
+A Presentation from the Psychophysiology Lab
 
-##  Psychophysiology
+## Psychophysiology
 
 Psychophysiology transforms unobservable psychological or mental processes into measurable physiological data (Porges, 2006).
 
@@ -35,32 +35,36 @@ Authors: **Raine, A., Choy, O., Achenbach, T. et al. (2023)**
 
 Journal: **European Child & Adolescent Psychology**
 
-
-
-
-
 ## Background
 
-In this paper the authors utilize heart rate as a measure of physiological function as a possible moderator between behavior and intergenerational transmission of antisocial behavior.
+In this paper the authors utilize heart rate as a measure of physiological function as a possible moderator between behavior and intergenerational transmission of antisocial behavior. The following theoretical perspectives are listed to support their logic:
+
+-   Fearlessness Theory
+
+    -   Low heart rate during a rest period reflects a relative lack of fear to a mild stressor for a child(unfamiliar laboratory)
+
+    -   The authors write that higher resting heart rate reflects fearfulness and would decrease antisocial acts due to fear of punishment
+
+-   Stimulation Seeking Theory
+
+    -   Low physiological arousal motivates individuals to seek stimulation to increase their arousal levels (Risk-taking antisocial acts elevate arousal to optimal level)
+
+    -   Regarding this theory, individuals with higher autonomic arousal may encourage individuals to avoid stimulating experiences.
 
 
-Theoretical Perspectives.
+## Question
 
+Broad Question
 
-Fearlessness Theory
+Examining resting heart rate as a biological protective factor, and the level of influence of psychosocial factors on antisocial behavior.
 
-Low heart rate during a rest period reflects a relative lack of fear to a mild stressor for a child(unfamiliar laboratory)
+Specific Question
 
-The authors write that higer resting heart rate reflects fearfulness and would decrease antisocial acts due to fear of punishment
+Investigating biologcial correlates for intergenerational discontinuity of antisocial behavior
 
+Hypotheses:
 
-Stimulation Seeking Theory
-
-Low physiological arousal motivates individuals to seek stimulation to increase their arousal levels
-(Risk-taking antisocial acts elevate arousal to optimal level)
-
-Regarding this theory, individuals with higher autonomic arousal may encourage individuals to avoid stimulating experiences. 
-
+High heart rate may act as a protective factor in children. The high parent antisocial/low child antisocial group would have higher heart rates than the other three groups
 
 ## Key Terms
 
