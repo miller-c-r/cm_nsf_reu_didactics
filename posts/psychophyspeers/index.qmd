@@ -1,5 +1,5 @@
 ---
-title: " Slideshow: Regulating Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation"
+title: " Slideshow: Regulating Affective Arousal, Peer Rejection and Exacerbation of Emotion Dysregulation "
 format:
   revealjs:
     incremental: true
@@ -38,8 +38,7 @@ Psychophysiology transforms unobservable psychological or mental processes into 
 
 ## The Cardiotachometer
 
-![](tachometer_boas.jpg){.absolute top="50" left="200" width="500" height="400"}
-![](rear_tachometer.jpg){.absolute bottom="50" right="200" width="500" height="200"}
+![](tachometer_boas.jpg){.absolute top="50" left="200" width="500" height="400"} ![](rear_tachometer.jpg){.absolute bottom="50" right="200" width="500" height="200"}
 
 ## Background
 
@@ -49,9 +48,7 @@ Polyvagal Theory (Porges 2007)
 
 Through polyvagal theory we endeavor to understand the reciprocal influences and bidirectional communication between the heart and the central nervous system
 
-The polyvagal perspective relates autonomic nervous system (ANS) function to behavior.
-This perspective includes the ANS, neural circuits involved in the regulation of autonomic state, and an interpretation of autonomic reactivity as adaptive
-
+The polyvagal perspective relates autonomic nervous system (ANS) function to behavior. This perspective includes the ANS, neural circuits involved in the regulation of autonomic state, and an interpretation of autonomic reactivity as adaptive
 
 ## Key Terms
 
@@ -136,8 +133,6 @@ Random assignment to control or intervention group
 ## Results
 
 ![](rsa_across_tasks.png){.absolute left="50" right="200" width="800" height="500"}
-
-
 
 ## Findings
 
