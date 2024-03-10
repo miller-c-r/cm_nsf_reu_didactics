@@ -1,9 +1,9 @@
 ---
-title: " Replicating Raine. Slideshow: Psychophysiology Research Topic "
+title: " Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior"
 format:
   revealjs:
-    theme: moon
-    transition: zoom
+    theme: [default, style2.scss]
+    transition: slide
 editor: visual
 execute:
   echo: false
@@ -21,7 +21,13 @@ Department of Psychology
 
 CUNY Brooklyn College
 
-Presenting Journal Article:
+A Presentation from the Psychophysiology Lab 
+
+##  Psychophysiology
+
+Psychophysiology transforms unobservable psychological or mental processes into measurable physiological data (Porges, 2006).
+
+## Journal Article Presentation
 
 **High Resting Heart Rate Protects Against the Intergenerational Transmission of Antisocial Behavior: A Birth Cohort Study**
 
@@ -29,27 +35,32 @@ Authors: **Raine, A., Choy, O., Achenbach, T. et al. (2023)**
 
 Journal: **European Child & Adolescent Psychology**
 
-## The Boas Cardiotachometer of 1932
 
-This study follows the tradition of psychophysiology.
 
-Psychophysiology transforms unobservable psychological or mental processes into measurable physiological data.
 
-![](tachometer_boas.jpg){.absolute top="50" left="200" width="500" height="400"} ![](rear_tachometer.jpg){.absolute bottom="50" right="200" width="500" height="200"}
 
 ## Background
 
 In this paper the authors utilize heart rate as a measure of physiological function as a possible moderator between behavior and intergenerational transmission of antisocial behavior.
 
-Previous Research. Gaps in Previous Research.
 
-Appropriate regulatory skills are needed to temper dysregulated responding and redirect frustration in a more positive and prosocial direction
+Theoretical Perspectives.
 
-Polyvagal Theory (Porges 2007)
 
-Through polyvagal theory we endeavor to understand the reciprocal influences and bidirectional communication between the heart and the central nervous system
+Fearlessness Theory
 
-The polyvagal perspective relates autonomic nervous system (ANS) function to behavior. This perspective includes the ANS, neural circuits involved in the regulation of autonomic state, and an interpretation of autonomic reactivity as adaptive
+Low heart rate during a rest period reflects a relative lack of fear to a mild stressor for a child(unfamiliar laboratory)
+
+The authors write that higer resting heart rate reflects fearfulness and would decrease antisocial acts due to fear of punishment
+
+
+Stimulation Seeking Theory
+
+Low physiological arousal motivates individuals to seek stimulation to increase their arousal levels
+(Risk-taking antisocial acts elevate arousal to optimal level)
+
+Regarding this theory, individuals with higher autonomic arousal may encourage individuals to avoid stimulating experiences. 
+
 
 ## Key Terms
 
@@ -87,7 +98,7 @@ During vagus augmentation the Vagus nerve increases its control over the heart r
 
 ## Results
 
-![](four_antisocials.png){.absolute bottom="50" right="200" width="500" height="200"}
+![](four_antisocials.png){.absolute bottom="10" left="200" width="4000" height="1000"}
 
 ## Inferences
 
@@ -98,6 +109,8 @@ During vagus augmentation the Vagus nerve increases its control over the heart r
 Morris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
 
 Perry, K. J., Ostrov, J. M., et. al. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693--708. https://doi.org/10.1007/s10802-022-01013-0
+
+Porges, S. W. (2006). The Polyvagal Perspecitve. Biological Psychology. doi:10.1016/j.biopsycho.2006.06.009
 
 Porges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227
 
