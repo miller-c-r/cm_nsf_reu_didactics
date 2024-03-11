@@ -35,7 +35,7 @@ Authors: **Raine, A., Choy, O., Achenbach, T. et al. (2023)**
 
 Journal: **European Child & Adolescent Psychology**
 
-## Background
+## Background {.scrollable}
 
 In this paper the authors utilize heart rate as a measure of physiological function as a possible moderator between behavior and intergenerational transmission of antisocial behavior. The following theoretical perspectives were included to support their logic:
 
@@ -51,7 +51,7 @@ In this paper the authors utilize heart rate as a measure of physiological funct
 
     -   Regarding this theory, individuals with higher autonomic arousal may encourage individuals to avoid stimulating experiences.
 
-## Question
+## Question {.scrollable}
 
 -   Broad Question
 
@@ -65,7 +65,7 @@ In this paper the authors utilize heart rate as a measure of physiological funct
 
     -   High heart rate may act as a protective factor in children. The high parent antisocial/low child antisocial group would have higher heart rates than the other three groups
 
-## Logic
+
 
 ## Methods
 
@@ -75,62 +75,33 @@ In this paper the authors utilize heart rate as a measure of physiological funct
 
 ![](mauri.jpg){.absolute bottom="10" left="500" width="700" height="700"}
 
-## Participants and Duration
+## Participants and Duration {.scrollable}
 
-Participants were recruited from a database of a birth cohort study of child health and development
-The participants consisted of 405 parent-child dyads, N=810
-Children born between 1969-1970 in two towns on the island were recruited.
-Children were recruited at 3 years of age from September 1972 to August 1973
-The towns Vacoas and Quatre, Bornes were chosen to represent the ethnic distribution of the island
+Participants were recruited from a database of a birth cohort study of child health and development The participants consisted of 405 parent-child dyads, N=810 Children born between 1969-1970 in two towns on the island were recruited. Children were recruited at 3 years of age from September 1972 to August 1973 The towns Vacoas and Quatre, Bornes were chosen to represent the ethnic distribution of the island
 
 The study took place from March 2018 to April 2019
 
-
 ## Demographics
 
-Children (55.3% female) had a mean age of 15.3 years (range 11.0–19.9 years, SD = 2.2), with 78.5%
-Indian and 21.5% Creole. 
-Parents (75.8% female) had a mean age of 45.9 years (range 29.0–61.1 years, SD = 4.53), with 79.3% Indian and 20.7% Creole.
+Children (55.3% female) had a mean age of 15.3 years (range 11.0--19.9 years, SD = 2.2), with 78.5% Indian and 21.5% Creole. Parents (75.8% female) had a mean age of 45.9 years (range 29.0--61.1 years, SD = 4.53), with 79.3% Indian and 20.7% Creole.
 
-## Inventories utilized to assess antisocial behavior
+## Inventories utilized to assess antisocial behavior {.scrollable}
 
-Child self-reported antisocial behavior was assessed using
-six scales. 
-Aggressive behavior, rule-breaking behavior,
-and attention problems were assessed using the Youth Self-
-Report  
-The fourth scale was the 10-item version of
-the Inventory of Callous-Unemotional Traits ICU  
-The final two scales were the Reactive and Proactive Aggression scales of the
-Reactive and Proactive Aggression Questionnaire
+Child self-reported antisocial behavior was assessed using six scales. Aggressive behavior, rule-breaking behavior, and attention problems were assessed using the Youth Self- Report\
+The fourth scale was the 10-item version of the Inventory of Callous-Unemotional Traits ICU\
+The final two scales were the Reactive and Proactive Aggression scales of the Reactive and Proactive Aggression Questionnaire
 
 ## Inventories Parents
 
-Parents provided self-reports of aggressive behavior, rulebreaking
-behavior, intrusive behavior, and attention problems
-on the Adult Self-Report (ASR)
+Parents provided self-reports of aggressive behavior, rulebreaking behavior, intrusive behavior, and attention problems on the Adult Self-Report (ASR)
 
-Parents also provided self-reports of reactive
-and proactive aggression on the RPQ
+Parents also provided self-reports of reactive and proactive aggression on the RPQ
 
 ## Social Adversity {.scrollable}
 
-In a demographic interview with the parent, the following 16
-indicators of social adversity were collected: parental teenage
-pregnancy (2.0%), single parent family (14.8%), four or
-more siblings (9.1%), father unemployed (3.2%), parent with
-physical or mental health problems (2.7%), parent smoked
-5 or more cigarettes per day (17.3%), parent drinks more
-than 14 units of alcohol per week (5.2%), parent arrested
-(5.9%), living in government housing (2.0%), low parental
-education (19.5%), low occupation level (18.8%), low family
-income (24.7%), poor home living conditions (19.8%),
-problems with neighborhood crime (8.6%), problems with
-neighborhood conditions (19.0%), and child illness (3.0%).
+In a demographic interview with the parent, the following 16 indicators of social adversity were collected: parental teenage pregnancy (2.0%), single parent family (14.8%), four or more siblings (9.1%), father unemployed (3.2%), parent with physical or mental health problems (2.7%), parent smoked 5 or more cigarettes per day (17.3%), parent drinks more than 14 units of alcohol per week (5.2%), parent arrested (5.9%), living in government housing (2.0%), low parental education (19.5%), low occupation level (18.8%), low family income (24.7%), poor home living conditions (19.8%), problems with neighborhood crime (8.6%), problems with neighborhood conditions (19.0%), and child illness (3.0%).
 
-Variables were scored on the basis of being present (1) or absent (0), with
-scores summed to provide a total adversity score.
-
+Variables were scored on the basis of being present (1) or absent (0), with scores summed to provide a total adversity score.
 
 ## Analysis {.scrollable}
 
@@ -158,56 +129,41 @@ scores summed to provide a total adversity score.
 
 ![](four_antisocials.png){.absolute bottom="10" right="150" width="2000" height="600"}
 
-## Resting Heart Rate and Intergenerational Continuity
+## Resting Heart Rate and Intergenerational Continuity {.scrollable}
 
-There was a significant positive correlation between the
-child’s resting heart rate and the intergenerational discontinuity
-score, r = 0.16, d = 0.32, p < 0.001.
+There was a significant positive correlation between the child's resting heart rate and the intergenerational discontinuity score, r = 0.16, d = 0.32, p \< 0.001.
 
-For the initial median split analyses (50% cut-point), there
-was a significant effect of group on child resting heart rate,
-F(3,392) = 2.98, p = 0.031, partial eta2 = 0.022.
+For the initial median split analyses (50% cut-point), there was a significant effect of group on child resting heart rate, F(3,392) = 2.98, p = 0.031, partial eta2 = 0.022.
 
-The parent antisocial/child non-antisocial group had significantly higher
-resting heart rates than every other group, who did not differ
-significantly from one another
+The parent antisocial/child non-antisocial group had significantly higher resting heart rates than every other group, who did not differ significantly from one another
 
-There was a main effect of heart rate
-grouping on intergenerational discontinuity, F(2,393) = 5.03, p = 0.007, partial eta2
-= 0.025.
+There was a main effect of heart rate grouping on intergenerational discontinuity, F(2,393) = 5.03, p = 0.007, partial eta2 = 0.025.
 
-## Discussion
+## Discussion {.scrollable}
 
-Three kinds of evidence that high resting heart rate may protect against the intergenerational transmission of antisocial behavior. 
+Three kinds of evidence that high resting heart rate may protect against the intergenerational transmission of antisocial behavior.
 
-First, heart rate was positively associated with an intergenerational discontinuity score, with high heart rate associated with low child antisocial scores despite high parental antisocial scores. Second, a group of children with low levels of antisocial behavior but whose parents were
-high in antisocial behavior had higher resting heart rates
+First, heart rate was positively associated with an intergenerational discontinuity score, with high heart rate associated with low child antisocial scores despite high parental antisocial scores. Second, a group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates
 
-Second, a group of children with low levels of antisocial behavior but whose parents were
-high in antisocial behavior had higher resting heart rates than all three other groups of children. 
+Second, a group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates than all three other groups of children.
 
-Third, a tertile split on resting heart rate indicated that high heart rate was a protective factor against the intergenerational transmission of antisocial behavior, rather than low heart rate representing a risk factor for intergenerational transmission. 
+Third, a tertile split on resting heart rate indicated that high heart rate was a protective factor against the intergenerational transmission of antisocial behavior, rather than low heart rate representing a risk factor for intergenerational transmission.
 
 To our knowledge, these are the first findings to identify a biological variable as a protective factor against the intergenerational transmission of antisocial behavior in children.
 
-
 ## Limitations
-
 
 Generalizability of sample to larger population, due to location accessibility.
 
-Physiological measures differed in method of collection and location, as it did not take place in psychophysiology lab. 
-Physical fitness, prior food intake, and medication use was not assessed.
+Physiological measures differed in method of collection and location, as it did not take place in psychophysiology lab. Physical fitness, prior food intake, and medication use was not assessed.
 
-## Inferences
- 
-This study focused on heart rate as a possible biological protective factor.
-However investigation of associations of vagal tone with antisocial behavior measured as indices of Parasympathetic Nervous system have been conducted extensively. Studying physiological index of the PNS as a biological protective factor regarding transmission of antisocial behavior has yet to be studied, and would be a topic of future research.
+## Inferences {.scrollable}
+
+This study focused on heart rate as a possible biological protective factor. However investigation of associations of vagal tone with antisocial behavior measured as indices of Parasympathetic Nervous system have been conducted extensively. Studying physiological index of the PNS as a biological protective factor regarding transmission of antisocial behavior has yet to be studied, and would be a topic of future research.
 
 ## REFERENCES {.scrollable}
 
 GISGeography. (2017, November 29). Map of Africa. GIS Geography. https://gisgeography.com/africa-map/
-
 
 Morris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.
 
