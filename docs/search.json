@@ -893,7 +893,7 @@
     "href": "posts/psychophysreplicateRaine/index.html#references",
     "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
     "section": "REFERENCES",
-    "text": "REFERENCES\nGISGeography. (2017, November 29). Map of Africa. GIS Geography. https://gisgeography.com/africa-map/\nMorris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.\nPerry, K. J., Ostrov, J. M., et. al. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693–708. https://doi.org/10.1007/s10802-022-01013-0\nPorges, S. W. (2006). The Polyvagal Perspecitve. Biological Psychology. doi:10.1016/j.biopsycho.2006.06.009\nPorges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227\nRaine, A., Choy, O., Achenbach, T. et al. (2023) High resting heart rate protects against the intergenerational transmission of antisocial behavior: a birth cohort study. Eur Child Adolesc Psychiatry. https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s00787-023-02247-z\nStyske, B. , Shaikh, A. I. (2017) A systematic review and meta analysis of the intergeneratioal transmission of criminal behavior"
+    "text": "REFERENCES\nGISGeography. (2017, November 29). Map of Africa. GIS Geography. https://gisgeography.com/africa-map/\nMorris, Laurel S., McCall, Jordan, G. , et. al. (2020). The Role of the Locus Coeruleus in the Generation of Pathological Anxiety. Brain and Neuroscience Advances 4 https://doi.org/10.1177/2398212820930321.\nPerry, K. J., Ostrov, J. M., et. al. (2023). The Role of Autonomic System Coordination in Relations Between Peer Factors and Aggressive Behavior in Early Childhood. Research on Child and Adolescent Psychopathology, 51(5), 693–708. https://doi.org/10.1007/s10802-022-01013-0\nPorges, S. W. (2006). The Polyvagal Perspecitve. Biological Psychology. doi:10.1016/j.biopsycho.2006.06.009"
   },
   {
     "objectID": "posts/psychophyspeers/index.html#results-1",
@@ -949,7 +949,7 @@
     "href": "posts/psychophysreplicateRaine/index.html#analysis",
     "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
     "section": "Analysis",
-    "text": "Analysis\nMeasure of intergenerational discontinuity\n\nSubtracting z-transformed parent antisocial measure from child antisocial measure\nHigh scores indicated non-antisocial children whose parents were antisocial\nFour permutations of parent-child antisocial groups were created\n\nUtilizing the median, parent and child analysis were divided above and below their respective medians to form four permutations\n\nTrichotomization based on heart rate\n\nPer prior research middle half of distribution of heart rate scores were compared to the upper and lower quartiles to test for linear and non-linear effects on the dependent variable"
+    "text": "Analysis\nMeasure of intergenerational discontinuity\n\nSubtracting z-transformed parent antisocial measure from child antisocial measure\nHigh scores indicated non-antisocial children whose parents were antisocial\nFour permutations of parent-child antisocial groups were created\n\nUtilizing the median, parent and child analysis were divided above and below their respective medians to form four permutations"
   },
   {
     "objectID": "posts/psychophysreplicateRaine/index.html#a-journal-article",
@@ -1068,14 +1068,14 @@
     "href": "posts/psychophysreplicateRaine/index.html#resting-heart-rate-and-intergenerational-continuity",
     "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
     "section": "Resting Heart Rate and Intergenerational Continuity",
-    "text": "Resting Heart Rate and Intergenerational Continuity\nThere was a significant positive correlation between the child’s resting heart rate and the intergenerational discontinuity score, r = 0.16, d = 0.32, p &lt; 0.001.\nFor the initial median split analyses (50% cut-point), there was a significant effect of group on child resting heart rate, F(3,392) = 2.98, p = 0.031, partial eta2 = 0.022.\nThe parent antisocial/child non-antisocial group had significantly higher resting heart rates than every other group, who did not differ significantly from one another\nThere was a main effect of heart rate grouping on intergenerational discontinuity, F(2,393) = 5.03, p = 0.007, partial eta2 = 0.025."
+    "text": "Resting Heart Rate and Intergenerational Continuity\nThere was a significant positive correlation between the child’s resting heart rate and the intergenerational discontinuity score, r = 0.16, d = 0.32, p &lt; 0.001.\nFor the initial median split analyses (50% cut-point), there was a significant effect of group on child resting heart rate, F(3,392) = 2.98, p = 0.031, partial eta2 = 0.022."
   },
   {
     "objectID": "posts/psychophysreplicateRaine/index.html#discussion",
     "href": "posts/psychophysreplicateRaine/index.html#discussion",
     "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
     "section": "Discussion",
-    "text": "Discussion\nThree kinds of evidence that high resting heart rate may protect against the intergenerational transmission of antisocial behavior.\nFirst, heart rate was positively associated with an intergenerational discontinuity score, with high heart rate associated with low child antisocial scores despite high parental antisocial scores. Second, a group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates\nSecond, a group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates than all three other groups of children.\nThird, a tertile split on resting heart rate indicated that high heart rate was a protective factor against the intergenerational transmission of antisocial behavior, rather than low heart rate representing a risk factor for intergenerational transmission.\nTo our knowledge, these are the first findings to identify a biological variable as a protective factor against the intergenerational transmission of antisocial behavior in children."
+    "text": "Discussion\nThree kinds of evidence that high resting heart rate may protect against the intergenerational transmission of antisocial behavior."
   },
   {
     "objectID": "posts/psychophysreplicateRaine/index.html#the-gender-paradox",
@@ -1125,5 +1125,40 @@
     "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
     "section": "Specific Question",
     "text": "Specific Question\nInvestigating biologcial correlates for intergenerational discontinuity of antisocial behavior\nHypotheses:\nHigh heart rate may act as a protective factor in children. The high parent antisocial/low child antisocial group would have higher heart rates than the other three groups"
+  },
+  {
+    "objectID": "posts/psychophysreplicateRaine/index.html#parent-child-groups",
+    "href": "posts/psychophysreplicateRaine/index.html#parent-child-groups",
+    "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
+    "section": "Parent-child groups",
+    "text": "Parent-child groups\nThe parent antisocial/child non-antisocial group had significantly higher resting heart rates than every other group, who did not differ significantly from one another\nThere was a main effect of heart rate grouping on intergenerational discontinuity, F(2,393) = 5.03, p = 0.007, partial eta2 = 0.025."
+  },
+  {
+    "objectID": "posts/psychophysreplicateRaine/index.html#first",
+    "href": "posts/psychophysreplicateRaine/index.html#first",
+    "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
+    "section": "First",
+    "text": "First\nHeart rate was positively associated with an intergenerational discontinuity score, with high heart rate associated with low child antisocial scores despite high parental antisocial scores. Second, a group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates"
+  },
+  {
+    "objectID": "posts/psychophysreplicateRaine/index.html#second",
+    "href": "posts/psychophysreplicateRaine/index.html#second",
+    "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
+    "section": "Second",
+    "text": "Second\nA group of children with low levels of antisocial behavior but whose parents were high in antisocial behavior had higher resting heart rates than all three other groups of children."
+  },
+  {
+    "objectID": "posts/psychophysreplicateRaine/index.html#third",
+    "href": "posts/psychophysreplicateRaine/index.html#third",
+    "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
+    "section": "Third",
+    "text": "Third\nA tertile split on resting heart rate indicated that high heart rate was a protective factor against the intergenerational transmission of antisocial behavior, rather than low heart rate representing a risk factor for intergenerational transmission.\nTo our knowledge, these are the first findings to identify a biological variable as a protective factor against the intergenerational transmission of antisocial behavior in children."
+  },
+  {
+    "objectID": "posts/psychophysreplicateRaine/index.html#references-1",
+    "href": "posts/psychophysreplicateRaine/index.html#references-1",
+    "title": "Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior",
+    "section": "REFERENCES",
+    "text": "REFERENCES\nPorges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227\nRaine, A., Choy, O., Achenbach, T. et al. (2023) High resting heart rate protects against the intergenerational transmission of antisocial behavior: a birth cohort study. Eur Child Adolesc Psychiatry. https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s00787-023-02247-z\nStyske, B. , Shaikh, A. I. (2017) A systematic review and meta analysis of the intergeneratioal transmission of criminal behavior"
   }
 ]
