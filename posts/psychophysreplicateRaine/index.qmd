@@ -2,7 +2,7 @@
 title: " Raine 2023. Heart Rate in Children and Intergenerational Transmission of Antisocial Behavior"
 format:
   revealjs:
-    theme: serif
+    theme: simple
     transition: slide
 editor: visual
 execute:
