@@ -37,7 +37,24 @@ Journal: **European Child & Adolescent Psychology**
 
 ## Background {.scrollable}
 
-In this paper the authors utilize heart rate as a measure of physiological function as a possible moderator between behavior and intergenerational transmission of antisocial behavior. The following theoretical perspectives were included to support their logic:
+Cited by the author, A Systematic Review and Meta Analysis of the Intergeneraatioal Transmission of Criminal Behavior (Styske, B. , Shaikh, A. I. , 2017) is an example of research that utilizes longitudinal study data to explore moderators of transmission of criminal and antisocial behavior from parent to child.
+
+In this meta analysis the authors found that parental crime predicts increased risk for offspring delinquent and criminal behavior
+
+There were no statistically significant differences according to child gender
+There were differences in specific parent-child gender combinations
+
+## The Gender Paradox
+
+The gender paradox: The gender paradox of developmental psychopathology: Wherein the gender or which the problem behavior is rarer compared with the gender in which the problem behavior is more common, a more severe form or presentation of the problem behavior is displayed
+
+The gender paradox was cited as a possible explanation for differences in parent-child gender combinations and outcomes regarding criminal behavior
+
+
+
+## Background {.scrollable}
+
+In this paper the authors utilize heart rate to index autonomic nervous system function as a possible moderator between behavior and intergenerational transmission of antisocial behavior. The following theoretical perspectives were included to support their logic:
 
 -   Fearlessness Theory
 
@@ -50,6 +67,28 @@ In this paper the authors utilize heart rate as a measure of physiological funct
     -   Low physiological arousal motivates individuals to seek stimulation to increase their arousal levels (Risk-taking antisocial acts elevate arousal to optimal level)
 
     -   Regarding this theory, individuals with higher autonomic arousal may encourage individuals to avoid stimulating experiences.
+
+-   Social Learning Theory (Styske,B. , Shaikh, A. I., 2017)
+
+    -   Hypothesizes that parents through their actions "teach" their children how to commit crime and may even engage in criminal behavior with their offspring
+
+## INTERGENERATIONAL TRANSMISSION
+
+Intergenerational transmission signifies that some characteristics or behavior is seen in both parent and the child. It is also known as intergenerational continuity (Styske, B. , Shaikh, A. I. , 2017)
+
+Intergenerational transmission of behaviors or characteristics can include:
+
+-   Socioeconomic Status
+
+-   Educational Attainment
+
+-   Mental Health Status
+
+-   Parenting Behaviors
+
+-   Substance Use
+
+-   Criminal Behavior
 
 ## Question {.scrollable}
 
@@ -64,8 +103,6 @@ In this paper the authors utilize heart rate as a measure of physiological funct
     -   Hypotheses:
 
     -   High heart rate may act as a protective factor in children. The high parent antisocial/low child antisocial group would have higher heart rates than the other three groups
-
-
 
 ## Methods
 
@@ -174,3 +211,5 @@ Porges, S. W. (2006). The Polyvagal Perspecitve. Biological Psychology. doi:10.1
 Porges, S. W. (2022) Polyvagal Theory: A Science of Safety. Front. Integr. Neurosci. 16:871227. doi; 10.3389/fnint.2022.871227
 
 Raine, A., Choy, O., Achenbach, T. et al. (2023) High resting heart rate protects against the intergenerational transmission of antisocial behavior: a birth cohort study. Eur Child Adolesc Psychiatry. https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s00787-023-02247-z
+
+Styske, B. , Shaikh, A. I. (2017) A systematic review and meta analysis of the intergeneratioal transmission of criminal behavior
