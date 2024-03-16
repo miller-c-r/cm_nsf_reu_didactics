@@ -47,7 +47,7 @@ It is possible that while higher HR in boys and lower HR in girls are adaptive p
 
 Prior Research
 
-This article examined neighborhood social processes which included social control and social cohesion. Social control is contrasted with self-control in control theories on crime. Cited by the authors Self-Control and Social Control: An Examination of Gender, Ethnicity, Class and Deliquency (Nakahaie, M. et al. 2000) describes control theories in general as suggesting that left on their own(in an unsocialized state) people will deviate. 
+This article examined neighborhood social processes which included social control and social cohesion. Social control is contrasted with self-control in control theories on crime. Cited by the authors Self-Control and Social Control: An Examination of Gender, Ethnicity, Class and Deliquency (Nakahaie, M. et al. 2000) describes control theories in general as suggesting that left on their own(in an unsocialized state) people will deviate.
 
 Internal and external mechanisms prevent them from doing so.Social control can be operationalized as a bond to some part of society. The social bond is said to have four dimensions: attachment or ties to significant others(peers or parents), commitment or investment in conventional society(education), involvement in conventional behavior(participation in recreational activities) and belief in society's values(respect for law and authority)
 
@@ -126,7 +126,7 @@ Grandiose-Manipulative(GM), Callous-Unemotional(CU), Daring-Impulsive(DI)
 ## Methods Inventories {.scrollable}
 
 -   **Inventories**
-    -   Measures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive, Antisocial Process Screening Device (APSD) and Inventoryof Callous-Unemotional Traits (ICU) questionnaires. 
+    -   Measures of psychopathic traits Grandiose-Manipulative, Callous-Unemotional, Daring-Impulsive, Antisocial Process Screening Device (APSD) and Inventoryof Callous-Unemotional Traits (ICU) questionnaires.
         -   APSD
             -   20-item scale designed for assessing child and adolescent psychopathic traits (Frick & Hare, 2001). The scale uses a three-point scale ranging from 0 (not at all true) to 2 (definitely true). In the current study, the GM (e.g.,"thinks he or she is more important than others") and DI (e.g., "acts without thinking") subscales were used.
         -   ICU
@@ -191,10 +191,7 @@ e.  These relationships are further differentiated by sex
 
 Kofler, L., Zhang, W. & Gao, Y.(2022). Psychopathic Traits and Conduct Problems in Children: Effects of Collective Efficacy, Heart Rate, and Sex. J Psychopathol Behav Assess 44, 98--114 https://doi-org.brooklyn.ezproxy.cuny.edu/10.1007/s10862-021-09944-6
 
-Nakhaie, M. R., Silverman, R. A., & LaGrange, T. C. (2000). Selfcontrol
-and social control: An examination of gender, ethnicity,
-class, and delinquency. The Canadian Journal of Sociology, 25(1),
-35–59
+Nakhaie, M. R., Silverman, R. A., & LaGrange, T. C. (2000). Selfcontrol and social control: An examination of gender, ethnicity, class, and delinquency. The Canadian Journal of Sociology, 25(1), 35--59
 
 ## Jump Pack to Home
 
