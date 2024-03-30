@@ -1,0 +1,16 @@
+{
+  "hash": "d2ad0030ce831ec318471205e1929b9e",
+  "result": {
+    "markdown": "---\ntitle: \"Data\"\nauthor: \"C Miller\"\n\ncategories: [analysis]\n\n---\n\n\n## Just looking at a table\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndisco_hw\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n# A tibble: 3 × 2\n  Heart_Rate_Group Discontinuity_Score\n  <chr>                          <dbl>\n1 high                            0.33\n2 middle                         -0.13\n3 low                            -0.08\n```\n:::\n\n```{.r .cell-code}\nglimpse(disco_hw)\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nRows: 3\nColumns: 2\n$ Heart_Rate_Group    <chr> \"high\", \"middle\", \"low\"\n$ Discontinuity_Score <dbl> 0.33, -0.13, -0.08\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nggplot(disco_hw, mapping = aes(Heart_Rate_Group, Discontinuity_Score,fill= Heart_Rate_Group))+\n  geom_bar(stat = \"identity\")+\n  geom_point(color=\"red\", shape=22, size=5)+\n  labs(\n    xlab=\"Trichotomized Heart Rate Groups\",\n    ylab=\"Mean Discontinuity Score\",\n    title = \"Mean Discontinuity Score for Three Heart Rate Groups\")+\n    scale_y_continuous(limits = c(-1, 1),\n                     breaks = seq(-1, 1, by=0.2))+\n    #lims(y= c(-1,1))+\n    #scale_y_continuous(n.breaks = 15)+\n  theme_solarized()+\n geom_label(\n    label=\"Highest 25% Heart Rates\", \n    x=\"high\",\n    y=0.5,\n    label.padding = unit(0.1, \"lines\"), # Rectangle size around label\n    label.size = 0.1,\n    color = \"black\",\n    fill=\"pink\"\n  )+\n   geom_label(\n    label=\"Middle 50% Heart Rates\", \n    x=\"middle\",\n    y=0.2,\n    label.padding = unit(0.2, \"lines\"), # Rectangle size around label\n    label.size = 0.1,\n    color = \"black\",\n    fill=\"pink\"\n  )+\n   geom_label(\n    label=\"Lowest 25% Heart Rates\", \n    x=\"low\",\n    y=-0.2,\n    label.padding = unit(0.2, \"lines\"), # Rectangle size around label\n    label.size = 0.1,\n    color = \"black\",\n    fill=\"pink\"\n  )\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-3-1.png){width=672}\n:::\n:::\n\n\n\n\n\n```\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

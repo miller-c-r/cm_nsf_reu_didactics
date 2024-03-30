@@ -1,0 +1,81 @@
+---
+title: "Data"
+author: "C Miller"
+
+categories: [analysis]
+---
+
+## Just looking at a table
+
+```{r, echo=FALSE, message=FALSE, include=FALSE}
+
+library(tidyverse)
+library(dplyr)
+library(ggthemes)
+library(readxl)
+library(reshape2)
+library(knitr)
+library(ggrepel)
+
+
+disco_hw <- read_xlsx("table_mean_diffs.xlsx")
+
+
+```
+
+```{r}
+
+
+disco_hw
+
+glimpse(disco_hw)
+
+
+
+```
+
+```{r}
+
+
+
+ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Discontinuity_Score,fill= Heart_Rate_Group))+
+  
+  geom_point(color="red", shape=22, size=7)+
+  labs(
+    xlab="Trichotomized Heart Rate Groups",
+    ylab="Mean Discontinuity Score",
+    title = "Mean Discontinuity Score for Three Heart Rate Groups")+
+    scale_y_continuous(limits = c(-1, 1),
+                     breaks = seq(-0.5, 1, by=0.1))+
+    #lims(y= c(-1,1))+
+    #scale_y_continuous(n.breaks = 15)+
+  theme_solarized()+
+ geom_label(
+    label="Highest 25% Heart Rates", 
+    x="high",
+    y=0.5,
+    label.padding = unit(0.1, "lines"), # Rectangle size around label
+    label.size = 0.1,
+    color = "black",
+    fill="pink"
+  )+
+   geom_label(
+    label="Middle 50% Heart Rates", 
+    x="middle",
+    y=0.2,
+    label.padding = unit(0.2, "lines"), # Rectangle size around label
+    label.size = 0.1,
+    color = "black",
+    fill="pink"
+  )+
+   geom_label(
+    label="Lowest 25% Heart Rates", 
+    x="low",
+    y=-0.2,
+    label.padding = unit(0.2, "lines"), # Rectangle size around label
+    label.size = 0.1,
+    color = "black",
+    fill="pink"
+  )
+
+```
