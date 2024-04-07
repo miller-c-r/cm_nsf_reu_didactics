@@ -88,6 +88,9 @@ ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Mean_Discontinuity_Score,fill= 
 
 
 
+
+
+
 ```{r}
 
 scores_and_vitals <- read_xlsx("Discontinuity Measures and Z scores.xlsx")
@@ -99,6 +102,33 @@ view(scores_and_vitals)
 
 
 ```
+
+
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 8}
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, color= Aggression_Groups))+
+  
+  geom_point(size=3,shape=18)+
+ 
+   labs(
+    xlab="Four Aggression Groups",
+    ylab="Heart Rate",
+    title = "Heart Rate in Four Parent-Child Aggression Groups")+
+  
+  scale_y_continuous(limits = c(55, 130),
+                     breaks = seq(55, 130, by=5))+
+   
+   theme( axis.line = element_line(colour = "dodgerblue", 
+                      size = 1, linetype = "solid"))
+   
+   
+
+
+```
+
+
 
 
 ```{r fig.align="center", echo = FALSE,fig.width = 8}
@@ -119,6 +149,28 @@ ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, fill= Aggression_
                       size = 1, linetype = "solid"))+
     geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
    
+```
+
+
+```{r}
+
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, fill= Aggression_Groups))+
+  
+  geom_bar(stat="identity", position="dodge")+
+ 
+   labs(
+    xlab="Respiratory Sinus Arrythmia Measures in Children",
+    ylab="Dimensional Discontinuity Score",
+    title = "Discontinuity Score Vs RSA in Children for Four Aggression Groups")+
+    scale_y_continuous(n.breaks=20)+
+   
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))
+   
+
+
 ```
 
 
