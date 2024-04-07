@@ -92,20 +92,7 @@ ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Mean_Discontinuity_Score,fill= 
 
 scores_and_vitals <- read_xlsx("Discontinuity Measures and Z scores.xlsx")
 
-scores_and_vitals <-  filter(scores_and_vitals,
-                    HR != "NA")
 
-scores_and_vitals <-  filter(scores_and_vitals,
-                    RSA != "NA")
-
-scores_and_vitals <-  filter(scores_and_vitals,
-                    PEP != "NA")
-
-scores_and_vitals <-  filter(scores_and_vitals,
-                    SCL != "NA")
-
-scores_and_vitals <-  filter(scores_and_vitals,
-                    Aggression_Group != "NA")
 
 glimpse(scores_and_vitals)
 view(scores_and_vitals)
@@ -118,11 +105,96 @@ view(scores_and_vitals)
 drop_na(scores_and_vitals)%>%
 ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, fill= Aggression_Groups))+
   
-  geom_point(shape=22, size=7)+
-  labs(
-    xlab="Trichotomized Heart Rate Groups",
-    ylab="Mean Discontinuity Score",
-    title = "Mean Discontinuity Score for Three Heart Rate Groups")
+  geom_point(shape=22, size=3)+
+   labs(
+    xlab="Heart Rate for Children",
+    ylab="Dimensional Discontinuity Score",
+    title = "Discontinuity Score Vs Heart Rate in Children for Four Aggression Groups")+
+    scale_y_continuous(limits = c(-5, 5),
+                     breaks = seq(-5, 5, by=0.5))+
+  scale_x_continuous(limits = c(55, 130),
+                     breaks = seq(55, 130, by=5))+
    
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))+
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+   
+```
+
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 8}
+
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(RSA, Dimensional_Score, fill= Aggression_Groups))+
+  
+  geom_point(shape=22, size=3)+
+ 
+   labs(
+    xlab="Respiratory Sinus Arrythmia Measures in Children",
+    ylab="Dimensional Discontinuity Score",
+    title = "Discontinuity Score Vs RSA in Children for Four Aggression Groups")+
+    scale_y_continuous(limits = c(-5, 5),
+                     breaks = seq(-5, 5, by=0.5))+
+  scale_x_continuous(limits = c(55, 130),
+                     breaks = seq(55, 130, by=5))+
+   
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))+
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+   
+
+
+```
+
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 8}
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(PEP, Dimensional_Score, fill= Aggression_Groups))+
+  
+  geom_point(shape=22, size=3)+
+   labs(
+    xlab="PEP Measures in Children",
+    ylab="Dimensional Discontinuity Score",
+    title = "Discontinuity Score Vs PEP Measures in Children for Four Aggression Groups")+
+    scale_y_continuous(limits = c(-5, 5),
+                     breaks = seq(-5, 5, by=0.5))+
+  scale_x_continuous(limits = c(55, 130),
+                     breaks = seq(55, 130, by=5))+
+   
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))+
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+   
+
+```
+
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 8}
+
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(SCL, Dimensional_Score, fill= Aggression_Groups))+
+  
+  geom_point(shape=25, size=3)+
+   labs(
+    xlab="Skin Conductance Measures for Children",
+    ylab="Dimensional Discontinuity Score",
+    title = "Discontinuity Score Vs Skin Conductance in Children for Four Aggression Groups")+
+    scale_y_continuous(limits = c(-5, 5),
+                     breaks = seq(-5, 5, by=0.5))+
+  scale_x_continuous(limits = c(0, 10),
+                     breaks = seq(0, 10, by=0.5))+
+   
+   theme( axis.line = element_line(colour = "dodgerblue", 
+                      size = 1, linetype = "solid"))+
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue")+
+   theme(axis.text.x = element_text(angle=45 ,vjust=1, hjust=1))
+   
+
 ```
 
