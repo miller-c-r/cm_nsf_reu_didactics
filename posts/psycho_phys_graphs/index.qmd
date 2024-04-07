@@ -34,22 +34,26 @@ glimpse(disco_hw)
 
 ```
 
-```{r}
+```{r fig.align="center", echo = FALSE,fig.width = 8}
 
 
 
-ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Discontinuity_Score,fill= Heart_Rate_Group))+
+ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Mean_Discontinuity_Score,fill= Heart_Rate_Group))+
   
-  geom_point(color="red", shape=22, size=7)+
+  geom_point( shape=22, size=7)+
   labs(
     xlab="Trichotomized Heart Rate Groups",
     ylab="Mean Discontinuity Score",
     title = "Mean Discontinuity Score for Three Heart Rate Groups")+
-    scale_y_continuous(limits = c(-1, 1),
-                     breaks = seq(-0.5, 1, by=0.1))+
+    scale_y_continuous(limits = c(-0.5, 0.7),
+                     breaks = seq(-0.5, 0.7, by=0.05))+
+    theme_igray() +
     #lims(y= c(-1,1))+
     #scale_y_continuous(n.breaks = 15)+
-  theme_solarized()+
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))+
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") +
+
  geom_label(
     label="Highest 25% Heart Rates", 
     x="high",
@@ -62,7 +66,7 @@ ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Discontinuity_Score,fill= Heart
    geom_label(
     label="Middle 50% Heart Rates", 
     x="middle",
-    y=0.2,
+    y=-0.3,
     label.padding = unit(0.2, "lines"), # Rectangle size around label
     label.size = 0.1,
     color = "black",
@@ -79,3 +83,46 @@ ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Discontinuity_Score,fill= Heart
   )
 
 ```
+
+
+
+
+
+```{r}
+
+scores_and_vitals <- read_xlsx("Discontinuity Measures and Z scores.xlsx")
+
+scores_and_vitals <-  filter(scores_and_vitals,
+                    HR != "NA")
+
+scores_and_vitals <-  filter(scores_and_vitals,
+                    RSA != "NA")
+
+scores_and_vitals <-  filter(scores_and_vitals,
+                    PEP != "NA")
+
+scores_and_vitals <-  filter(scores_and_vitals,
+                    SCL != "NA")
+
+scores_and_vitals <-  filter(scores_and_vitals,
+                    Aggression_Group != "NA")
+
+glimpse(scores_and_vitals)
+view(scores_and_vitals)
+
+
+```
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 8}
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, fill= Aggression_Groups))+
+  
+  geom_point(shape=22, size=7)+
+  labs(
+    xlab="Trichotomized Heart Rate Groups",
+    ylab="Mean Discontinuity Score",
+    title = "Mean Discontinuity Score for Three Heart Rate Groups")
+   
+```
+
