@@ -101,7 +101,7 @@ view(scores_and_vitals)
 
 ```{r}
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, color= Aggression_Groups))+
+ggplot(scores_and_vitals, mapping = aes( `Aggression Groups`, `Heart Rate`, color= `Aggression Groups`))+
   
   geom_boxplot()+
  
@@ -123,7 +123,7 @@ ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, color= Aggression
 
 ```{r fig.align="center", echo = FALSE,fig.width = 8}
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, fill= Aggression_Groups))+
+ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= `Aggression Groups`))+
   
   geom_point(shape=22, size=3)+
    labs(
@@ -143,7 +143,7 @@ ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, fill= Aggression_
 
 ```{r fig.align="center", echo = FALSE,fig.width = 9}
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, color= Aggression_Groups))+
+ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
   
   geom_point(shape=18, size=3)+
   geom_smooth(method = lm, se = FALSE)+
@@ -170,7 +170,7 @@ ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, color= Aggression
 
 
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, fill= Aggression_Groups))+
+ggplot(scores_and_vitals, mapping = aes(`Aggression Groups`, `Heart Rate`, fill= `Aggression Groups`))+
   
   geom_bar(stat="identity", position="dodge")+
  
@@ -191,17 +191,17 @@ ggplot(scores_and_vitals, mapping = aes(Aggression_Groups, HR, fill= Aggression_
 
 
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(RSA, Dimensional_Score, color= Aggression_Groups))+
+ggplot(scores_and_vitals, mapping = aes(`Parent Z Score`, `Heart Rate`, color= `Aggression Groups`))+
   geom_point()+
   geom_line(shape=2)+
  
    labs(
     xlab="Respiratory Sinus Arrythmia Measures in Children",
     ylab="Dimensional Discontinuity Score",
-    title = "Discontinuity Score Versus RSA in Children for Four Aggression Groups")+
-    scale_y_continuous(limits = c(-5, 5),
-                     breaks = seq(-5, 5, by=0.5))+
-  scale_x_continuous(limits = c(50, 140),
+    title = " Versus  in Children for Four Aggression Groups")+
+   # scale_y_continuous(limits = c(-5, 5),
+                    # breaks = seq(-5, 5, by=0.5))+
+  scale_y_continuous(limits = c(50, 140),
                     breaks = seq(50, 140, by=5))+
   
   theme_calc()
@@ -212,23 +212,52 @@ ggplot(scores_and_vitals, mapping = aes(RSA, Dimensional_Score, color= Aggressio
 
 ```{r fig.align="center", echo = FALSE,fig.width = 8}
 
+
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(PEP, Dimensional_Score, fill= Aggression_Groups))+
   
-  geom_point(shape=22, size=3)+
-   labs(
-    xlab="PEP Measures in Children",
-    ylab="Dimensional Discontinuity Score",
-    title = "Discontinuity Score Vs PEP Measures in Children for Four Aggression Groups")+
-    scale_y_continuous(limits = c(-5, 5),
-                     breaks = seq(-5, 5, by=0.5))+
-  scale_x_continuous(limits = c(55, 130),
-                     breaks = seq(55, 130, by=5))+
+  ggplot(scores_and_vitals, mapping=aes (`Parent Z Score`)) +
+    geom_histogram(bins=20, fill="lightgreen", color="#dc134c", alpha=0.7)+
+    
+    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
+#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
+  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
+  
+  scale_x_continuous(n.breaks = 10)
+ # scale_x_continuous(limits = c(-3.0, 3.0))
+  #                   breaks = seq(-3.0, 3.0, by=0.25)
+ # scale_x_continuous(limits = c(55, 130),
+     #                breaks = seq(55, 130, by=5))+
+   #
+   #theme( axis.line = element_line(colour = "blue", 
+    #                  size = 1, linetype = "solid"))
+    #geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
    
-   theme( axis.line = element_line(colour = "blue", 
-                      size = 1, linetype = "solid"))+
-    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+
+
+```
+
+```{r}
+
+drop_na(scores_and_vitals)%>%
+  
+  ggplot(scores_and_vitals, mapping=aes (`Child Z Score`)) +
+    geom_histogram(bins=20, fill="#dc134c", color="lightgreen", alpha=0.7)+
+      
+#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
+  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
+  
+  scale_x_continuous(n.breaks = 10)
+ # scale_x_continuous(limits = c(-3.0, 3.0))
+  #                   breaks = seq(-3.0, 3.0, by=0.25)
+ # scale_x_continuous(limits = c(55, 130),
+     #                breaks = seq(55, 130, by=5))+
+   #
+   #theme( axis.line = element_line(colour = "blue", 
+    #                  size = 1, linetype = "solid"))
+    #geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
    
+
+
 
 ```
 
@@ -279,3 +308,25 @@ ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, color= Aggression
 
 ```
 
+```{r fig.align="center", echo = FALSE,fig.width = 8 }
+
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping = aes( `Quintile Heart Rate Group`, `Heart Rate`, fill = `Aggression Groups` ))+
+  
+  geom_bar(stat="identity", position = "dodge")
+ 
+   labs(
+    xlab="Four Aggression Groups",
+    ylab="Heart Rate",
+    title = "Heart Rate and Four Aggression Groups")+
+    scale_y_continuous(limits = c(55, 130),
+                     breaks = seq(55, 130, by=5))
+    #scale_x_continuous(n.breaks=20)+
+   
+   theme( axis.line = element_line(colour = "blue", 
+                      size = 1, linetype = "solid"))
+   
+
+
+```
