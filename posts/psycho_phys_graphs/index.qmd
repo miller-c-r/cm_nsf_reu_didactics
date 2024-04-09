@@ -229,19 +229,31 @@ ggplot(scores_and_vitals, mapping = aes(`Parent Z Score`, `Heart Rate`, color= `
 
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 8}
+```{r fig.align="center", echo = FALSE,fig.width = 10}
 
+
+mean_parents = mean(scores_and_vitals$`Parent Z Score`, na.rm = TRUE)
+
+mean_parents
 
 drop_na(scores_and_vitals)%>%
   
   ggplot(scores_and_vitals, mapping=aes (`Parent Z Score`)) +
-    geom_histogram(bins=20, fill="lightgreen", color="#dc134c", alpha=0.7)+
+    geom_histogram(bins=20, fill="dodgerblue", color="lightgreen", alpha=0.8)+
     
     #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
 #ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
   #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
   
-  scale_x_continuous(n.breaks = 10)
+  scale_x_continuous(n.breaks = 25)+
+  geom_vline(xintercept = mean_parents , color = "#dc134c", size=1)+
+  scale_y_continuous(n.breaks = 5)+
+  labs(
+    title = "Histogram of Z Transformed Parent Aggression Scores",
+    ylab = " ",
+    xlab = " Z Scores "
+  )+
+  theme_calc()
  # scale_x_continuous(limits = c(-3.0, 3.0))
   #                   breaks = seq(-3.0, 3.0, by=0.25)
  # scale_x_continuous(limits = c(55, 130),
@@ -259,51 +271,29 @@ drop_na(scores_and_vitals)%>%
 
 ```{r}
 
+
+mean_child = mean(scores_and_vitals$`Child Z Score`, na.rm = TRUE)
+
+mean_child
+
 drop_na(scores_and_vitals)%>%
   
   ggplot(scores_and_vitals, mapping=aes (`Child Z Score`)) +
-    geom_histogram(bins=20, fill="#dc134c", color="lightgreen", alpha=0.7)+
-      
+    geom_histogram(bins=20, fill="lightgreen", color="dodgerblue", alpha=0.8)+
+    
+    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
 #ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
   #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
   
-  scale_x_continuous(n.breaks = 10)
- # scale_x_continuous(limits = c(-3.0, 3.0))
-  #                   breaks = seq(-3.0, 3.0, by=0.25)
- # scale_x_continuous(limits = c(55, 130),
-     #                breaks = seq(55, 130, by=5))+
-   #
-   #theme( axis.line = element_line(colour = "blue", 
-    #                  size = 1, linetype = "solid"))
-    #geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
-   
-
-
-
-```
-
-
-```{r fig.align="center", echo = FALSE,fig.width = 8}
-
-
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(SCL, Dimensional_Score, fill= Aggression_Groups))+
-  
-  geom_point(shape=25, size=3)+
-   labs(
-    xlab="Skin Conductance Measures for Children",
-    ylab="Dimensional Discontinuity Score",
-    title = "Discontinuity Score Vs Skin Conductance in Children for Four Aggression Groups")+
-    scale_y_continuous(limits = c(-5, 5),
-                     breaks = seq(-5, 5, by=0.5))+
-  scale_x_continuous(limits = c(0, 10),
-                     breaks = seq(0, 10, by=0.5))+
-   
-   theme( axis.line = element_line(colour = "dodgerblue", 
-                      size = 1, linetype = "solid"))+
-    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue")+
-   theme(axis.text.x = element_text(angle=45 ,vjust=1, hjust=1))
-   
+  scale_x_continuous(n.breaks = 25)+
+  geom_vline(xintercept = mean_child , color = "#dc134c", size=1)+
+  scale_y_continuous(n.breaks = 5)+
+  labs(
+    title = "Histogram of Z Transformed Child Aggression Scores",
+    ylab = " ",
+    xlab = " Z Scores "
+  )+
+  theme_calc()
 
 ```
 
@@ -312,18 +302,20 @@ ggplot(scores_and_vitals, mapping = aes(SCL, Dimensional_Score, fill= Aggression
 
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 8}
+
+
+```{r fig.align="center", echo = FALSE,fig.width = 12}
 
 
 drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(HR, Dimensional_Score, color= Aggression_Groups))+
-  geom_point()+
-  geom_line()+
+ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
+  geom_point(shape=17, size=2)+
+  geom_line(linetype="longdash")+
  
    labs(
     xlab="Heart Rate in Children",
     ylab="Dimensional Discontinuity Score",
-    title = "Discontinuity Score Versus Heart Rate in Children for Four Aggression Groups")+
+    title = "Dimensional Discontinuity Score Versus Heart Rate in Children for Four Aggression Groups")+
     scale_y_continuous(limits = c(-5, 5),
                      breaks = seq(-5, 5, by=0.5))+
   scale_x_continuous(limits = c(50, 140),
