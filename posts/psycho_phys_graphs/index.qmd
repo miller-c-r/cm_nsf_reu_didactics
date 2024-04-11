@@ -153,12 +153,12 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= 
 ```
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 10 }
+```{r fig.align="center", echo = FALSE,fig.width = 8 }
 drop_na(scores_and_vitals)%>%
 ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
   
   geom_point(shape=18, size=3)+
-  geom_rug(sides = "l")+
+  geom_rug()+
   #geom_line(linetype= "dotdash")+
   scale_y_continuous(n.breaks = 25)+
   #geom_density2d()+
@@ -186,7 +186,7 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
 ```
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 12}
+```{r fig.align="center", echo = FALSE,fig.width = 10}
 
 
 drop_na(scores_and_vitals)%>%
