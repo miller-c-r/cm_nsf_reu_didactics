@@ -209,30 +209,45 @@ $ Mean_Discontinuity_Score &lt;dbl&gt; 0.33, -0.13, -0.08</code></pre>
 <span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(scores_and_vitals)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Rows: 342
-Columns: 13
-$ ID                       &lt;dbl&gt; 5003, 5005, 5011, 5012, 5015, 5016, 5024, 503…
-$ parent_aggression        &lt;dbl&gt; 4, 0, 5, 5, 3, 0, 1, 0, 2, 2, 3, 3, 0, 5, 0, …
-$ Parent_Z_Score           &lt;dbl&gt; -0.9708540, -1.2725845, -0.8954214, -0.895421…
-$ Parent_Aggression_Groups &lt;chr&gt; "First Quartile", "First Quartile", "First Qu…
-$ child_aggression         &lt;dbl&gt; 0, 0, 2, 1, 15, 0, 1, 2, 5, 0, 1, 1, 1, 17, 8…
-$ Child_Z_Score            &lt;dbl&gt; -1.0888327, -1.0888327, -0.7768117, -0.932822…
-$ `Child Aggression Group` &lt;chr&gt; "First Quartile", "First Quartile", "Second Q…
-$ Aggression_Groups        &lt;chr&gt; "Neither", "Neither", "Neither", "Neither", "…
-$ Dimensional_Score        &lt;dbl&gt; 0.11797863, -0.18375180, -0.11860968, 0.03740…
-$ HR                       &lt;dbl&gt; 83.79076, 80.00095, 95.05262, 92.53941, 70.86…
-$ SCL                      &lt;dbl&gt; NA, 4.46709, NA, NA, 7.90774, 4.75685, 5.9284…
-$ RSA                      &lt;dbl&gt; NA, 95.86505, NA, 48.70554, 94.32550, 121.655…
-$ PEP                      &lt;dbl&gt; 60, 111, NA, 76, 115, 78, 78, 61, 67, NA, 121…</code></pre>
+Columns: 17
+$ ID                                &lt;dbl&gt; 5001, 5003, 5004, 5005, 5006, 5008, …
+$ parent_aggression                 &lt;dbl&gt; 12, 4, 10, 0, 17, 8, 15, 23, 5, 5, 1…
+$ `Parent Z Score`                  &lt;dbl&gt; -0.367393155, -0.970854020, -0.51825…
+$ `Parent Aggression Groups`        &lt;chr&gt; "Second Quartile", "First Quartile",…
+$ child_aggression                  &lt;dbl&gt; 6, 0, 25, 0, 2, 0, 14, 14, 2, 1, 2, …
+$ `Child Z Score`                   &lt;dbl&gt; -0.152769888, -1.088832654, 2.811428…
+$ `Child Aggression Group`          &lt;chr&gt; "Third Quartile", "First Quartile", …
+$ `Aggression Groups`               &lt;chr&gt; "Neither", "Neither", "Child Aggress…
+$ `Dimensional Score`               &lt;dbl&gt; -0.21462327, 0.11797863, -3.32968724…
+$ `Heart Rate`                      &lt;dbl&gt; 82.56996, 83.79076, 94.05301, 80.000…
+$ SCL                               &lt;dbl&gt; 7.34189, NA, 4.84986, 4.46709, 4.905…
+$ RSA                               &lt;dbl&gt; 83.23050, NA, 134.85500, 95.86505, 1…
+$ PEP                               &lt;dbl&gt; 67, 60, 65, 111, 97, 67, 63, 79, NA,…
+$ `Trichotomized Heart Rate Groups` &lt;chr&gt; "Middle 50%", "Middle 50%", "Highest…
+$ `Tertile Heart Rate Groups`       &lt;chr&gt; "Middle 33%", "Middle 33%", "Highest…
+$ `Quintile Heart Rate Groups`      &lt;chr&gt; "Middle Quintiles", "Middle Quintile…
+$ `Binary Heart Rate Groups`        &lt;chr&gt; "Lowest 50%", "Lowest 50%", "Highest…</code></pre>
 </div>
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">view</span>(scores_and_vitals)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-layout-align="center">
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">drop_na</span>(scores_and_vitals)<span class="sc">%&gt;%</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(scores_and_vitals, <span class="at">mapping =</span> <span class="fu">aes</span>( <span class="st">`</span><span class="at">Aggression Groups</span><span class="st">`</span>, <span class="st">`</span><span class="at">Heart Rate</span><span class="st">`</span>, <span class="at">color=</span> <span class="st">`</span><span class="at">Aggression Groups</span><span class="st">`</span>))<span class="sc">+</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_boxplot</span>(<span class="at">outlier.size=</span><span class="fl">1.5</span>)<span class="sc">+</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stat_summary</span>(<span class="at">fun =</span> <span class="st">"mean"</span>, <span class="at">geom =</span> <span class="st">"point"</span>, <span class="at">shape =</span> <span class="dv">18</span>, <span class="at">size =</span> <span class="dv">3</span>, <span class="at">fill =</span> <span class="st">"purple"</span>)<span class="sc">+</span></span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>   <span class="fu">labs</span>(</span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">xlab=</span><span class="st">"Four Aggression Groups"</span>,</span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">ylab=</span><span class="st">"Resting Heart Rate"</span>,</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Resting Heart Rate in Four Aggression Groups"</span>)<span class="sc">+</span></span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">limits =</span> <span class="fu">c</span>(<span class="dv">55</span>, <span class="dv">130</span>),</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>                     <span class="at">breaks =</span> <span class="fu">seq</span>(<span class="dv">55</span>, <span class="dv">130</span>, <span class="at">by=</span><span class="dv">5</span>))<span class="sc">+</span></span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>   </span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>   <span class="fu">theme</span>( <span class="at">axis.line =</span> <span class="fu">element_line</span>(<span class="at">colour =</span> <span class="st">"dodgerblue"</span>, </span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>                      <span class="at">size =</span> <span class="dv">1</span>, <span class="at">linetype =</span> <span class="st">"solid"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="768"></p>
-</figure>
-</div>
+<p><img src="index_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 <div class="cell" data-layout-align="center">
@@ -243,89 +258,151 @@ $ PEP                      &lt;dbl&gt; 60, 111, NA, 76, 115, 78, 78, 61, 67, NA,
 </figure>
 </div>
 </div>
+<div class="cell-output cell-output-stderr">
+<pre><code>starting httpd help server ... done</code></pre>
 </div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">drop_na</span>(scores_and_vitals)<span class="sc">%&gt;%</span></span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(scores_and_vitals, <span class="at">mapping =</span> <span class="fu">aes</span>(HR, Dimensional_Score, <span class="at">color=</span> Aggression_Groups))<span class="sc">+</span></span>
-<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">shape=</span><span class="dv">18</span>, <span class="at">size=</span><span class="dv">3</span>)<span class="sc">+</span></span>
-<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_smooth</span>(<span class="at">method =</span> lm, <span class="at">se =</span> <span class="cn">FALSE</span>)<span class="sc">+</span></span>
-<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>   <span class="fu">labs</span>(</span>
-<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">xlab=</span><span class="st">"Heart Rate for Children"</span>,</span>
-<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">ylab=</span><span class="st">"Dimensional Discontinuity Score"</span>,</span>
-<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Resting Heart Rate and Dimensional Discontinuity Score"</span>)<span class="sc">+</span></span>
-<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">scale_y_continuous</span>(<span class="at">limits =</span> <span class="fu">c</span>(<span class="sc">-</span><span class="dv">5</span>, <span class="dv">5</span>),</span>
-<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>                     <span class="at">breaks =</span> <span class="fu">seq</span>(<span class="sc">-</span><span class="dv">5</span>, <span class="dv">5</span>, <span class="at">by=</span><span class="fl">0.5</span>))<span class="sc">+</span></span>
-<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">limits =</span> <span class="fu">c</span>(<span class="dv">55</span>, <span class="dv">130</span>),</span>
-<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>                     <span class="at">breaks =</span> <span class="fu">seq</span>(<span class="dv">55</span>, <span class="dv">130</span>, <span class="at">by=</span><span class="dv">5</span>))<span class="sc">+</span></span>
-<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>   </span>
-<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a>   <span class="fu">theme</span>( <span class="at">axis.line =</span> <span class="fu">element_line</span>(<span class="at">colour =</span> <span class="st">"blue"</span>, </span>
-<span id="cb9-17"><a href="#cb9-17" aria-hidden="true" tabindex="-1"></a>                      <span class="at">size =</span> <span class="dv">1</span>, <span class="at">linetype =</span> <span class="st">"solid"</span>))<span class="sc">+</span></span>
-<span id="cb9-18"><a href="#cb9-18" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="dv">0</span>, <span class="at">linetype =</span> <span class="st">"dotdash"</span>, <span class="at">color =</span> <span class="st">"orange"</span>) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-layout-align="center">
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in annotate("text", x = 75, y = 2.3, label.size = 0.1, color =
+"#c77cff", : Ignoring unknown parameters: `label.size` and `fill`</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in annotate("text", x = 70, y = -0.9, label.size = 0.1, color =
+"coral1", : Ignoring unknown parameters: `label.size` and `fill`</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in annotate("text", x = 85, y = -2, label.size = 0.1, color =
+"#7cae00", : Ignoring unknown parameters: `label.size` and `fill`</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in annotate("text", x = 120, y = 0.7, label.size = 0.1, color =
+"#00bfc4", : Ignoring unknown parameters: `label.size` and `fill`</code></pre>
+</div>
 <div class="cell-output cell-output-stderr">
 <pre><code>`geom_smooth()` using formula = 'y ~ x'</code></pre>
 </div>
 <div class="cell-output-display">
-<p><img src="index_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid" width="672"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
 </div>
 </div>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">drop_na</span>(scores_and_vitals)<span class="sc">%&gt;%</span></span>
-<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(scores_and_vitals, <span class="at">mapping =</span> <span class="fu">aes</span>(Aggression_Groups, HR, <span class="at">fill=</span> Aggression_Groups))<span class="sc">+</span></span>
-<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_bar</span>(<span class="at">stat=</span><span class="st">"identity"</span>, <span class="at">position=</span><span class="st">"dodge"</span>)<span class="sc">+</span></span>
-<span id="cb11-5"><a href="#cb11-5" aria-hidden="true" tabindex="-1"></a> </span>
-<span id="cb11-6"><a href="#cb11-6" aria-hidden="true" tabindex="-1"></a>   <span class="fu">labs</span>(</span>
-<span id="cb11-7"><a href="#cb11-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">xlab=</span><span class="st">"Four Aggression Groups"</span>,</span>
-<span id="cb11-8"><a href="#cb11-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">ylab=</span><span class="st">"Heart Rate"</span>,</span>
-<span id="cb11-9"><a href="#cb11-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Heart Rate and Four Aggression Groups"</span>)<span class="sc">+</span></span>
-<span id="cb11-10"><a href="#cb11-10" aria-hidden="true" tabindex="-1"></a>    <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks=</span><span class="dv">20</span>)<span class="sc">+</span></span>
-<span id="cb11-11"><a href="#cb11-11" aria-hidden="true" tabindex="-1"></a>   </span>
-<span id="cb11-12"><a href="#cb11-12" aria-hidden="true" tabindex="-1"></a>   <span class="fu">theme</span>( <span class="at">axis.line =</span> <span class="fu">element_line</span>(<span class="at">colour =</span> <span class="st">"blue"</span>, </span>
-<span id="cb11-13"><a href="#cb11-13" aria-hidden="true" tabindex="-1"></a>                      <span class="at">size =</span> <span class="dv">1</span>, <span class="at">linetype =</span> <span class="st">"solid"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
-<p><img src="index_files/figure-html/unnamed-chunk-8-1.png" class="img-fluid" width="672"></p>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>mean_parents <span class="ot">=</span> <span class="fu">mean</span>(scores_and_vitals<span class="sc">$</span><span class="st">`</span><span class="at">Parent Z Score</span><span class="st">`</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>mean_parents</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.003616773</code></pre>
 </div>
-</div>
-<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="fu">drop_na</span>(scores_and_vitals)<span class="sc">%&gt;%</span></span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(scores_and_vitals, <span class="at">mapping=</span><span class="fu">aes</span> (<span class="st">`</span><span class="at">Parent Z Score</span><span class="st">`</span>)) <span class="sc">+</span></span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_histogram</span>(<span class="at">bins=</span><span class="dv">20</span>, <span class="at">fill=</span><span class="st">"dodgerblue"</span>, <span class="at">color=</span><span class="st">"lightgreen"</span>, <span class="at">alpha=</span><span class="fl">0.8</span>)<span class="sc">+</span></span>
+<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a>    <span class="co">#geom_vline(aes(xintercept= mean(`Parent Z Score` )))</span></span>
+<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="co">#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+</span></span>
+<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a>  <span class="co">#geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+</span></span>
+<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb18-10"><a href="#cb18-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">25</span>)<span class="sc">+</span></span>
+<span id="cb18-11"><a href="#cb18-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_vline</span>(<span class="at">xintercept =</span> mean_parents , <span class="at">color =</span> <span class="st">"#dc134c"</span>, <span class="at">size=</span><span class="dv">1</span>)<span class="sc">+</span></span>
+<span id="cb18-12"><a href="#cb18-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">5</span>)<span class="sc">+</span></span>
+<span id="cb18-13"><a href="#cb18-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb18-14"><a href="#cb18-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Histogram of Z Transformed Parent Aggression Scores"</span>,</span>
+<span id="cb18-15"><a href="#cb18-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">ylab =</span> <span class="st">" "</span>,</span>
+<span id="cb18-16"><a href="#cb18-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">xlab =</span> <span class="st">" Z Scores "</span></span>
+<span id="cb18-17"><a href="#cb18-17" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
+<span id="cb18-18"><a href="#cb18-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_calc</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 100 rows containing missing values or values outside the scale range
-(`geom_point()`).</code></pre>
+<pre><code>Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.</code></pre>
 </div>
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid figure-img" width="768"></p>
-</figure>
+<p><img src="index_files/figure-html/unnamed-chunk-9-1.png" class="img-fluid" width="672"></p>
 </div>
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a> <span class="co"># scale_x_continuous(limits = c(-3.0, 3.0))</span></span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a>  <span class="co">#                   breaks = seq(-3.0, 3.0, by=0.25)</span></span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a> <span class="co"># scale_x_continuous(limits = c(55, 130),</span></span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>     <span class="co">#                breaks = seq(55, 130, by=5))+</span></span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>   <span class="co">#</span></span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a>   <span class="co">#theme( axis.line = element_line(colour = "blue", </span></span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a>    <span class="co">#                  size = 1, linetype = "solid"))</span></span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a>    <span class="co">#geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a>mean_child <span class="ot">=</span> <span class="fu">mean</span>(scores_and_vitals<span class="sc">$</span><span class="st">`</span><span class="at">Child Z Score</span><span class="st">`</span>, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>mean_child</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.009839203</code></pre>
 </div>
-<div class="cell" data-layout-align="center">
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 4 rows containing missing values or values outside the scale range
-(`geom_point()`).</code></pre>
-</div>
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a><span class="fu">drop_na</span>(scores_and_vitals)<span class="sc">%&gt;%</span></span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(scores_and_vitals, <span class="at">mapping=</span><span class="fu">aes</span> (<span class="st">`</span><span class="at">Child Z Score</span><span class="st">`</span>)) <span class="sc">+</span></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_histogram</span>(<span class="at">bins=</span><span class="dv">20</span>, <span class="at">fill=</span><span class="st">"lightgreen"</span>, <span class="at">color=</span><span class="st">"dodgerblue"</span>, <span class="at">alpha=</span><span class="fl">0.8</span>)<span class="sc">+</span></span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb23-6"><a href="#cb23-6" aria-hidden="true" tabindex="-1"></a>    <span class="co">#geom_vline(aes(xintercept= mean(`Parent Z Score` )))</span></span>
+<span id="cb23-7"><a href="#cb23-7" aria-hidden="true" tabindex="-1"></a><span class="co">#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+</span></span>
+<span id="cb23-8"><a href="#cb23-8" aria-hidden="true" tabindex="-1"></a>  <span class="co">#geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+</span></span>
+<span id="cb23-9"><a href="#cb23-9" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb23-10"><a href="#cb23-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">25</span>)<span class="sc">+</span></span>
+<span id="cb23-11"><a href="#cb23-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_vline</span>(<span class="at">xintercept =</span> mean_child , <span class="at">color =</span> <span class="st">"#dc134c"</span>, <span class="at">size=</span><span class="dv">1</span>)<span class="sc">+</span></span>
+<span id="cb23-12"><a href="#cb23-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">5</span>)<span class="sc">+</span></span>
+<span id="cb23-13"><a href="#cb23-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
+<span id="cb23-14"><a href="#cb23-14" aria-hidden="true" tabindex="-1"></a>    <span class="at">title =</span> <span class="st">"Histogram of Z Transformed Child Aggression Scores"</span>,</span>
+<span id="cb23-15"><a href="#cb23-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">ylab =</span> <span class="st">" "</span>,</span>
+<span id="cb23-16"><a href="#cb23-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">xlab =</span> <span class="st">" Z Scores "</span></span>
+<span id="cb23-17"><a href="#cb23-17" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
+<span id="cb23-18"><a href="#cb23-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_calc</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid figure-img" width="768"></p>
-</figure>
+<p><img src="index_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
-</div>
-<div class="cell" data-layout-align="center">
-<div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 41 rows containing missing values or values outside the scale range
-(`geom_point()`).</code></pre>
-</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(scores_and_vitals<span class="sc">$</span><span class="st">`</span><span class="at">Child Z Score</span><span class="st">`</span>, <span class="at">xlim =</span> <span class="fu">c</span>(<span class="sc">-</span><span class="dv">3</span>, <span class="dv">4</span>), <span class="at">breaks =</span> <span class="fu">seq</span>(<span class="at">from=</span> <span class="sc">-</span><span class="dv">3</span>, <span class="at">to=</span><span class="dv">4</span>, <span class="at">by=</span><span class="fl">0.25</span>), <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">70</span>), <span class="at">main=</span> <span class="st">"Histogram of Child Z Scores"</span>, <span class="at">xlab =</span> <span class="st">"z transformed aggression scores"</span>, <span class="at">ylab =</span> <span class="st">"Frequency"</span>, <span class="at">las=</span><span class="dv">1</span>, <span class="at">col=</span><span class="st">"#00c19a"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid figure-img" width="768"></p>
-</figure>
+<p><img src="index_files/figure-html/unnamed-chunk-11-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(scores_and_vitals<span class="sc">$</span><span class="st">`</span><span class="at">Parent Z Score</span><span class="st">`</span>, <span class="at">xlim =</span> <span class="fu">c</span>(<span class="sc">-</span><span class="dv">3</span>, <span class="dv">4</span>), <span class="at">breaks =</span> <span class="fu">seq</span>(<span class="at">from=</span> <span class="sc">-</span><span class="dv">3</span>, <span class="at">to=</span><span class="dv">4</span>, <span class="at">by=</span><span class="fl">0.25</span>), <span class="at">ylim =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">70</span>), <span class="at">main=</span> <span class="st">"Histogram of Parent Z Scores"</span>, <span class="at">xlab =</span> <span class="st">"z transformed aggression scores"</span>, <span class="at">ylab =</span> <span class="st">"Frequency"</span>, <span class="at">las=</span><span class="dv">1</span>, <span class="at">col=</span><span class="st">"#c77cff"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-12-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>tri_heart_rate <span class="ot">&lt;-</span> <span class="fu">read_xlsx</span>(<span class="st">"tri_hearts.xlsx"</span>)</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(tri_heart_rate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 3
+Columns: 5
+$ `Trichotomized Heart Rate` &lt;chr&gt; "Middle 50%", "Highest 25%", "Lowest 25 %"
+$ N                          &lt;dbl&gt; 153, 77, 77
+$ Mean                       &lt;dbl&gt; -0.0188, 0.1452, -0.1849
+$ SD                         &lt;dbl&gt; 1.09, 1.16, 1.43
+$ SE                         &lt;dbl&gt; 0.0882, 0.1316, 0.1630</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(tri_heart_rate, <span class="at">mapping =</span> <span class="fu">aes</span>(<span class="st">`</span><span class="at">Trichotomized Heart Rate</span><span class="st">`</span>, <span class="st">`</span><span class="at">Mean</span><span class="st">`</span>, <span class="at">fill=</span> <span class="st">`</span><span class="at">Trichotomized Heart Rate</span><span class="st">`</span>))<span class="sc">+</span></span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>( <span class="at">shape=</span><span class="dv">22</span>, <span class="at">size=</span><span class="dv">7</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-13-1.png" class="img-fluid" width="672"></p>
+</div>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>  <span class="co">#labs(</span></span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>   <span class="co"># xlab="Trichotomized Heart Rate Groups",</span></span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#ylab="Mean Discontinuity Score",</span></span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a>  <span class="co">#  title = "Mean Discontinuity Score for Three Heart Rate Groups")+</span></span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#scale_y_continuous(limits = c(-0.5, 0.7),</span></span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true" tabindex="-1"></a>     <span class="co">#                breaks = seq(-0.5, 0.7, by=0.05))+</span></span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true" tabindex="-1"></a>    <span class="co">#theme_gray() +</span></span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true" tabindex="-1"></a>    <span class="co">#lims(y= c(-1,1))+</span></span>
+<span id="cb29-9"><a href="#cb29-9" aria-hidden="true" tabindex="-1"></a>    <span class="co">#scale_y_continuous(n.breaks = 15)+</span></span>
+<span id="cb29-10"><a href="#cb29-10" aria-hidden="true" tabindex="-1"></a>  <span class="co"># theme( axis.line = element_line(colour = "blue", </span></span>
+<span id="cb29-11"><a href="#cb29-11" aria-hidden="true" tabindex="-1"></a>    <span class="co">#                  size = 1, linetype = "solid"))+</span></span>
+<span id="cb29-12"><a href="#cb29-12" aria-hidden="true" tabindex="-1"></a>   <span class="co"># geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") +</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 
 

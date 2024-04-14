@@ -111,8 +111,8 @@ view(scores_and_vitals)
 drop_na(scores_and_vitals)%>%
 ggplot(scores_and_vitals, mapping = aes( `Aggression Groups`, `Heart Rate`, color= `Aggression Groups`))+
   
-  geom_boxplot()+
- 
+  geom_boxplot(outlier.size=1.5)+
+  stat_summary(fun = "mean", geom = "point", shape = 18, size = 3, fill = "purple")+
    labs(
     xlab="Four Aggression Groups",
     ylab="Resting Heart Rate",
@@ -149,17 +149,23 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= 
    theme( axis.line = element_line(colour = "blue", 
                       size = 1, linetype = "solid"))+
     geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+
+?geom_boxplot
+
    
 ```
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 8 }
+```{r fig.align="center", echo = FALSE,fig.width = 7 }
+
+?geom_smooth
 drop_na(scores_and_vitals)%>%
 ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
   
   geom_point(shape=18, size=3)+
-  geom_rug()+
-  #geom_line(linetype= "dotdash")+
+  geom_rug(sides="l")+
+  geom_smooth(method= lm, se = FALSE)+
+  #geom_smooth(linetype= "dotdash")+
   scale_y_continuous(n.breaks = 25)+
   #geom_density2d()+
  # geom_smooth(method = lm, se = FALSE)+
@@ -167,10 +173,18 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
     #                 breaks = seq(-5, 5, by=0.5)
    #                  expand = expand_scale(mult = c(0, 0.5))+
   scale_x_continuous(n.breaks= 20)+
+  annotate("text", x = 75, y = 2.3, label.size = 0.1,
+    color = "#c77cff", fill="pink", label = "Parent") +
+  annotate("text", x = 70, y = -0.9,  label.size = 0.1,
+    color = "coral1", fill="pink", label = "Both")+
+  annotate("text", x = 85, y = -2.0, label.size = 0.1,
+    color = "#7cae00", fill="pink", label = "Child")+
+  annotate("text", x = 120, y = 0.7, label.size = 0.1,
+    color = "#00bfc4", fill="pink", label = "Neither")+
   
    labs(
   
-    title = "Dimensional Discontinuity Score and Resting Heart Rate in Four Aggression Groups")+
+    title = "Discontinuity Score and Resting Heart Rate in Four Aggression Groups")+
     #scale_y_continuous(limits = c(-5, 5),
                      #breaks = seq(-5, 5, by=0.5))+
   #scale_x_continuous(limits = c(55, 130),
@@ -178,7 +192,7 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
    
    theme( axis.line = element_line(colour = "blue", 
                       size = 1, linetype = "solid"))+
-    geom_hline(yintercept = 0, linetype = "dotdash", color = "orange") 
+    geom_hline(yintercept = 0, linetype = "dotdash", color = "gray") 
    
  
 
@@ -186,26 +200,7 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
 ```
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 10}
 
-
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
-  
-  #geom_bar(stat="identity", position="dodge")+
-  geom_line( )+
-  geom_point()+
-   labs(
-    title = "Heart Rate and Four Aggression Groups")+
-    scale_y_continuous(n.breaks=20)+
-    scale_x_continuous(n.breaks= 20)+
-   
-   theme( axis.line = element_line(colour = "blue", 
-                      size = 1, linetype = "solid"))
-   
-
-
-```
 
 
 
@@ -214,21 +209,9 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
 ```{r fig.align="center", echo = FALSE,fig.width = 8}
 
 
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(`Aggression Groups`, `Dimensional Score`, color= `Aggression Groups`))+
-  geom_point()+
-  geom_line(shape=2)+
- 
-   labs(
-    
-    title = " Versus  in Children for Four Aggression Groups")+
-    scale_y_continuous(limits = c(-5, 5),
-                     breaks = seq(-5, 5, by=0.5))+
- # scale_y_continuous(limits = c(50, 140),
-  #                  breaks = seq(50, 140, by=5))+
-  
-  theme_calc()
-   
+
+?geom_errorbar
+
 
 
 ```
@@ -310,25 +293,30 @@ drop_na(scores_and_vitals)%>%
 
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 12}
 
 
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color= `Aggression Groups`))+
-  geom_point(shape=17, size=2)+
-  geom_line(linetype="longdash")+
- 
-   labs(
-    xlab="Heart Rate in Children",
-    ylab="Dimensional Discontinuity Score",
-    title = "Dimensional Discontinuity Score Versus Heart Rate in Children for Four Aggression Groups")+
-    scale_y_continuous(limits = c(-5, 5),
-                     breaks = seq(-5, 5, by=0.5))+
-  scale_x_continuous(limits = c(50, 140),
-                    breaks = seq(50, 140, by=5))+
-  
-  theme_calc()
-   
+
+
+```{r }
+
+
+
+hist(scores_and_vitals$`Child Z Score`, xlim = c(-3, 4), breaks = seq(from= -3, to=4, by=0.25), ylim = c(0, 70), main= "Histogram of Child Z Scores", xlab = "z transformed aggression scores", ylab = "Frequency", las=1, col="#00c19a")
+
+
+
+
+```
+
+
+
+```{r }
+
+
+
+hist(scores_and_vitals$`Parent Z Score`, xlim = c(-3, 4), breaks = seq(from= -3, to=4, by=0.25), ylim = c(0, 70), main= "Histogram of Parent Z Scores", xlab = "z transformed aggression scores", ylab = "Frequency", las=1, col="#c77cff")
+
+
 
 
 ```
@@ -336,25 +324,32 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`, `Dimensional Score`, color
 
 
 
-```{r fig.align="center", echo = FALSE,fig.width = 8 }
+
+```{r}
 
 
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping = aes( `Quintile Heart Rate Group`, `Heart Rate`, fill = `Aggression Groups` ))+
+tri_heart_rate <- read_xlsx("tri_hearts.xlsx")
+
+glimpse(tri_heart_rate)
+
+
+ggplot(tri_heart_rate, mapping = aes(`Trichotomized Heart Rate`, `Mean`, fill= `Trichotomized Heart Rate`))+
   
-  geom_bar(stat="identity", position = "dodge")
+  geom_point( shape=22, size=7)
+  #labs(
+   # xlab="Trichotomized Heart Rate Groups",
+    #ylab="Mean Discontinuity Score",
+  #  title = "Mean Discontinuity Score for Three Heart Rate Groups")+
+    #scale_y_continuous(limits = c(-0.5, 0.7),
+     #                breaks = seq(-0.5, 0.7, by=0.05))+
+    #theme_gray() +
+    #lims(y= c(-1,1))+
+    #scale_y_continuous(n.breaks = 15)+
+  # theme( axis.line = element_line(colour = "blue", 
+    #                  size = 1, linetype = "solid"))+
+   # geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") +
+
  
-   labs(
-    xlab="Four Aggression Groups",
-    ylab="Heart Rate",
-    title = "Heart Rate and Four Aggression Groups")+
-    scale_y_continuous(limits = c(55, 130),
-                     breaks = seq(55, 130, by=5))
-    #scale_x_continuous(n.breaks=20)+
-   
-   theme( axis.line = element_line(colour = "blue", 
-                      size = 1, linetype = "solid"))
-   
-
-
 ```
+
+
