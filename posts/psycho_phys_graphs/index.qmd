@@ -13,13 +13,9 @@ library(tidyverse)
 library(dplyr)
 library(ggthemes)
 library(readxl)
-library(reshape2)
-library(knitr)
-library(ggrepel)
-library(forcats)
-library(readxl)
-library(ggtext)
-library(glue)
+
+
+
 
 
 disco_hw <- read_xlsx("table_mean_diffs.xlsx")
@@ -88,13 +84,6 @@ ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Mean_Discontinuity_Score,fill= 
 
 ```
 
-
-
-
-
-
-
-
 ```{r}
 
 scores_and_vitals <- read_xlsx("Discontinuity Measures and Z scores.xlsx")
@@ -106,12 +95,6 @@ view(scores_and_vitals)
 
 
 ```
-
-
-
-
-
-
 
 ```{r}
 
@@ -139,9 +122,6 @@ ggplot(scores_and_vitals, mapping = aes( `Aggression Groups`, `Heart Rate`, fill
 
 ```
 
-
-
-
 ```{r fig.align="center", echo = FALSE,fig.width = 8}
 drop_na(scores_and_vitals)%>%
 ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= `Aggression Groups`))+
@@ -164,7 +144,6 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= 
 
    
 ```
-
 
 ```{r fig.align="center", echo = FALSE,fig.width = 7 }
 
@@ -221,15 +200,6 @@ ggplot(scores_and_vitals, mapping = aes(x=`Heart Rate`, y= `Dimensional Score`, 
 
 ```
 
-
-
-
-
-
-
-
-
-
 ```{r }
 
 
@@ -238,8 +208,7 @@ mean_parents = mean(scores_and_vitals$`Parent Z Score`, na.rm = TRUE)
 mean_parents
 
 drop_na(scores_and_vitals)%>%
-  
-  ggplot(scores_and_vitals, mapping=aes (`Parent Z Score`)) +
+ggplot(scores_and_vitals, mapping=aes (`Parent Z Score`)) +
     geom_histogram(bins=20, fill="dodgerblue", color="lightgreen", alpha=0.8)+
     
     #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
@@ -267,8 +236,6 @@ drop_na(scores_and_vitals)%>%
 
 
 ```
-
-
 
 ```{r}
 
@@ -298,17 +265,6 @@ drop_na(scores_and_vitals)%>%
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
 ```{r }
 
 
@@ -320,8 +276,6 @@ hist(scores_and_vitals$`Child Z Score`, xlim = c(-3, 4), breaks = seq(from= -3, 
 
 ```
 
-
-
 ```{r }
 
 
@@ -332,10 +286,6 @@ hist(scores_and_vitals$`Parent Z Score`, xlim = c(-3, 4), breaks = seq(from= -3,
 
 
 ```
-
-
-
-
 
 ```{r}
 
@@ -357,21 +307,19 @@ ggplot(tri_heart_rate, mapping = aes(`Trichotomized Heart Rate`, `Mean Discontin
     title = "Mean Discontinuity Score for Three Heart Rate Groups")+
     scale_y_continuous(limits = c(-0.5, 0.5),
                      breaks = seq(-0.5, 0.5, by=0.05))+
-  geom_hline(yintercept = -.02, linetype = "1F", size=1, alpha=0.8,  color = "blue")+
-  geom_hline(yintercept = 0.15, linetype = "1F",  alpha=0.8,color = "red")+
-  geom_hline(yintercept = -0.18, linetype = "1F", alpha=0.8,color = "green")+
+  geom_hline(yintercept = -.0153, linetype = "1F", size=1, alpha=0.8,  color = "blue")+
+  geom_hline(yintercept = 0.1263, linetype = "1F",  alpha=0.8,color = "red")+
+  geom_hline(yintercept = -0.1874, linetype = "1F", alpha=0.8,color = "green")+
     theme_classic() 
    
   
 ##   color = "green", fill="pink", label = "Child")
 
-   
+View(tri_heart_rate)
 
     #tibble(tri_heart_rate)
  
 ```
-
-
 
 ```{r}
 
@@ -398,3 +346,4 @@ ggplot(scores_and_vitals, mapping = aes( `Aggression Groups`, `Dimensional Score
 
 
 ```
+
