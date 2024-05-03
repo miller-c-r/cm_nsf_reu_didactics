@@ -1,11 +1,11 @@
 ---
-title: "Data"
-author: "C Miller"
-
-categories: [analysis]
+title: "cm_report"
+output: pdf_document
+author: cmiller
 ---
 
-## Just looking at a table
+
+## printing some graphs
 
 ```{r, echo=FALSE, message=FALSE, include=FALSE}
 
@@ -18,69 +18,8 @@ library(readxl)
 
 
 
-disco_hw <- read_xlsx("table_mean_diffs.xlsx")
+#disco_hw <- read_xlsx("table_mean_diffs.xlsx")
 
-
-```
-
-```{r}
-
-
-disco_hw
-
-glimpse(disco_hw)
-
-
-
-```
-
-```{r fig.align="center", echo = FALSE,fig.width = 8}
-
-
-
-ggplot(disco_hw, mapping = aes(Heart_Rate_Group, Mean_Discontinuity_Score,fill= Heart_Rate_Group))+
-  
-  geom_point( shape=22, size=7)+
-  labs(
-    xlab="Trichotomized Heart Rate Groups",
-    ylab="Mean Discontinuity Score",
-    title = "Mean Discontinuity Score for Three Heart Rate Groups")+
-    scale_y_continuous(limits = c(-0.5, 0.7),
-                     breaks = seq(-0.5, 0.7, by=0.05))+
-    theme_igray() +
-    #lims(y= c(-1,1))+
-    #scale_y_continuous(n.breaks = 15)+
-   theme( axis.line = element_line(colour = "blue", 
-                      size = 1, linetype = "solid"))+
-    geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") +
-
- geom_label(
-    label="Highest 25% Heart Rates", 
-    x="high",
-    y=0.5,
-    label.padding = unit(0.1, "lines"), # Rectangle size around label
-    label.size = 0.1,
-    color = "black",
-    fill="pink"
-  )+
-   geom_label(
-    label="Middle 50% Heart Rates", 
-    x="middle",
-    y=-0.3,
-    label.padding = unit(0.2, "lines"), # Rectangle size around label
-    label.size = 0.1,
-    color = "black",
-    fill="pink"
-  )+
-   geom_label(
-    label="Lowest 25% Heart Rates", 
-    x="low",
-    y=-0.2,
-    label.padding = unit(0.2, "lines"), # Rectangle size around label
-    label.size = 0.1,
-    color = "black",
-    fill="pink"
-  )
 
 ```
 
@@ -90,8 +29,8 @@ scores_and_vitals <- read_xlsx("Discontinuity Measures and Z scores.xlsx")
 
 
 
-glimpse(scores_and_vitals)
-view(scores_and_vitals)
+#glimpse(scores_and_vitals)
+#view(scores_and_vitals)
 
 
 ```
@@ -140,7 +79,7 @@ ggplot(scores_and_vitals, mapping = aes(`Heart Rate`,`Dimensional Score`, fill= 
                       size = 1, linetype = "solid"))+
     geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
 
-?geom_boxplot
+#?geom_boxplot
 
    
 ```
@@ -200,99 +139,14 @@ ggplot(scores_and_vitals, mapping = aes(x=`Heart Rate`, y= `Dimensional Score`, 
 
 ```
 
-```{r }
 
-
-mean_parents = mean(scores_and_vitals$`Parent Z Score`, na.rm = TRUE)
-
-mean_parents
-
-drop_na(scores_and_vitals)%>%
-ggplot(scores_and_vitals, mapping=aes (`Parent Z Score`)) +
-    geom_histogram(bins=20, fill="dodgerblue", color="lightgreen", alpha=0.8)+
-    
-    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
-#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
-  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
-  
-  scale_x_continuous(n.breaks = 25)+
-  geom_vline(xintercept = mean_parents , color = "#dc134c", size=1)+
-  scale_y_continuous(n.breaks = 5)+
-  labs(
-    title = "Histogram of Z Transformed Parent Aggression Scores",
-    ylab = " ",
-    xlab = " Z Scores "
-  )+
-  theme_calc()
- # scale_x_continuous(limits = c(-3.0, 3.0))
-  #                   breaks = seq(-3.0, 3.0, by=0.25)
- # scale_x_continuous(limits = c(55, 130),
-     #                breaks = seq(55, 130, by=5))+
-   #
-   #theme( axis.line = element_line(colour = "blue", 
-    #                  size = 1, linetype = "solid"))
-    #geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
-   
-
-
-```
-
-```{r}
-
-
-mean_child = mean(scores_and_vitals$`Child Z Score`, na.rm = TRUE)
-
-mean_child
-
-drop_na(scores_and_vitals)%>%
-  
-  ggplot(scores_and_vitals, mapping=aes (`Child Z Score`)) +
-    geom_histogram(bins=20, fill="lightgreen", color="dodgerblue", alpha=0.8)+
-    
-    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
-#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
-  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
-  
-  scale_x_continuous(n.breaks = 25)+
-  geom_vline(xintercept = mean_child , color = "#dc134c", size=1)+
-  scale_y_continuous(n.breaks = 5)+
-  labs(
-    title = "Histogram of Z Transformed Child Aggression Scores",
-    ylab = " ",
-    xlab = " Z Scores "
-  )+
-  theme_calc()
-
-```
-
-```{r }
-
-
-
-hist(scores_and_vitals$`Child Z Score`, xlim = c(-3, 4), breaks = seq(from= -3, to=4, by=0.25), ylim = c(0, 70), main= "Histogram of Child Z Scores", xlab = "z transformed aggression scores", ylab = "Frequency", las=1, col="blue")
-
-
-
-
-```
-
-```{r }
-
-
-
-hist(scores_and_vitals$`Parent Z Score`, xlim = c(-3, 4), breaks = seq(from= -3, to=4, by=0.25), ylim = c(0, 70), main= "Histogram of Parent Z Scores", xlab = "z transformed aggression scores", ylab = "Frequency", las=1, col="darkslategray4")
-
-
-
-
-```
 
 ```{r}
 
 
 tri_heart_rate <- read_xlsx("tri_hearts.xlsx")
 
-glimpse(tri_heart_rate)
+#glimpse(tri_heart_rate)
 
 
 ggplot(tri_heart_rate, mapping = aes(`Trichotomized Heart Rate`, `Mean Discontinuity Score`, fill= `Trichotomized Heart Rate`))+
@@ -315,7 +169,7 @@ ggplot(tri_heart_rate, mapping = aes(`Trichotomized Heart Rate`, `Mean Discontin
   
 ##   color = "green", fill="pink", label = "Child")
 
-View(tri_heart_rate)
+#View(tri_heart_rate)
 
     #tibble(tri_heart_rate)
  
@@ -343,6 +197,92 @@ ggplot(scores_and_vitals, mapping = aes( `Aggression Groups`, `Dimensional Score
   scale_fill_manual(values = c("red", "blue", "gold", "white"))+
  theme_classic()
 
+
+
+```
+
+
+
+
+
+```{r}
+
+
+summary(scores_and_vitals)
+
+drop_na(scores_and_vitals)%>%
+#scores_and_vitals %>%
+  summarise(Parent_Aggression_STDEV= sd(parent_aggression),
+          Child_Aggression_STDEV = sd(child_aggression)
+)
+
+```
+
+
+```{r }
+
+
+mean_parents = mean(scores_and_vitals$parent_aggression, na.rm = TRUE)
+
+mean_parents
+
+drop_na(scores_and_vitals)%>%
+ggplot(scores_and_vitals, mapping=aes (parent_aggression)) +
+    geom_histogram(bins=20, fill="dodgerblue", color="lightgreen", alpha=0.8)+
+    
+    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
+#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
+  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
+  
+  scale_x_continuous(n.breaks = 20)+
+  geom_vline(xintercept = mean_parents , color = "#dc134c", size=1)+
+  scale_y_continuous(n.breaks = 5)+
+  labs(
+    title = "Histogram of Z Transformed Parent Aggression Scores",
+    ylab = " ",
+    xlab = " Z Scores "
+  )+
+  theme_calc()
+ # scale_x_continuous(limits = c(-3.0, 3.0))
+  #                   breaks = seq(-3.0, 3.0, by=0.25)
+ # scale_x_continuous(limits = c(55, 130),
+     #                breaks = seq(55, 130, by=5))+
+   #
+   #theme( axis.line = element_line(colour = "blue", 
+    #                  size = 1, linetype = "solid"))
+    #geom_hline(yintercept = 0, linetype = "dotdash", color = "blue") 
+   
+
+
+```
+
+```{r}
+
+
+mean_child = mean(scores_and_vitals$child_aggression , na.rm = TRUE)
+
+mean_child
+
+drop_na(scores_and_vitals)%>%
+  
+  ggplot(scores_and_vitals, mapping=aes (child_aggression)) +
+    geom_histogram(bins=20, fill="lightgreen", color="dodgerblue", alpha=0.8)+
+    
+    #geom_vline(aes(xintercept= mean(`Parent Z Score` )))
+#ggplot(scores_and_vitals, mapping= aes( `Parent Z Score`))+
+  #geom_histogram( position="identity", alpha=0.6, fill= "dodgerblue", color="pink")+
+  
+  scale_x_continuous(n.breaks = 25)+
+  geom_vline(xintercept = mean_child , color = "#dc134c", size=1)+
+  scale_y_continuous(n.breaks = 5)+
+  labs(
+    title = "Histogram of Z Transformed Child Aggression Scores",
+    ylab = " ",
+    xlab = " Z Scores "
+  )+
+  theme_calc()
+
+```
 
 
 ```
