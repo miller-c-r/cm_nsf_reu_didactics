@@ -1,0 +1,87 @@
+---
+title: "SLIDESHOW A Review of Bipolar Disorder"
+format:
+  revealjs:
+    incremental: true
+    theme: simple
+    transition: slide
+editor: visual
+execute:
+  echo: false
+---
+
+## Navigation Link
+
+## Bipolar Disorder
+
+According to the National Institute of Mental Health (NIMH) bipolar disorder (formerly called manic-depressive illness or manic depression) is a mental illness that causes unusual shifts in a person’s mood, energy, activity levels, and concentration.
+
+## Three Types of Bipolar
+
+There are three types of bipolar disorder. All three types involve clear changes in mood, energy, and activity levels. Age of onset is late adolescence to young adulthood.
+
+Bipolar I
+
+Bipolar II
+
+Cyclothymic Disorder
+
+## Examples of Manic versus Depressive Symptoms are listed below:
+
+**MANIC Symptoms**
+
+Racing thoughts
+
+Feeling able to do many things at once without getting tired
+
+Having excessive appetite for food, drinking, sex, or other pleasurable activities
+
+**DEPRESSIVE SYMPTOMS**
+
+Having trouble concentrating or making decisions
+
+Having a lack of interest in almost all activities
+
+Feeling unable to do even simple things
+
+## Treatments
+
+Pharmacological treatments include lithium, anticonvulsants, antidepressants, antipsychotics.
+
+Non pharmacological treatment example is Psychotherapy.
+
+## Presenting Three Journal Articles
+
+-   Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation Streck, E. L.,et. al 2015
+
+-   Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
+
+-   Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology Sperry, S. H., et. al 2020
+
+## Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation
+
+Study Location Hypotheses Methods Findings
+
+## Hypotheses , Methods, Results
+
+## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
+
+Community or referred sample Hypotheses Methods Findings
+
+Hypothesis 1) Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.2) Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 3)Variability and inertia of NA and PA would be associated concurrently and three years later with major depressive episodes.
+
+## Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
+
+community or referred methods findings
+
+## References
+
+Bipolar Disorder—National Institute of Mental Health (NIMH). (n.d.). Retrieved May 3, 2024, from https://www.nimh.nih.gov/health/topics/bipolar-disorder
+
+Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. https://doi.org/10.1016/j.jad.2019.09.076
+
+Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. https://doi.org/10.1037/emo0000759
+
+## References
+
+Streck, E. L., Scaini, G., et. al (2015). Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation. Neurochemical Research, 40(6), 1144–1152. https://doi.org/10.1007/s11064-015-1575-4
