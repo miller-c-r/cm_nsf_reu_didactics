@@ -3,7 +3,7 @@ title: "SLIDESHOW A Review of Bipolar Disorder"
 format:
   revealjs:
     incremental: true
-    theme: simple
+    theme: [default, style.scss]
     transition: slide
 editor: visual
 execute:
