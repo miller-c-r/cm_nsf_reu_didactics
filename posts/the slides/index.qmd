@@ -12,6 +12,8 @@ execute:
 
 ## Navigation Link
 
+[HOMEPAGE](https://miller-c-r.github.io/cm_nsf_reu_didactics/)
+
 ## Bipolar Disorder
 
 According to the National Institute of Mental Health (NIMH) bipolar disorder (formerly called manic-depressive illness or manic depression) is a mental illness that causes unusual shifts in a person’s mood, energy, activity levels, and concentration.

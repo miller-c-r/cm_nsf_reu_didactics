@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/bipolar/index.html",
       "/posts/psychophys1/index.html",
       "/posts/psychophysneighbor/index.html",
       "/posts/psychophyspeers/index.html",
@@ -11,7 +10,8 @@
       "/posts/psychophys_final_project/index.html",
       "/posts/psycho_phys_graphs/cm_report_test1.html",
       "/posts/psycho_phys_graphs/index.html",
-      "/posts/psychstatistics/index.html"
+      "/posts/psychstatistics/index.html",
+      "/posts/the slides/index.html"
     ]
   }
 ]
