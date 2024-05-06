@@ -78,12 +78,12 @@ community or referred methods findings
 
 ## References
 
-Bipolar Disorder—National Institute of Mental Health (NIMH). (n.d.). Retrieved May 3, 2024, from https://www.nimh.nih.gov/health/topics/bipolar-disorder
+Bipolar Disorder—National Institute of Mental Health (NIMH). (n.d.). Retrieved May 3, 2024, from <https://www.nimh.nih.gov/health/topics/bipolar-disorder>
 
-Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. https://doi.org/10.1016/j.jad.2019.09.076
+Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. <https://doi.org/10.1016/j.jad.2019.09.076>
 
-Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. https://doi.org/10.1037/emo0000759
+Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. <https://doi.org/10.1037/emo0000759>
 
 ## References
 
-Streck, E. L., Scaini, G., et. al (2015). Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation. Neurochemical Research, 40(6), 1144–1152. https://doi.org/10.1007/s11064-015-1575-4
+Streck, E. L., Scaini, G., et. al (2015). Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation. Neurochemical Research, 40(6), 1144–1152. <https://doi.org/10.1007/s11064-015-1575-4>
