@@ -60,11 +60,57 @@ Non pharmacological treatment example is Psychotherapy.
 
 -   Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology Sperry, S. H., et. al 2020
 
-## Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation
+## Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation, 2015
 
-Study Location Hypotheses Methods Findings
+Study Location: Brazil 
 
-## Hypotheses , Methods, Results
+**Broad Question**
+
+Investigating circadian cycles and pathophysiology of affective disorders
+
+Studying an animal model of mania using sleep deprivation
+
+## Specific Questions
+
+Investigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours
+
+Mitochondrial Dysfunction and symptoms of Bipolar Disorder
+
+Investigating locomotor activity and mitochondrial respiratory chain enzymes along with effects of Lithium and Valproate
+
+## Materials & Methods
+
+
+Adult male mice 30-50kg Randomly assigned to three groups with two sleep conditions == **Six Groups.**
+
+Three groups of animals with Saline, Lithium, VPA 
+
+Sleep deprived Vs not sleep deprived in each group.
+
+The animals received injection of Li , VPA  or
+saline for 7 days, twice a day. 
+
+On day 3 of treatment, the animals in Li, VPA and saline groups were divided in two groups (15 animals per group): (1) non-deprived; (2)
+deprived and subjected to PSD for 96 h. 
+
+On day 7 of treatment the locomotor activity of animals was assessed
+1 h after the last injection of Li and VPA.
+
+## Methods cont'd 
+
+Achieving Sleep Deprivation
+
+Animals were placed on 10 circular platforms
+(3.5 cm in diameter) with water 1 cm below the upper. As they fall asleep they fall into water and wake up.
+
+## An Example of a Platform for Sleep Deprivation in Sleep Medicine Research
+
+![](waterPlatform.jpg){.absolute top="300" left="200" width="500" height="400"}
+
+Effect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study, Kim, Y. H., et al., 2020.
+
+
+
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
 
@@ -79,6 +125,9 @@ community or referred methods findings
 ## References
 
 Bipolar Disorder—National Institute of Mental Health (NIMH). (n.d.). Retrieved May 3, 2024, from <https://www.nimh.nih.gov/health/topics/bipolar-disorder>
+
+Kim, Y. H., Hong, J., Park, H., Jung, A.-Y., Lee, M. K., & Choi, J. H. (2020). Effect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study. Sleep Medicine Research, 11(1), 53–57. https://doi.org/10.17241/smr.2020.00528
+
 
 Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. <https://doi.org/10.1016/j.jad.2019.09.076>
 
