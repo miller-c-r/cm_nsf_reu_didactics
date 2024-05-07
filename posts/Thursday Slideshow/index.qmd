@@ -56,9 +56,9 @@ Non pharmacological treatment example is Psychotherapy.
 
 -   Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation Streck, E. L.,et. al 2015
 
--   Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
-
 -   Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology Sperry, S. H., et. al 2020
+
+-   Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
 
 ## Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation, 2015
 
@@ -127,41 +127,30 @@ Measured:
 
 -   PSD increased citrate synthase only in prefrontal cortex in mice
 
-
 ## Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers
 
--   Li and VPA, when administered to **non-deprived-saline groups** did not modify the activity of complexes (mitochondrial energy metabolism)
-except in cerebral cortex, where VPA increased complex II activity
+-   Li and VPA, when administered to **non-deprived-saline groups** did not modify the activity of complexes (mitochondrial energy metabolism) except in cerebral cortex, where VPA increased complex II activity
 
 -   PSD resulted in a marked reduction of **complex II–III** activity in hippocampus and striatum, and Li and VPA administration prevented this effect
 
 -   PSD resulted in inhibition of **complex IV** activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex
 
--   VPA administration prevented PSD-induced complex IV
-inhibition in prefrontal cortex, cerebellum, hippocampus,
-striatum and cerebral cortex
+-   VPA administration prevented PSD-induced complex IV inhibition in prefrontal cortex, cerebellum, hippocampus, striatum and cerebral cortex
 
-## Discussion 
+## Discussion
 
 -   Results showed that administration of Li and VPA was effective in preventing hyperactivity elicited by PSD.
 
--   When Li or VPA was administered in non-deprived group, no
-differences in locomotor and exploratory activities were
-observed, indicating that Li or VPA effects could not be
-attributed to sedation
+-   When Li or VPA was administered in non-deprived group, no differences in locomotor and exploratory activities were observed, indicating that Li or VPA effects could not be attributed to sedation
 
--   The inhibition of complex II–III can also frequently
-result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus,
+-   The inhibition of complex II–III can also frequently result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus,
 
-## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology 2020
-
-
-
+## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology (Sperry 2020)
 
 ## Hypotheses
 
 -   Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.
--   Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 
+-   Instability of NA and PA would predict development of new bipolar spectrum diagnoses.
 -   Variability and inertia of NA and PA would be associated concurrently and three years later with major depressive episodes.
 
 ## Methods
@@ -176,24 +165,18 @@ result in the generation of reactive oxygen species and PSD induced oxidative st
 
 ## Methods
 
--   After baseline assessment which included interviews supervised by clinical psychological professionals and conducted by grad students a diary was kept on a PDA. 
+-   After baseline assessment which included interviews supervised by clinical psychological professionals and conducted by grad students a diary was kept on a PDA.
 
--   ESM(diary) questionnaires were delivered eight times daily between noon and midnight for seven days. PDAs administered the questionnaires, time stamped, and recordedresponses. 
+-   ESM(diary) questionnaires were delivered eight times daily between noon and midnight for seven days. PDAs administered the questionnaires, time stamped, and recorded responses.
 
-
--   Participants had three minutes to initiate a response. Two primary indices were computed and used for the present study, NA
-(irritable, sad, worried, angy) and PA (happy, enthusiastic, energetic).
-
-
+-   Participants had three minutes to initiate a response with two primary indices Negative affect (irritable, sad, worried, angy) and Positive Affect (happy, enthusiastic, energetic).
 
 ## Results
 
--   NA variability was associated with bipolar spectrum disorders at baseline and follow-up. 
--   NA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the
-follow-up. NA inertia did not predict diagnoses or symptoms at either assessment. 
--   PA inertia predicted hyperthymic temperament at baseline but not follow-up. 
--   **NA variability and instability predicted the
-development of new bipolar spectrum disorders at the follow-up**
+-   NA variability was associated with bipolar spectrum disorders at baseline and follow-up.
+-   NA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the follow-up. NA inertia did not predict diagnoses or symptoms at either assessment.
+-   PA inertia predicted hyperthymic temperament at baseline but not follow-up.
+-   **NA variability and instability predicted the development of new bipolar spectrum disorders at the follow-up**
 
 ## Inferences
 
@@ -201,7 +184,23 @@ These findings indicate that broader bipolar phenotypes with more persistent cou
 
 ## Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
 
-community or referred methods findings
+## Goal
+
+Replicate findings of Sperry 2020. Use wider sampling period of 14 days
+
+## Hypotheses
+
+Bipolar spectrum psychopathology, as measured by the HPS, would be associated with
+
+-   hyperreactivity of high- and low-arousal NA and high-arousal PA,
+
+-   elevated variability and instability of high-arousal NA and PA
+
+-   large increases in NA and PA
+
+-   PA inertia within, but not between, days.
+
+-   It was predicted that bipolar spectrum psychopathology would be associated with these patterns of emotion dynamics over and above mean levels of NA and PA, neuroticism, and current depressive symptoms
 
 ## References
 
@@ -211,8 +210,8 @@ Kim, Y. H., Hong, J., Park, H., Jung, A.-Y., Lee, M. K., & Choi, J. H. (2020). E
 
 Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. <https://doi.org/10.1016/j.jad.2019.09.076>
 
-Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. <https://doi.org/10.1037/emo0000759>
-
 ## References
+
+Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. <https://doi.org/10.1037/emo0000759>
 
 Streck, E. L., Scaini, G., et. al (2015). Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation. Neurochemical Research, 40(6), 1144–1152. <https://doi.org/10.1007/s11064-015-1575-4>
