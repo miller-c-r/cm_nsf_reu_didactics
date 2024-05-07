@@ -76,7 +76,16 @@ Investigating the effects of lithium and valproate in an animal model of mania i
 
 Mitochondrial Dysfunction and symptoms of Bipolar Disorder
 
-Investigating locomotor activity and energy metabolism in brain tissue enzymes along with effects of Lithium and Valproate
+Investigating locomotor activity and energy metabolism in brain tissue along with effects of Lithium and Valproate
+
+## Background
+
+Postmortem, genetic, brain imaging and peripheral cell studies all support decreased mitochondrial activity in tissue of individuals with Bipolar Disorder
+
+Previous study Correa et al showed that citrate
+synthase (mitochondrial enzyme) activity was inhibited in rat hippocampus aftermania induced by amphetamine
+This was reversed by valproate (VPA) and lithium (Li) administration
+
 
 ## Materials & Methods
 
@@ -130,6 +139,13 @@ PSD increased citrate synthase only in prefrontal cortex in mice
 
 Malate dehydrogenase and succinate dehydrogenase activities were not altered by PSD
 
+
+## Results
+
+PSD resulted in a marked reduction of **complex II–III** activity in hippocampus and striatum, and Li and VPA administration prevented this effect
+
+PSD resulted in inhibition of **complex IV** activity; the administration of Li prevented PSD-induced reduction
+of complex IV only in prefrontal cortex
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
 

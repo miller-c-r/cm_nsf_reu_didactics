@@ -1446,7 +1446,7 @@
     "href": "posts/Thursday Slideshow/index.html#specific-questions",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Specific Questions",
-    "text": "Specific Questions\nInvestigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours\nMitochondrial Dysfunction and symptoms of Bipolar Disorder\nInvestigating locomotor activity and energy metabolism in brain tissue enzymes along with effects of Lithium and Valproate"
+    "text": "Specific Questions\nInvestigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours\nMitochondrial Dysfunction and symptoms of Bipolar Disorder\nInvestigating locomotor activity and energy metabolism in brain tissue along with effects of Lithium and Valproate"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#methods",
@@ -1496,5 +1496,19 @@
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Locomotor Activity",
     "text": "Locomotor Activity\nRandomly assigned for assessment of activity in an open area with grid for 5 minutes.\nMeasured:\nRearing behavior- the exploratory behavior\nNumber of times crossed mouse crossed a line"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#background",
+    "href": "posts/Thursday Slideshow/index.html#background",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Background",
+    "text": "Background\nPostmortem, genetic, brain imaging and peripheral cell studies all support decreased mitochondrial activity in tissue of individuals with Bipolar Disorder\nPrevious study Correa et al showed that citrate synthase (mitochondrial enzyme) activity was inhibited in rat hippocampus aftermania induced by amphetamine This was reversed by valproate (VPA) and lithium (Li) administration"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results-1",
+    "href": "posts/Thursday Slideshow/index.html#results-1",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\nPSD resulted in a marked reduction of complex II–III activity in hippocampus and striatum, and Li and VPA administration prevented this effect\nPSD resulted in inhibition of complex IV activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex"
   }
 ]
