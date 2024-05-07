@@ -166,6 +166,8 @@ result in the generation of reactive oxygen species and PSD induced oxidative st
 
 ## Methods
 
+-   Screening of 1200 students (community sample)
+
 -   Participants in the study were drawn from a longitudinal investigation of bipolar spectrum psychopathology.
 
 -   Participants who scored at least 1.5 SD above the mean on the Hypomanic Personality Scale and a comparable number who scored less than 1.5 SD above the mean were invited to participate
@@ -174,12 +176,12 @@ result in the generation of reactive oxygen species and PSD induced oxidative st
 
 ## Methods
 
--   After the interview at the baseline assessment, participants received a PDA and instructions on ESM procedures
+-   After baseline assessment which included interviews supervised by clinical psychological professionals and conducted by grad students a diary was kept on a PDA. 
 
--   ESM questionnaires were delivered eight times daily between noon and midnight for seven days. PDAs administered the questionnaires, time stamped, and recordedresponses. 
+-   ESM(diary) questionnaires were delivered eight times daily between noon and midnight for seven days. PDAs administered the questionnaires, time stamped, and recordedresponses. 
 
 
-Participants had three minutes to initiate a response. Two primary indices were computed and used for the present study, NA
+-   Participants had three minutes to initiate a response. Two primary indices were computed and used for the present study, NA
 (irritable, sad, worried, angy) and PA (happy, enthusiastic, energetic).
 
 
@@ -188,11 +190,10 @@ Participants had three minutes to initiate a response. Two primary indices were 
 
 -   NA variability was associated with bipolar spectrum disorders at baseline and follow-up. 
 -   NA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the
-follow-up. 
--   NA inertia did not predict diagnoses or symptoms at either assessment. 
+follow-up. NA inertia did not predict diagnoses or symptoms at either assessment. 
 -   PA inertia predicted hyperthymic temperament at baseline but not follow-up. 
--   Notably, NA variability and instability predicted the
-development of new bipolar spectrum disorders at the follow-up
+-   **NA variability and instability predicted the
+development of new bipolar spectrum disorders at the follow-up**
 
 ## Inferences
 
