@@ -62,7 +62,7 @@ Non pharmacological treatment example is Psychotherapy.
 
 ## Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation, 2015
 
-Study Location: Brazil 
+Study Location: Brazil
 
 **Broad Question**
 
@@ -82,31 +82,25 @@ Investigating locomotor activity and energy metabolism in brain tissue along wit
 
 Postmortem, genetic, brain imaging and peripheral cell studies all support decreased mitochondrial activity in tissue of individuals with Bipolar Disorder
 
-Previous study Correa et al showed that citrate
-synthase (mitochondrial enzyme) activity was inhibited in rat hippocampus aftermania induced by amphetamine
-This was reversed by valproate (VPA) and lithium (Li) administration
-
+Previous study Correa et al showed that citrate synthase (mitochondrial enzyme) activity was inhibited in rat hippocampus aftermania induced by amphetamine This was reversed by valproate (VPA) and lithium (Li) administration
 
 ## Materials & Methods
 
+1.  Adult male mice 30-50kg Randomly assigned to three groups with two sleep conditions == **Six Groups.**
 
-Adult male mice 30-50kg Randomly assigned to three groups with two sleep conditions == **Six Groups.**
+2.  Three groups of animals injected with Saline, Lithium, VPA: Sleep deprived Vs not sleep deprived in each group
 
-Three groups of animals injected with Saline, Lithium, VPA: Sleep deprived Vs not sleep deprived in each group.
+3.  The animals received injections for 7 days, twice a day.
 
-The animals received injections for 7 days, twice a day. 
+4.  **Day 3** animals were divided in two groups (15 animals per group): non sleep deprived vs sleep deprived.
 
-**Day 3** animals were divided in two groups (15 animals per group): non sleep deprived vs sleep deprived.
+5.  **Day 7** locomotor activity of animals was assessed 1 h after the last injection of Li and VPA.
 
-**Day 7** locomotor activity of animals was assessed
-1 h after the last injection of Li and VPA.
-
-## Methods cont'd 
+## Methods cont'd
 
 Achieving Sleep Deprivation
 
-Animals were placed on 10 circular platforms
-(3.5 cm in diameter) with water 1 cm below the upper. As they fall asleep they fall into water and wake up.
+Animals were placed on 10 circular platforms (3.5 cm in diameter) with water 1 cm below the upper. As they fall asleep they fall into water and wake up.
 
 ## An Example of a Platform for Sleep Deprivation in Sleep Medicine Research
 
@@ -116,42 +110,38 @@ Effect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study,
 
 ## Locomotor Activity
 
-Randomly assigned for assessment of activity in an open area with grid for 5 minutes. 
+Randomly assigned for assessment of activity in an open area with grid for 5 minutes.
 
 Measured:
 
-Rearing behavior- the exploratory behavior
+1.  Rearing behavior- the exploratory behavior
+2.  Number of times crossed mouse crossed a line
 
-Number of times crossed mouse crossed a line 
+## Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers
 
-## Results
+-   Mice submitted to PSD increased the number of crossings and rearings when compared to the control group
 
-Mice submitted to PSD increased the number of crossings and rearings
-when compared to the control group
+-   Mood stabilizers (Li and VPA) prevented these effects
 
-Mood stabilizers (Li and VPA) prevented these effects
+-   Injections of Li or VPA presented no effect in the increased activity of creatine kinase induced by PSD in hippocampus and cerebral cortex
 
+-   PSD increased citrate synthase only in prefrontal cortex in mice
 
-Injections of Li or VPA presented no effect in the increased activity of creatine kinase induced by PSD in hippocampus and
-cerebral cortex
+-   Malate dehydrogenase and succinate dehydrogenase activities were not altered by PSD
 
-PSD increased citrate synthase only in prefrontal cortex in mice
+## Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers
 
-Malate dehydrogenase and succinate dehydrogenase activities were not altered by PSD
+-   PSD resulted in a marked reduction of **complex II–III** activity in hippocampus and striatum, and Li and VPA administration prevented this effect
 
-
-## Results
-
-PSD resulted in a marked reduction of **complex II–III** activity in hippocampus and striatum, and Li and VPA administration prevented this effect
-
-PSD resulted in inhibition of **complex IV** activity; the administration of Li prevented PSD-induced reduction
-of complex IV only in prefrontal cortex
+-   PSD resulted in inhibition of **complex IV** activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
 
 Community or referred sample Hypotheses Methods Findings
 
-Hypothesis 1) Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.2) Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 3)Variability and inertia of NA and PA would be associated concurrently and three years later with major depressive episodes.
+-   Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.
+-   Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 
+-   Variability and inertia of NA and PA would be associated concurrently and three years later with major depressive episodes.
 
 ## Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
 
@@ -162,7 +152,6 @@ community or referred methods findings
 Bipolar Disorder—National Institute of Mental Health (NIMH). (n.d.). Retrieved May 3, 2024, from <https://www.nimh.nih.gov/health/topics/bipolar-disorder>
 
 Kim, Y. H., Hong, J., Park, H., Jung, A.-Y., Lee, M. K., & Choi, J. H. (2020). Effect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study. Sleep Medicine Research, 11(1), 53–57. https://doi.org/10.17241/smr.2020.00528
-
 
 Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrently and prospectively predict mood psychopathology. Journal of Affective Disorders, 261, 67–75. <https://doi.org/10.1016/j.jad.2019.09.076>
 
