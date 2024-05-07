@@ -105,7 +105,7 @@ Animals were placed on 10 circular platforms
 
 ## An Example of a Platform for Sleep Deprivation in Sleep Medicine Research
 
-![](waterPlatform.jpg){.absolute top="300" left="200" width="500" height="400"}
+![](waterPlatform.jpg){.absolute top="300" left="700" width="500" height="400"}
 
 Effect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study, Kim, Y. H., et al., 2020.
 
