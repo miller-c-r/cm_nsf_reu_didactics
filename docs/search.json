@@ -1446,7 +1446,7 @@
     "href": "posts/Thursday Slideshow/index.html#specific-questions",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Specific Questions",
-    "text": "Specific Questions\nInvestigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours\nMitochondrial Dysfunction and symptoms of Bipolar Disorder\nInvestigating locomotor activity and mitochondrial respiratory chain enzymes along with effects of Lithium and Valproate"
+    "text": "Specific Questions\nInvestigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours\nMitochondrial Dysfunction and symptoms of Bipolar Disorder\nInvestigating locomotor activity and energy metabolism in brain tissue enzymes along with effects of Lithium and Valproate"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#methods",
@@ -1460,7 +1460,7 @@
     "href": "posts/Thursday Slideshow/index.html#materials-methods",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Materials & Methods",
-    "text": "Materials & Methods\nAdult male mice 30-50kg Randomly assigned to three groups with two sleep conditions == Six Groups.\nThree groups of animals with Saline, Lithium, VPA\nSleep deprived Vs not sleep deprived in each group.\nThe animals received injection of Li , VPA or saline for 7 days, twice a day.\nOn day 3 of treatment, the animals in Li, VPA and saline groups were divided in two groups (15 animals per group): (1) non-deprived; (2) deprived and subjected to PSD for 96 h.\nOn day 7 of treatment the locomotor activity of animals was assessed 1 h after the last injection of Li and VPA."
+    "text": "Materials & Methods\nAdult male mice 30-50kg Randomly assigned to three groups with two sleep conditions == Six Groups.\nThree groups of animals injected with Saline, Lithium, VPA: Sleep deprived Vs not sleep deprived in each group.\nThe animals received injections for 7 days, twice a day.\nDay 3 animals were divided in two groups (15 animals per group): non sleep deprived vs sleep deprived.\nDay 7 locomotor activity of animals was assessed 1 h after the last injection of Li and VPA."
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#methods-contd",
@@ -1482,5 +1482,19 @@
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "An Example of a Platform for Sleep Deprivation in Sleep Medicine Research",
     "text": "An Example of a Platform for Sleep Deprivation in Sleep Medicine Research\n\nEffect of Sleep Deprivation on the Inflammatory Response in Rats: A Pilot Study, Kim, Y. H., et al., 2020."
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results",
+    "href": "posts/Thursday Slideshow/index.html#results",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\nMice submitted to PSD increased the number of crossings and rearings when compared to the control group"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#locomotor-activity",
+    "href": "posts/Thursday Slideshow/index.html#locomotor-activity",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Locomotor Activity",
+    "text": "Locomotor Activity\nRandomly assigned for assessment of activity in an open area with grid for 5 minutes.\nMeasured:\nRearing behavior- the exploratory behavior\nNumber of times crossed mouse crossed a line"
   }
 ]
