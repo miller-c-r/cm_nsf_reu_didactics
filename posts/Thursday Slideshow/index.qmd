@@ -164,6 +164,40 @@ result in the generation of reactive oxygen species and PSD induced oxidative st
 -   Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 
 -   Variability and inertia of NA and PA would be associated concurrently and three years later with major depressive episodes.
 
+## Methods
+
+-   Participants in the study were drawn from a longitudinal investigation of bipolar spectrum psychopathology.
+
+-   Participants who scored at least 1.5 SD above the mean on the Hypomanic Personality Scale and a comparable number who scored less than 1.5 SD above the mean were invited to participate
+
+-   n=138
+
+## Methods
+
+-   After the interview at the baseline assessment, participants received a PDA and instructions on ESM procedures
+
+-   ESM questionnaires were delivered eight times daily between noon and midnight for seven days. PDAs administered the questionnaires, time stamped, and recordedresponses. 
+
+
+Participants had three minutes to initiate a response. Two primary indices were computed and used for the present study, NA
+(irritable, sad, worried, angy) and PA (happy, enthusiastic, energetic).
+
+
+
+## Results
+
+-   NA variability was associated with bipolar spectrum disorders at baseline and follow-up. 
+-   NA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the
+follow-up. 
+-   NA inertia did not predict diagnoses or symptoms at either assessment. 
+-   PA inertia predicted hyperthymic temperament at baseline but not follow-up. 
+-   Notably, NA variability and instability predicted the
+development of new bipolar spectrum disorders at the follow-up
+
+## Inferences
+
+These findings indicate that broader bipolar phenotypes with more persistent courses (e.g., hyperthymic temperament, bipolar II ½) may be characterized by more moment-to-moment affective lability than more episodic courses
+
 ## Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
 
 community or referred methods findings
