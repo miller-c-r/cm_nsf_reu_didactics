@@ -72,11 +72,11 @@ Studying an animal model of mania using sleep deprivation
 
 ## Specific Questions
 
-Investigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours
+-   Investigating the effects of lithium and valproate in an animal model of mania induced by paradoxical sleep deprivation for 96 hours
 
-Mitochondrial Dysfunction and symptoms of Bipolar Disorder
+-   Mitochondrial Dysfunction and symptoms of Bipolar Disorder
 
-Investigating locomotor activity and energy metabolism in brain tissue along with effects of Lithium and Valproate
+-   Investigating locomotor activity and energy metabolism in brain tissue along with effects of Lithium and Valproate
 
 ## Background
 
@@ -119,7 +119,7 @@ Measured:
 
 ## Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers
 
--   Mice submitted to PSD increased the number of crossings and rearings when compared to the control group
+-   PSD mice increased the number of crossings and rearings when compared to the control group
 
 -   Mood stabilizers (Li and VPA) prevented these effects
 
@@ -127,7 +127,6 @@ Measured:
 
 -   PSD increased citrate synthase only in prefrontal cortex in mice
 
--   Malate dehydrogenase and succinate dehydrogenase activities were not altered by PSD
 
 ## Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers
 
@@ -154,9 +153,12 @@ attributed to sedation
 -   The inhibition of complex II–III can also frequently
 result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus,
 
-## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
+## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology 2020
 
-Community or referred sample Hypotheses Methods Findings
+
+
+
+## Hypotheses
 
 -   Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.
 -   Instability of NA and PA would predict development of new bipolar spectrum diagnoses. 
