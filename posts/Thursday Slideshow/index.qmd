@@ -120,6 +120,16 @@ Number of times crossed mouse crossed a line
 Mice submitted to PSD increased the number of crossings and rearings
 when compared to the control group
 
+Mood stabilizers (Li and VPA) prevented these effects
+
+
+Injections of Li or VPA presented no effect in the increased activity of creatine kinase induced by PSD in hippocampus and
+cerebral cortex
+
+PSD increased citrate synthase only in prefrontal cortex in mice
+
+Malate dehydrogenase and succinate dehydrogenase activities were not altered by PSD
+
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology
 
