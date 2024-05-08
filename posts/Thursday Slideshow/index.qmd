@@ -147,6 +147,14 @@ Measured:
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology (Sperry 2020)
 
+## Key Terms
+
+Four emotion dynamics for negative affect (NA) and positive affect (PA)
+
+–     Variability: within-person variance (variability), 
+-   Instability: mean square of successive differences and probability of acute change 
+-   Inertia: autocorrelation. 
+
 ## Hypotheses
 
 -   Variability and Instability of Negative Affect and Positive Affect but not inertia of NA or PA would be associated with DSM-IV-TR bipolar disorders.
