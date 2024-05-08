@@ -152,8 +152,9 @@ Measured:
 Four emotion dynamics for negative affect (NA) and positive affect (PA)
 
 –     Variability: within-person variance (variability), 
--   Instability: mean square of successive differences and probability of acute change 
--   Inertia: autocorrelation. 
+-   Instability: mean square of successive differences & probability of acute change 
+Moment to moment fluctuations in emotion
+-   Inertia: autocorrelation, emotions resistant to change.
 
 ## Hypotheses
 
@@ -180,6 +181,10 @@ Four emotion dynamics for negative affect (NA) and positive affect (PA)
 -   Participants had three minutes to initiate a response with two primary indices Negative affect (irritable, sad, worried, angy) and Positive Affect (happy, enthusiastic, energetic).
 
 ## Results
+
+Consistent with the recruitment strategy and young age of the participants, only 50% had developed diagnosable psychopathology by the time of the follow-up assessment
+
+## Results 
 
 -   NA variability was associated with bipolar spectrum disorders at baseline and follow-up.
 -   NA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the follow-up. NA inertia did not predict diagnoses or symptoms at either assessment.
@@ -223,3 +228,10 @@ Sperry, S. H., Walsh, M. A., & Kwapil, T. R. (2020). Emotion dynamics concurrent
 Sperry, S. H., & Kwapil, T. R. (2022). Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Emotion, 22(4), 627–640. <https://doi.org/10.1037/emo0000759>
 
 Streck, E. L., Scaini, G., et. al (2015). Effects of Mood Stabilizers on Brain Energy Metabolism in Mice Submitted to an Animal Model of Mania Induced by Paradoxical Sleep Deprivation. Neurochemical Research, 40(6), 1144–1152. <https://doi.org/10.1007/s11064-015-1575-4>
+
+
+## THE END
+
+THANK YOU !!
+
+C MILLER
