@@ -133,6 +133,10 @@ Measured:
 
 -   PSD resulted in a marked reduction of **complex II–III** activity in hippocampus and striatum, and Li and VPA administration prevented this effect
 
+-   The inhibition of complex II–III can also frequently result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus
+
+## Results 
+
 -   PSD resulted in inhibition of **complex IV** activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex
 
 -   VPA administration prevented PSD-induced complex IV inhibition in prefrontal cortex, cerebellum, hippocampus, striatum and cerebral cortex
@@ -143,15 +147,21 @@ Measured:
 
 -   When Li or VPA was administered in non-deprived group, no differences in locomotor and exploratory activities were observed, indicating that Li or VPA effects could not be attributed to sedation
 
--   The inhibition of complex II–III can also frequently result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus,
 
 ## Emotion Dynamics Concurrently and Prospectively Predict Mood Psychopathology (Sperry 2020)
+
+## Broad Topic
+
+-   Affective lability in bipolar disorder both as part of active episodes and during times of symptom remission
+
+
+-   Modeling emotion dynamics. They can be modeled across many timescales (moment- to-moment, day-to-day, week-to-week, etc.)
 
 ## Key Terms
 
 Four emotion dynamics for negative affect (NA) and positive affect (PA)
 
-–     Variability: within-person variance (variability), 
+-   Variability: within-person variance (variability), 
 -   Instability: mean square of successive differences & probability of acute change 
 Moment to moment fluctuations in emotion
 -   Inertia: autocorrelation, emotions resistant to change.
@@ -197,9 +207,11 @@ These findings indicate that broader bipolar phenotypes with more persistent cou
 
 ## Bipolar spectrum psychopathology is associated with altered emotion dynamics across multiple timescales. Sperry, S. H., et. al 2022
 
-## Goal
+## Broad Topic
 
-Replicate findings of Sperry 2020. Use wider sampling period of 14 days
+Examining microlevel dynamics of the experience of emotion.
+
+High and low arousal level of positive and negative emotions.
 
 ## Hypotheses
 
@@ -209,11 +221,37 @@ Bipolar spectrum psychopathology, as measured by the HPS, would be associated wi
 
 -   elevated variability and instability of high-arousal NA and PA
 
--   large increases in NA and PA
+-   large increases in Negative Affect and Positive Affect
 
 -   PA inertia within, but not between, days.
 
 -   It was predicted that bipolar spectrum psychopathology would be associated with these patterns of emotion dynamics over and above mean levels of NA and PA, neuroticism, and current depressive symptoms
+
+## Methods
+
+Hypomanic Personality Scale (HPS), is associated with altered dynamics of positive (PA) and negative affect (NA) across multiple timescales. 
+
+Young adults (n =233) oversampled for high HPS scores (> 1.5 SD) completed self-report questionnaires and 14 days of experience sampling questionnaires assessing high- and low-arousal NA and PA. 
+
+Four emotion dynamics (reactivity, variability, instability, inertia) were computed from each participant’s time series.
+
+## Results
+
+Findings indicated that microlevel emotion dynamics are disrupted
+across multiple timescales in those high in bipolar spectrum psychopathology
+
+## Results 
+-   HPS scores were positively associated with variability and instability of high-arousal NA and PA both within and between days (over and above mean levels of emotions, depression, and neuroticism). 
+
+-   Further, HPS scores were associated with large
+fluctuations in low- but not high-arousal NA and moderated stress reactivity. 
+
+## Results 
+-   Specifically, high scorers on the HPS were more likely to report feeling like their emotions were out of control (but not
+high-intensity NA) when experiencing stress. 
+
+-   Contrary to expectation, HPS scores were unassociated
+with inertia of high-arousal PA. 
 
 ## References
 

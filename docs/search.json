@@ -1488,7 +1488,7 @@
     "href": "posts/Thursday Slideshow/index.html#results",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Results",
-    "text": "Results\nConsistent with the recruitment strategy and young age of the participants, only 50% had developed diagnosable psychopathology by the time of the follow-up assessment"
+    "text": "Results\n\nPSD resulted in inhibition of complex IV activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex\nVPA administration prevented PSD-induced complex IV inhibition in prefrontal cortex, cerebellum, hippocampus, striatum and cerebral cortex"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#locomotor-activity",
@@ -1509,7 +1509,7 @@
     "href": "posts/Thursday Slideshow/index.html#results-1",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Results",
-    "text": "Results\n\nNA variability was associated with bipolar spectrum disorders at baseline and follow-up.\nNA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the follow-up. NA inertia did not predict diagnoses or symptoms at either assessment.\nPA inertia predicted hyperthymic temperament at baseline but not follow-up.\nNA variability and instability predicted the development of new bipolar spectrum disorders at the follow-up"
+    "text": "Results\nConsistent with the recruitment strategy and young age of the participants, only 50% had developed diagnosable psychopathology by the time of the follow-up assessment"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#results-of-sleep-deprivation-and-energy-metabolism",
@@ -1530,14 +1530,14 @@
     "href": "posts/Thursday Slideshow/index.html#results-of-sleep-deprivation-energy-metabolism-and-mood-stabilizers-1",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers",
-    "text": "Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers\n\nLi and VPA, when administered to non-deprived-saline groups did not modify the activity of complexes (mitochondrial energy metabolism) except in cerebral cortex, where VPA increased complex II activity\nPSD resulted in a marked reduction of complex II–III activity in hippocampus and striatum, and Li and VPA administration prevented this effect\nPSD resulted in inhibition of complex IV activity; the administration of Li prevented PSD-induced reduction of complex IV only in prefrontal cortex\nVPA administration prevented PSD-induced complex IV inhibition in prefrontal cortex, cerebellum, hippocampus, striatum and cerebral cortex"
+    "text": "Results of Sleep Deprivation, Energy Metabolism and Mood Stabilizers\n\nLi and VPA, when administered to non-deprived-saline groups did not modify the activity of complexes (mitochondrial energy metabolism) except in cerebral cortex, where VPA increased complex II activity\nPSD resulted in a marked reduction of complex II–III activity in hippocampus and striatum, and Li and VPA administration prevented this effect\nThe inhibition of complex II–III can also frequently result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#discussion",
     "href": "posts/Thursday Slideshow/index.html#discussion",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Discussion",
-    "text": "Discussion\n\nResults showed that administration of Li and VPA was effective in preventing hyperactivity elicited by PSD.\nWhen Li or VPA was administered in non-deprived group, no differences in locomotor and exploratory activities were observed, indicating that Li or VPA effects could not be attributed to sedation\nThe inhibition of complex II–III can also frequently result in the generation of reactive oxygen species and PSD induced oxidative stress in cortex and hippocampus,"
+    "text": "Discussion\n\nResults showed that administration of Li and VPA was effective in preventing hyperactivity elicited by PSD.\nWhen Li or VPA was administered in non-deprived group, no differences in locomotor and exploratory activities were observed, indicating that Li or VPA effects could not be attributed to sedation"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#hypotheses",
@@ -1586,14 +1586,14 @@
     "href": "posts/Thursday Slideshow/index.html#hypotheses-1",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Hypotheses",
-    "text": "Hypotheses\nBipolar spectrum psychopathology, as measured by the HPS, would be associated with\n\nhyperreactivity of high- and low-arousal NA and high-arousal PA,\nelevated variability and instability of high-arousal NA and PA\nlarge increases in NA and PA\nPA inertia within, but not between, days.\nIt was predicted that bipolar spectrum psychopathology would be associated with these patterns of emotion dynamics over and above mean levels of NA and PA, neuroticism, and current depressive symptoms"
+    "text": "Hypotheses\nBipolar spectrum psychopathology, as measured by the HPS, would be associated with\n\nhyperreactivity of high- and low-arousal NA and high-arousal PA,\nelevated variability and instability of high-arousal NA and PA\nlarge increases in Negative Affect and Positive Affect\nPA inertia within, but not between, days.\nIt was predicted that bipolar spectrum psychopathology would be associated with these patterns of emotion dynamics over and above mean levels of NA and PA, neuroticism, and current depressive symptoms"
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#key-terms",
     "href": "posts/Thursday Slideshow/index.html#key-terms",
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "Key Terms",
-    "text": "Key Terms\nFour emotion dynamics for negative affect (NA) and positive affect (PA)\n– Variability: within-person variance (variability), - Instability: mean square of successive differences & probability of acute change Moment to moment fluctuations in emotion - Inertia: autocorrelation, emotions resistant to change."
+    "text": "Key Terms\nFour emotion dynamics for negative affect (NA) and positive affect (PA)\n\nVariability: within-person variance (variability),\nInstability: mean square of successive differences & probability of acute change Moment to moment fluctuations in emotion\nInertia: autocorrelation, emotions resistant to change."
   },
   {
     "objectID": "posts/Thursday Slideshow/index.html#the-end",
@@ -1601,5 +1601,54 @@
     "title": "SLIDESHOW A Review of Bipolar Disorder",
     "section": "THE END",
     "text": "THE END\nTHANK YOU !!\nC MILLER"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#broad-topic",
+    "href": "posts/Thursday Slideshow/index.html#broad-topic",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Broad Topic",
+    "text": "Broad Topic\n\nAffective lability in bipolar disorder both as part of active episodes and during times of symptom remission\nModeling emotion dynamics. They can be modeled across many timescales (moment- to-moment, day-to-day, week-to-week, etc.)"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#broad-topic-1",
+    "href": "posts/Thursday Slideshow/index.html#broad-topic-1",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Broad Topic",
+    "text": "Broad Topic\nExamining microlevel dynamics of the experience of emotion.\nHigh and low arousal level of positive and negative emotions."
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#methods-2",
+    "href": "posts/Thursday Slideshow/index.html#methods-2",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Methods",
+    "text": "Methods\nHypomanic Personality Scale (HPS), is associated with altered dynamics of positive (PA) and negative affect (NA) across multiple timescales.\nYoung adults (n =233) oversampled for high HPS scores (&gt; 1.5 SD) completed self-report questionnaires and 14 days of experience sampling questionnaires assessing high- and low-arousal NA and PA.\nFour emotion dynamics (reactivity, variability, instability, inertia) were computed from each participant’s time series."
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results-2",
+    "href": "posts/Thursday Slideshow/index.html#results-2",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\n\nNA variability was associated with bipolar spectrum disorders at baseline and follow-up.\nNA instability predicted depressive symptoms and hypomanic personality at baseline, and bipolar spectrum disorders at the follow-up. NA inertia did not predict diagnoses or symptoms at either assessment.\nPA inertia predicted hyperthymic temperament at baseline but not follow-up.\nNA variability and instability predicted the development of new bipolar spectrum disorders at the follow-up"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results-3",
+    "href": "posts/Thursday Slideshow/index.html#results-3",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\nFindings indicated that microlevel emotion dynamics are disrupted across multiple timescales in those high in bipolar spectrum psychopathology"
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results-4",
+    "href": "posts/Thursday Slideshow/index.html#results-4",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\n\nHPS scores were positively associated with variability and instability of high-arousal NA and PA both within and between days (over and above mean levels of emotions, depression, and neuroticism).\nFurther, HPS scores were associated with large fluctuations in low- but not high-arousal NA and moderated stress reactivity."
+  },
+  {
+    "objectID": "posts/Thursday Slideshow/index.html#results-5",
+    "href": "posts/Thursday Slideshow/index.html#results-5",
+    "title": "SLIDESHOW A Review of Bipolar Disorder",
+    "section": "Results",
+    "text": "Results\n\nSpecifically, high scorers on the HPS were more likely to report feeling like their emotions were out of control (but not high-intensity NA) when experiencing stress.\nContrary to expectation, HPS scores were unassociated with inertia of high-arousal PA."
   }
 ]
